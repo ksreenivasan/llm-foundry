@@ -1,0 +1,6 @@
+icl_tasks:
+-
+  label: addition
+  dataset_uri: eval/local_data/3_digit_addition_data.jsonl
+  num_fewshot: [0]
+  icl_task_type: question_answering
