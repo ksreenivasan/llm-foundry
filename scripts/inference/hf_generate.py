@@ -137,9 +137,15 @@ def load_prompt_string_from_file(prompt_path_str: str):
     if not os.path.isfile(prompt_file_path):
         raise FileNotFoundError(
             f'{prompt_file_path=} does not match any existing files.')
+    # @KS: I'd like this to read multiline prompts nicely
     with open(prompt_file_path, 'r') as f:
-        prompt_string = ''.join(f.readlines())
-    return prompt_string
+        prompt_strings = f.readlines()
+        prompt_strings = [p.strip() for p in prompt_strings]
+        # delete empty prompts
+        prompt_strings = [p for p in prompt_strings if p != '']
+        # not sure how nicely this is handling "\n"s but let's see
+    return prompt_strings
+
 
 
 def maybe_synchronize():
@@ -157,7 +163,10 @@ def main(args: Namespace) -> None:
     for prompt in args.prompts:
         if prompt.startswith('file::'):
             prompt = load_prompt_string_from_file(prompt)
-        prompt_strings.append(prompt)
+        if type(prompt_strings) == list:
+            prompt_strings += prompt
+        else:
+            prompt_strings.append(prompt)
 
     # Grab config first
     print(f'Loading HF Config...')
