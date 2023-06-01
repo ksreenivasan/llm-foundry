@@ -126,6 +126,10 @@ def parse_args() -> Namespace:
     #                     nargs='?',
     #                     const=True,
     #                     default=False)
+    parser.add_argument('--ift_style',
+                        action='store_true',
+                        default=False)
+
     return parser.parse_args()
 
 
@@ -189,7 +193,7 @@ def main(args: Namespace) -> None:
     prompt_strings = []
     for prompt in args.prompts:
         if prompt.startswith('file::'):
-            prompt = load_prompt_string_from_file(prompt)
+            prompt = load_prompt_string_from_file(prompt, IFT_STYLE=args.ift_style)
         if type(prompt_strings) == list:
             prompt_strings += prompt
         else:
