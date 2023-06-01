@@ -129,7 +129,24 @@ def parse_args() -> Namespace:
     return parser.parse_args()
 
 
-def load_prompt_string_from_file(prompt_path_str: str):
+# copied the IFT stuff straight from https://huggingface.co/spaces/mosaicml/mpt-7b-instruct/blob/main/quick_pipeline.py
+
+INSTRUCTION_KEY = "### Instruction:"
+RESPONSE_KEY = "### Response:"
+END_KEY = "### End"
+INTRO_BLURB = "Below is an instruction that describes a task. Write a response that appropriately completes the request."
+PROMPT_FOR_GENERATION_FORMAT = """{intro}
+{instruction_key}
+{instruction}
+{response_key}
+""".format(
+    intro=INTRO_BLURB,
+    instruction_key=INSTRUCTION_KEY,
+    instruction="{instruction}",
+    response_key=RESPONSE_KEY,
+)
+
+def load_prompt_string_from_file(prompt_path_str: str, IFT_STYLE=False):
     if not prompt_path_str.startswith('file::'):
         raise ValueError('prompt_path_str must start with "file::".')
     _, prompt_file_path = prompt_path_str.split('file::', maxsplit=1)
@@ -138,12 +155,22 @@ def load_prompt_string_from_file(prompt_path_str: str):
         raise FileNotFoundError(
             f'{prompt_file_path=} does not match any existing files.')
     # @KS: I'd like this to read multiline prompts nicely
+    # Unless IFT_STYLE=True, in which case we need to handle this carefully
     with open(prompt_file_path, 'r') as f:
-        prompt_strings = f.readlines()
-        prompt_strings = [p.strip() for p in prompt_strings]
-        # delete empty prompts
-        prompt_strings = [p for p in prompt_strings if p != '']
-        # not sure how nicely this is handling "\n"s but let's see
+        if not IFT_STYLE:
+            prompt_strings = f.readlines()
+            prompt_strings = [p.strip() for p in prompt_strings]
+            # delete empty prompts
+            prompt_strings = [p for p in prompt_strings if p != '']
+            # not sure how nicely this is handling "\n"s but let's see
+        else:
+            # since it is IFT style, we need to handle the newlines
+            # also look for the first empty "Response" line and gen only after that
+            prompt_strings = f.read()
+            prompt_strings = prompt_strings.split(f'{RESPONSE_KEY}\n{INTRO_BLURB}')
+            # now reintroduce response key and intro blurb
+            prompt_strings = [f'{INTRO_BLURB}{p}' for p in prompt_strings[1:]]
+            prompt_strings = [f'{p}{RESPONSE_KEY}\n' for p in prompt_strings]
     return prompt_strings
 
 
