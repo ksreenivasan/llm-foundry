@@ -173,7 +173,7 @@ def load_prompt_string_from_file(prompt_path_str: str, IFT_STYLE=False):
             prompt_strings = f.read()
             prompt_strings = prompt_strings.split(f'{RESPONSE_KEY}\n{INTRO_BLURB}')
             # now reintroduce response key and intro blurb
-            prompt_strings = [f'{INTRO_BLURB}{p}' for p in prompt_strings[1:]]
+            prompt_strings[1:] = [f'{INTRO_BLURB}{p}' for p in prompt_strings[1:]]
             prompt_strings = [f'{p}{RESPONSE_KEY}\n' for p in prompt_strings]
     return prompt_strings
 

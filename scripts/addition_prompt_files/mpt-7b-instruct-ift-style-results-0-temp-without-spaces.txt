@@ -18,6 +18,12 @@ Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
+327+18=
+### Response:
+[0m335
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
 79+784=
 ### Response:
 [0m79+784=821
@@ -38,7 +44,7 @@ Generating responses...
 ### Instruction:
 188+887=
 ### Response:
-[0mThe correct answer is 995.
+[0mThe answer is 1685
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -62,13 +68,13 @@ Generating responses...
 ### Instruction:
 588+520=
 ### Response:
-[0m1328
+[0m1288
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 748+517=
 ### Response:
-[0m1475
+[0m1575
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -116,7 +122,7 @@ Generating responses...
 ### Instruction:
 719+455=
 ### Response:
-[0m1374
+[0m1274
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -164,7 +170,7 @@ Generating responses...
 ### Instruction:
 172+875=
 ### Response:
-[0mThe answer is 1728.
+[0mThe answer is 1728
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -188,7 +194,7 @@ Generating responses...
 ### Instruction:
 108+538=
 ### Response:
-[0mThe correct answer is 656.
+[0m555
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -266,7 +272,7 @@ Generating responses...
 ### Instruction:
 731+425=
 ### Response:
-[0m1256
+[0m1556
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -314,7 +320,7 @@ Generating responses...
 ### Instruction:
 222+363=
 ### Response:
-[0m555
+[0m585
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -338,13 +344,13 @@ Generating responses...
 ### Instruction:
 888+418=
 ### Response:
-[0m926
+[0m1526
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 573+458=
 ### Response:
-[0m1,131
+[0m1145
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -400,20 +406,6 @@ Generating responses...
 ### Response:
 [0m336
 ####################################################################################################
-bs=64, input_tokens=array([33, 32, 33, 32, 32, 33, 32, 32, 33, 33, 32, 32, 32, 32, 33, 32, 33,
-       32, 32, 33, 32, 32, 32, 33, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32,
-       32, 32, 34, 32, 32, 32, 33, 33, 32, 32, 32, 32, 32, 32, 32, 32, 32,
-       32, 32, 32, 32, 32, 33, 33, 33, 32, 33, 33, 32, 32]), output_tokens=array([7, 2, 2, 7, 1, 2, 1, 2, 2, 2, 1, 2, 1, 2, 5, 6, 2, 2, 1, 5, 2, 2,
-       2, 2, 6, 2, 2, 2, 7, 2, 2, 6, 2, 5, 5, 2, 2, 2, 2, 2, 6, 2, 1, 5,
-       6, 2, 4, 2, 5, 1, 2, 1, 4, 2, 3, 2, 5, 2, 7, 5, 5, 2, 1, 1])
-total_input_tokens=2066, total_output_tokens=190
-encode_latency=3.21ms, gen_latency=318.22ms, decode_latency=2.45ms, total_latency=323.87ms
-latency_per_output_token=1.70ms/tok
-output_tok_per_sec=586.65tok/sec
-
-Tokenizing prompts...
-Generating responses...
-####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 208+680=
@@ -466,7 +458,7 @@ Generating responses...
 ### Instruction:
 43+349=
 ### Response:
-[0m43+349=482
+[0mThe answer is 682
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -490,7 +482,7 @@ Generating responses...
 ### Instruction:
 997+73=
 ### Response:
-[0m1020
+[0m1070
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -502,7 +494,7 @@ Generating responses...
 ### Instruction:
 514+655=
 ### Response:
-[0mThe answer is 1289
+[0mThe correct answer is 1289.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -550,7 +542,7 @@ Generating responses...
 ### Instruction:
 584+295=
 ### Response:
-[0m1079
+[0m819
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -604,7 +596,7 @@ Generating responses...
 ### Instruction:
 191+974=
 ### Response:
-[0m1025
+[0m975
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -664,31 +656,31 @@ Generating responses...
 ### Instruction:
 992+664=
 ### Response:
-[0m1056
+[0m1068
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 730+666=
 ### Response:
-[0mThe answer is 1.
+[0mThe answer is 1
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 280+710=
 ### Response:
-[0mThe answer is 20.
+[0mThe answer is 1
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 811+561=
 ### Response:
-[0m1472
+[0m1363
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 598+71=
 ### Response:
-[0m700
+[0m619
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -700,7 +692,7 @@ Generating responses...
 ### Instruction:
 615+137=
 ### Response:
-[0m652
+[0m662
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -718,7 +710,7 @@ Generating responses...
 ### Instruction:
 510+462=
 ### Response:
-[0mYes, the answer is correct.
+[0mThe answer is "yes"
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -792,25 +784,32 @@ Generating responses...
 ### Response:
 [0m1476
 ####################################################################################################
+bs=128, input_tokens=array([32, 33, 32, 33, 32, 32, 33, 32, 32, 33, 33, 32, 32, 32, 32, 33, 32,
+       33, 32, 32, 33, 32, 32, 32, 33, 32, 32, 32, 32, 32, 32, 32, 32, 32,
+       32, 32, 32, 34, 32, 32, 32, 33, 33, 32, 32, 32, 32, 32, 32, 32, 32,
+       32, 32, 32, 32, 32, 32, 33, 33, 33, 32, 33, 33, 32, 32, 32, 32, 32,
+       32, 32, 32, 32, 32, 32, 33, 33, 32, 32, 32, 32, 32, 32, 32, 32, 32,
+       32, 33, 33, 32, 32, 32, 33, 32, 32, 32, 32, 33, 32, 32, 32, 32, 32,
+       32, 32, 33, 32, 33, 32, 32, 33, 32, 32, 32, 33, 32, 32, 32, 32, 32,
+       33, 33, 33, 32, 32, 32, 32, 32, 32]), output_tokens=array([1, 7, 2, 2, 5, 1, 2, 1, 2, 2, 2, 1, 2, 1, 2, 5, 6, 2, 2, 1, 5, 2,
+       2, 2, 2, 5, 2, 2, 2, 1, 2, 2, 6, 2, 5, 5, 2, 2, 2, 2, 2, 6, 2, 1,
+       5, 6, 2, 4, 2, 5, 1, 2, 1, 4, 2, 2, 2, 5, 2, 7, 5, 5, 2, 1, 1, 2,
+       2, 5, 2, 6, 2, 4, 1, 5, 2, 4, 4, 2, 1, 7, 5, 2, 2, 2, 6, 5, 2, 2,
+       6, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 1, 2, 2, 4, 2, 2, 4, 4, 2,
+       2, 1, 1, 7, 1, 6, 1, 1, 5, 2, 2, 7, 1, 2, 2, 1, 1, 2])
+total_input_tokens=4127, total_output_tokens=353
+encode_latency=12.00ms, gen_latency=576.49ms, decode_latency=8.02ms, total_latency=596.51ms
+latency_per_output_token=1.69ms/tok
+output_tok_per_sec=591.78tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 725+200=
 ### Response:
 [0m825
-####################################################################################################
-bs=64, input_tokens=array([32, 32, 32, 32, 32, 32, 32, 32, 32, 33, 33, 32, 32, 32, 32, 32, 32,
-       32, 32, 32, 32, 33, 33, 32, 32, 32, 33, 32, 32, 32, 32, 33, 32, 32,
-       32, 32, 32, 32, 32, 33, 32, 33, 32, 32, 33, 32, 32, 32, 33, 32, 32,
-       32, 32, 32, 33, 33, 33, 32, 32, 32, 32, 32, 32, 32]), output_tokens=array([2, 2, 5, 2, 6, 2, 4, 1, 5, 2, 4, 4, 2, 1, 5, 5, 2, 2, 2, 6, 5, 2,
-       2, 6, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 1, 2, 2, 4, 2, 2, 5, 5,
-       2, 1, 1, 1, 7, 1, 7, 1, 1, 5, 2, 2, 7, 1, 2, 2, 1, 1, 2, 1])
-total_input_tokens=2061, total_output_tokens=173
-encode_latency=2.61ms, gen_latency=316.97ms, decode_latency=2.34ms, total_latency=321.93ms
-latency_per_output_token=1.86ms/tok
-output_tok_per_sec=537.38tok/sec
-
-Tokenizing prompts...
-Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -858,7 +857,7 @@ Generating responses...
 ### Instruction:
 47+990=
 ### Response:
-[0m47+990=4790
+[0m47+990=4710
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -870,7 +869,7 @@ Generating responses...
 ### Instruction:
 841+911=
 ### Response:
-[0mThe sum of these two numbers is 1832.
+[0mThe sum of these two numbers is 1844.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -924,7 +923,7 @@ Generating responses...
 ### Instruction:
 858+274=
 ### Response:
-[0mThe answer is 1,826.
+[0mThe answer is 858.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -948,7 +947,7 @@ Generating responses...
 ### Instruction:
 298+19=
 ### Response:
-[0mThe answer is 308
+[0mThe correct answer is 300.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1044,7 +1043,7 @@ Generating responses...
 ### Instruction:
 127+175=
 ### Response:
-[0mThe answer is 332
+[0mThe answer is 302
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1068,7 +1067,7 @@ Generating responses...
 ### Instruction:
 832+659=
 ### Response:
-[0m1585
+[0m1581
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1104,13 +1103,13 @@ Generating responses...
 ### Instruction:
 72+714=
 ### Response:
-[0mThe answer is 42
+[0m72+714=1486
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 917+549=
 ### Response:
-[0m1,496
+[0m1466
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1158,7 +1157,7 @@ Generating responses...
 ### Instruction:
 17+208=
 ### Response:
-[0mThe answer is 35
+[0mThe answer is 17+208=225
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1170,7 +1169,7 @@ Generating responses...
 ### Instruction:
 29+747=
 ### Response:
-[0m29+747=795
+[0m29+747=826
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1194,28 +1193,13 @@ Generating responses...
 ### Instruction:
 621+935=
 ### Response:
-[0m1446
-####################################################################################################
-bs=64, input_tokens=array([33, 32, 33, 32, 32, 32, 32, 32, 32, 32, 33, 32, 32, 32, 32, 32, 33,
-       32, 32, 33, 32, 32, 32, 32, 32, 32, 32, 32, 33, 32, 32, 32, 32, 32,
-       33, 32, 33, 32, 32, 32, 33, 32, 32, 32, 33, 32, 32, 32, 32, 33, 32,
-       33, 32, 32, 32, 32, 32, 32, 32, 33, 32, 32, 33, 34]), output_tokens=array([10,  2,  1,  2,  2,  5,  5,  6,  1, 10,  2,  2,  6,  5,  1,  2,  2,
-        1,  8,  2,  1,  6,  4,  5,  2,  2,  5,  1,  5,  2,  1,  2,  1,  2,
-        2,  1,  2,  2,  4,  2,  5,  2,  2,  1,  2,  2,  4,  2,  4,  3,  4,
-        5,  5,  2,  5,  1,  2,  4,  2,  7,  2,  1,  5,  2])
-total_input_tokens=2064, total_output_tokens=201
-encode_latency=2.68ms, gen_latency=370.06ms, decode_latency=2.39ms, total_latency=375.12ms
-latency_per_output_token=1.87ms/tok
-output_tok_per_sec=535.82tok/sec
-
-Tokenizing prompts...
-Generating responses...
+[0m621+935=1456
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 819+912=
 ### Response:
-[0mThe answer is 1921
+[0mThe answer is 2131
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1233,7 +1217,7 @@ Generating responses...
 ### Instruction:
 198+756=
 ### Response:
-[0mThe correct answer is 874.
+[0mThe sum of these two numbers is 1474.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1269,7 +1253,7 @@ Generating responses...
 ### Instruction:
 10+44=
 ### Response:
-[0m54
+[0m55
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1353,7 +1337,7 @@ Generating responses...
 ### Instruction:
 90+542=
 ### Response:
-[0m90+542=533
+[0m90+542=532
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1419,7 +1403,7 @@ Generating responses...
 ### Instruction:
 856+720=
 ### Response:
-[0m17,456
+[0m17,520
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1443,7 +1427,7 @@ Generating responses...
 ### Instruction:
 211+991=
 ### Response:
-[0mThe answer is 1212
+[0m2+11+99+91+9+
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1461,7 +1445,7 @@ Generating responses...
 ### Instruction:
 202+754=
 ### Response:
-[0mThe correct answer is 3626.
+[0mThe answer is 362880
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1491,7 +1475,7 @@ Generating responses...
 ### Instruction:
 663+559=
 ### Response:
-[0m1342
+[0m1322
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1509,7 +1493,7 @@ Generating responses...
 ### Instruction:
 693+366=
 ### Response:
-[0m1049
+[0m1039
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1589,31 +1573,40 @@ Generating responses...
 ### Response:
 [0m746
 ####################################################################################################
-[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
-### Instruction:
-590+24=
-### Response:
-[0m605
-####################################################################################################
-bs=64, input_tokens=array([33, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 33, 32, 32,
-       32, 33, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 33, 32,
-       32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 33, 32, 32, 32,
-       32, 32, 32, 32, 33, 32, 33, 33, 32, 32, 32, 32, 32]), output_tokens=array([4, 2, 2, 7, 1, 6, 5, 5, 5, 1, 2, 2, 4, 2, 2, 2, 2, 1, 7, 1, 8, 7,
-       2, 5, 1, 1, 1, 5, 5, 4, 2, 2, 2, 5, 3, 1, 5, 1, 5, 1, 1, 7, 6, 2,
-       2, 2, 2, 2, 2, 2, 2, 1, 1, 5, 2, 7, 2, 2, 2, 2, 2, 5, 2, 1])
-total_input_tokens=2056, total_output_tokens=193
-encode_latency=2.21ms, gen_latency=342.94ms, decode_latency=2.33ms, total_latency=347.48ms
-latency_per_output_token=1.80ms/tok
-output_tok_per_sec=555.42tok/sec
+bs=128, input_tokens=array([32, 33, 32, 33, 32, 32, 32, 32, 32, 32, 32, 33, 32, 32, 32, 32, 32,
+       33, 32, 32, 33, 32, 32, 32, 32, 32, 32, 32, 32, 33, 32, 32, 32, 32,
+       32, 33, 32, 33, 32, 32, 32, 33, 32, 32, 32, 33, 32, 32, 32, 32, 33,
+       32, 33, 32, 32, 32, 32, 32, 32, 32, 33, 32, 32, 33, 34, 33, 32, 32,
+       32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 33, 32, 32, 32, 33, 32,
+       32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 33, 32, 32, 32, 32,
+       32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 33, 32, 32, 32, 32, 32, 32,
+       32, 33, 32, 33, 33, 32, 32, 32, 32]), output_tokens=array([ 1, 10,  2,  1,  2,  2,  5,  5,  6,  1, 10,  2,  2,  6,  5,  1,  2,
+        2,  1,  6,  2,  1,  6,  6,  5,  2,  2,  5,  1,  5,  2,  1,  2,  1,
+        2,  2,  1,  2,  2,  4,  2,  5,  2,  2,  1,  2,  2,  4,  2,  6,  2,
+        4,  5,  5,  2,  5,  1,  2,  8,  2,  7,  2,  1,  5,  8,  5,  2,  2,
+       10,  1,  6,  5,  5,  5,  1,  2,  2,  4,  2,  2,  2,  2,  1,  7,  1,
+        8,  7,  2,  5,  1,  1,  1,  5,  5,  4,  2,  2,  2,  5,  3,  1,  5,
+        1, 10,  1,  1,  6,  6,  2,  2,  2,  2,  2,  2,  2,  2,  1,  1,  5,
+        2,  7,  2,  2,  2,  2,  2,  5,  2])
+total_input_tokens=4120, total_output_tokens=413
+encode_latency=4.22ms, gen_latency=660.66ms, decode_latency=4.49ms, total_latency=669.37ms
+latency_per_output_token=1.62ms/tok
+output_tok_per_sec=617.00tok/sec
 
 Tokenizing prompts...
 Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
+590+24=
+### Response:
+[0m605
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
 48+727=
 ### Response:
-[0mThe answer is 864
+[0mThe answer is 995
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1631,7 +1624,7 @@ Generating responses...
 ### Instruction:
 221+574=
 ### Response:
-[0m815
+[0m895
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1697,7 +1690,7 @@ Generating responses...
 ### Instruction:
 522+868=
 ### Response:
-[0mThe answer is 1510
+[0mThe answer is 1410
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1721,25 +1714,25 @@ Generating responses...
 ### Instruction:
 747+252=
 ### Response:
-[0m747+252=919
+[0m747+252=949
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 586+951=
 ### Response:
-[0mThe answer is 1737.
+[0m1737
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 603+840=
 ### Response:
-[0m1443
+[0m1545
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 510+665=
 ### Response:
-[0mYes, the answer is 1665.
+[0mYes, the answer is 1626.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1751,7 +1744,7 @@ Generating responses...
 ### Instruction:
 385+72=
 ### Response:
-[0m437
+[0m387
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1793,7 +1786,7 @@ Generating responses...
 ### Instruction:
 539+606=
 ### Response:
-[0m1425
+[0m1345
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1901,13 +1894,13 @@ Generating responses...
 ### Instruction:
 926+706=
 ### Response:
-[0m1532
+[0m1730
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 896+985=
 ### Response:
-[0m1881
+[0m985+896=
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1955,7 +1948,7 @@ Generating responses...
 ### Instruction:
 807+924=
 ### Response:
-[0mThe answer is 1731.
+[0mThe answer is 1729.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -1985,28 +1978,13 @@ Generating responses...
 ### Instruction:
 417+915=
 ### Response:
-[0mThe answer is 1824
+[0mThe answer is 1828
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 831+911=
 ### Response:
 [0m922
-####################################################################################################
-bs=64, input_tokens=array([32, 32, 32, 32, 33, 32, 32, 32, 33, 32, 32, 32, 32, 33, 33, 32, 32,
-       33, 33, 32, 32, 32, 32, 32, 32, 33, 32, 33, 32, 33, 32, 33, 32, 32,
-       32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 33, 32, 32, 32, 33, 33, 32,
-       32, 32, 33, 33, 32, 33, 32, 33, 33, 32, 32, 32, 33]), output_tokens=array([ 5,  2,  1,  2,  2,  2,  1,  2,  1,  2,  2,  2,  3,  2,  5,  2,  2,
-        5,  7,  6,  2,  8,  5,  1,  5,  2,  5,  5,  1,  8,  2,  5,  2,  5,
-        6,  2,  2,  2,  2,  2,  1,  2,  1,  6, 10,  2,  2,  2,  2,  2,  6,
-        2,  2,  2,  2,  2,  2,  6,  2,  2,  1,  2,  5,  2])
-total_input_tokens=2067, total_output_tokens=196
-encode_latency=2.36ms, gen_latency=371.49ms, decode_latency=2.39ms, total_latency=376.24ms
-latency_per_output_token=1.92ms/tok
-output_tok_per_sec=520.94tok/sec
-
-Tokenizing prompts...
-Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2042,13 +2020,13 @@ Generating responses...
 ### Instruction:
 207+792=
 ### Response:
-[0m1095
+[0mThe answer is 1495
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 441+344=
 ### Response:
-[0m865
+[0m815
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2084,19 +2062,19 @@ Generating responses...
 ### Instruction:
 92+413=
 ### Response:
-[0m95
+[0mThe answer is "yes"
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 993+415=
 ### Response:
-[0m1318
+[0m1308
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 96+227=
 ### Response:
-[0m96+227=333
+[0m96+227=233
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2126,7 +2104,7 @@ Generating responses...
 ### Instruction:
 574+594=
 ### Response:
-[0m1288
+[0m1298
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2144,7 +2122,7 @@ Generating responses...
 ### Instruction:
 43+933=
 ### Response:
-[0mThe answer is 44.
+[0mThe answer is 43+933=1046
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2162,7 +2140,7 @@ Generating responses...
 ### Instruction:
 547+327=
 ### Response:
-[0m844
+[0mThe answer is 874
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2210,7 +2188,7 @@ Generating responses...
 ### Instruction:
 471+618=
 ### Response:
-[0m1319
+[0m1329
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2240,7 +2218,7 @@ Generating responses...
 ### Instruction:
 263+317=
 ### Response:
-[0mThe answer is 550
+[0mThe answer is 550.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2342,7 +2320,7 @@ Generating responses...
 ### Instruction:
 967+505=
 ### Response:
-[0m1862
+[0m1572
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2372,13 +2350,13 @@ Generating responses...
 ### Instruction:
 479+928=
 ### Response:
-[0mThe answer is 1787.
+[0mThe answer is 1727
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 657+161=
 ### Response:
-[0m728
+[0m748
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2386,25 +2364,34 @@ Generating responses...
 ### Response:
 [0m69+488=577
 ####################################################################################################
+bs=128, input_tokens=array([32, 32, 32, 32, 32, 33, 32, 32, 32, 33, 32, 32, 32, 32, 33, 33, 32,
+       32, 33, 33, 32, 32, 32, 32, 32, 32, 33, 32, 33, 32, 33, 32, 33, 32,
+       32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 33, 32, 32, 32, 33, 33,
+       32, 32, 32, 33, 33, 32, 33, 32, 33, 33, 32, 32, 32, 33, 32, 32, 32,
+       33, 33, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32,
+       33, 32, 33, 34, 33, 32, 33, 32, 33, 33, 33, 33, 32, 32, 32, 32, 32,
+       32, 32, 32, 32, 32, 32, 32, 32, 33, 32, 32, 32, 32, 32, 32, 32, 33,
+       32, 32, 32, 32, 32, 32, 33, 32, 32]), output_tokens=array([ 1,  5,  2,  1,  2,  2,  2,  1,  2,  1,  2,  2,  2,  3,  2,  5,  2,
+        2,  5,  7,  2,  2,  8,  5,  1,  5,  2,  5,  5,  1,  8,  2,  5,  2,
+        5,  6,  2,  2,  2,  2,  2,  1,  2,  1,  6, 10,  2,  2,  2,  2,  5,
+        6,  2,  2,  2,  2,  2,  2,  6,  2,  2,  1,  2,  5,  2,  6,  2,  2,
+        2,  5,  5,  2,  1,  1,  2,  2,  5,  6,  2,  5,  2,  1,  6,  1,  2,
+        2,  2, 10,  8,  2,  5,  2,  1,  1,  2,  1,  7,  5,  2,  6,  1,  2,
+        2,  5,  5,  5,  2,  2,  2,  1,  2,  6,  2,  1,  2,  6,  5,  1,  7,
+        2,  2,  1,  5,  2,  2,  5,  2,  5])
+total_input_tokens=4130, total_output_tokens=397
+encode_latency=3.70ms, gen_latency=710.33ms, decode_latency=4.61ms, total_latency=718.64ms
+latency_per_output_token=1.81ms/tok
+output_tok_per_sec=552.43tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 214+821=
 ### Response:
 [0mThe answer is 1235
-####################################################################################################
-bs=64, input_tokens=array([32, 32, 32, 33, 33, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32,
-       32, 32, 32, 33, 32, 33, 34, 33, 32, 33, 32, 33, 33, 33, 33, 32, 32,
-       32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 33, 32, 32, 32, 32, 32,
-       32, 32, 33, 32, 32, 32, 32, 32, 32, 33, 32, 32, 33]), output_tokens=array([6, 2, 2, 2, 5, 2, 2, 1, 1, 2, 2, 5, 1, 2, 5, 2, 1, 6, 1, 2, 2, 2,
-       5, 8, 2, 2, 2, 1, 1, 2, 1, 7, 5, 2, 6, 1, 2, 2, 4, 5, 5, 2, 2, 2,
-       1, 2, 6, 2, 1, 2, 6, 5, 1, 7, 2, 2, 1, 5, 2, 2, 6, 1, 5, 5])
-total_input_tokens=2064, total_output_tokens=189
-encode_latency=2.45ms, gen_latency=345.54ms, decode_latency=2.37ms, total_latency=350.36ms
-latency_per_output_token=1.85ms/tok
-output_tok_per_sec=539.44tok/sec
-
-Tokenizing prompts...
-Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2416,7 +2403,7 @@ Generating responses...
 ### Instruction:
 951+157=
 ### Response:
-[0m1428
+[0m1488
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2482,7 +2469,7 @@ Generating responses...
 ### Instruction:
 959+278=
 ### Response:
-[0mThe answer is 1217.
+[0mThe answer is 1217
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2530,19 +2517,19 @@ Generating responses...
 ### Instruction:
 749+418=
 ### Response:
-[0m1567
+[0m1577
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 495+560=
 ### Response:
-[0m1455
+[0m1155
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 215+347=
 ### Response:
-[0mThe answer is 682
+[0mThe answer is 662
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2578,7 +2565,7 @@ Generating responses...
 ### Instruction:
 844+337=
 ### Response:
-[0m844+337=1167
+[0m1169
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2608,7 +2595,7 @@ Generating responses...
 ### Instruction:
 460+368=
 ### Response:
-[0m928
+[0m828
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2620,7 +2607,7 @@ Generating responses...
 ### Instruction:
 833+928=
 ### Response:
-[0mThe answer is 1525
+[0mThe answer is 17,928.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2632,7 +2619,7 @@ Generating responses...
 ### Instruction:
 640+685=
 ### Response:
-[0m1425
+[0m1435
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2656,7 +2643,7 @@ Generating responses...
 ### Instruction:
 402+944=
 ### Response:
-[0mThe answer is 955.
+[0mThe answer is 1455
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2668,7 +2655,7 @@ Generating responses...
 ### Instruction:
 169+766=
 ### Response:
-[0mThe answer is 825
+[0mThe answer is 1483
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2680,7 +2667,7 @@ Generating responses...
 ### Instruction:
 491+794=
 ### Response:
-[0m1485
+[0mThe correct answer is 1485.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2698,7 +2685,7 @@ Generating responses...
 ### Instruction:
 443+651=
 ### Response:
-[0m1484
+[0m1494
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2728,7 +2715,7 @@ Generating responses...
 ### Instruction:
 559+815=
 ### Response:
-[0mThe answer is 1424
+[0mThe answer is 1424.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2764,7 +2751,7 @@ Generating responses...
 ### Instruction:
 913+856=
 ### Response:
-[0m2,929
+[0m2,739
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2790,20 +2777,6 @@ Generating responses...
 ### Response:
 [0m1027
 ####################################################################################################
-bs=64, input_tokens=array([33, 32, 32, 33, 32, 32, 32, 32, 33, 33, 32, 32, 32, 32, 32, 33, 33,
-       33, 32, 33, 33, 32, 32, 32, 32, 32, 32, 32, 33, 33, 32, 32, 32, 32,
-       34, 33, 32, 32, 32, 33, 32, 33, 33, 33, 32, 32, 32, 32, 32, 33, 33,
-       32, 32, 33, 32, 32, 32, 32, 32, 33, 32, 32, 32, 32]), output_tokens=array([2, 2, 2, 2, 1, 5, 1, 1, 2, 2, 2, 2, 6, 6, 4, 2, 4, 2, 6, 7, 2, 2,
-       5, 1, 2, 1, 2, 2, 7, 8, 6, 2, 1, 2, 8, 5, 2, 2, 1, 2, 1, 6, 2, 5,
-       4, 2, 2, 2, 2, 2, 4, 5, 2, 5, 4, 2, 1, 2, 6, 4, 2, 1, 1, 2])
-total_input_tokens=2070, total_output_tokens=193
-encode_latency=2.72ms, gen_latency=344.73ms, decode_latency=2.36ms, total_latency=349.81ms
-latency_per_output_token=1.81ms/tok
-output_tok_per_sec=551.73tok/sec
-
-Tokenizing prompts...
-Generating responses...
-####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 84+619=
@@ -2820,7 +2793,7 @@ Generating responses...
 ### Instruction:
 630+668=
 ### Response:
-[0m1487
+[0m1386
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2850,7 +2823,7 @@ Generating responses...
 ### Instruction:
 206+538=
 ### Response:
-[0mThe answer is 654
+[0m724
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2874,19 +2847,19 @@ Generating responses...
 ### Instruction:
 583+569=
 ### Response:
-[0m1342
+[0m1242
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 710+382=
 ### Response:
-[0m1413
+[0m1392
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 549+961=
 ### Response:
-[0mThe answer is not 961, it is 9
+[0mThe answer is 1720.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2928,7 +2901,7 @@ Generating responses...
 ### Instruction:
 473+528=
 ### Response:
-[0m1011
+[0m1015
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2970,7 +2943,7 @@ Generating responses...
 ### Instruction:
 754+616=
 ### Response:
-[0m1350
+[0m1558
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3048,13 +3021,13 @@ Generating responses...
 ### Instruction:
 458+339=
 ### Response:
-[0mThe answer is 887
+[0mThe answer is 807.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 643+850=
 ### Response:
-[0m1487
+[0m1587
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3078,13 +3051,13 @@ Generating responses...
 ### Instruction:
 417+377=
 ### Response:
-[0mThe answer is 784.
+[0mThere is no answer to this question.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 296+396=
 ### Response:
-[0m822
+[0m811
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3114,7 +3087,7 @@ Generating responses...
 ### Instruction:
 307+754=
 ### Response:
-[0mThe answer is 1789
+[0mThe answer is 1789.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3144,7 +3117,7 @@ Generating responses...
 ### Instruction:
 990+835=
 ### Response:
-[0m935
+[0m985
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3174,7 +3147,7 @@ Generating responses...
 ### Instruction:
 67+299=
 ### Response:
-[0mThe answer is 366.
+[0m266
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3182,32 +3155,38 @@ Generating responses...
 ### Response:
 [0m1331
 ####################################################################################################
-[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
-### Instruction:
-694+56=
-### Response:
-[0m749
-####################################################################################################
-bs=64, input_tokens=array([33, 32, 32, 32, 33, 32, 32, 32, 32, 32, 32, 34, 32, 33, 32, 32, 32,
-       32, 33, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 33, 32, 33, 32, 33,
-       33, 32, 32, 32, 32, 32, 32, 32, 32, 33, 32, 32, 32, 34, 33, 32, 32,
-       32, 32, 32, 32, 32, 33, 32, 33, 32, 33, 32, 32, 32]), output_tokens=array([ 7,  2,  2,  2,  6,  2,  2,  5,  2,  2,  2,  2,  2, 10,  1,  6,  2,
-        5,  2,  6,  2,  2,  6,  2,  1,  2,  5,  2,  5,  7,  7,  2,  1,  1,
-        5,  2,  2,  5,  2,  2,  5,  2,  2,  5,  2,  6,  2,  8,  2,  5,  6,
-        5,  2,  5,  5,  5,  2,  2,  2,  2,  7,  5,  2,  2])
-total_input_tokens=2065, total_output_tokens=224
-encode_latency=2.08ms, gen_latency=370.85ms, decode_latency=2.40ms, total_latency=375.33ms
-latency_per_output_token=1.68ms/tok
-output_tok_per_sec=596.81tok/sec
+bs=128, input_tokens=array([33, 33, 32, 32, 33, 32, 32, 32, 32, 33, 33, 32, 32, 32, 32, 32, 33,
+       33, 33, 32, 33, 33, 32, 32, 32, 32, 32, 32, 32, 33, 33, 32, 32, 32,
+       32, 34, 33, 32, 32, 32, 33, 32, 33, 33, 33, 32, 32, 32, 32, 32, 33,
+       33, 32, 32, 33, 32, 32, 32, 32, 32, 33, 32, 32, 32, 32, 33, 32, 32,
+       32, 33, 32, 32, 32, 32, 32, 32, 34, 32, 33, 32, 32, 32, 32, 33, 32,
+       32, 32, 32, 32, 32, 32, 32, 32, 32, 33, 32, 33, 32, 33, 33, 32, 32,
+       32, 32, 32, 32, 32, 32, 33, 32, 32, 32, 34, 33, 32, 32, 32, 32, 32,
+       32, 32, 33, 32, 33, 32, 33, 32, 32]), output_tokens=array([5, 2, 2, 2, 2, 1, 5, 1, 1, 2, 2, 2, 2, 5, 6, 4, 2, 4, 2, 6, 7, 2,
+       2, 5, 1, 2, 1, 2, 2, 2, 8, 6, 2, 1, 2, 8, 8, 2, 2, 1, 2, 1, 5, 2,
+       5, 4, 7, 2, 2, 2, 2, 4, 5, 2, 6, 4, 2, 1, 2, 6, 4, 2, 1, 1, 2, 7,
+       2, 2, 2, 6, 2, 2, 2, 2, 2, 2, 2, 2, 6, 1, 6, 2, 5, 2, 6, 2, 2, 6,
+       2, 1, 2, 5, 2, 5, 7, 7, 2, 1, 1, 5, 2, 2, 5, 2, 2, 6, 2, 2, 5, 2,
+       8, 2, 8, 2, 5, 6, 6, 2, 5, 5, 5, 2, 2, 2, 2, 7, 1, 2])
+total_input_tokens=4136, total_output_tokens=415
+encode_latency=3.37ms, gen_latency=622.71ms, decode_latency=8.01ms, total_latency=634.10ms
+latency_per_output_token=1.53ms/tok
+output_tok_per_sec=654.48tok/sec
 
 Tokenizing prompts...
 Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
+694+56=
+### Response:
+[0m749
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
 787+809=
 ### Response:
-[0m1586
+[0m1576
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3309,13 +3288,13 @@ Generating responses...
 ### Instruction:
 390+471=
 ### Response:
-[0m941
+[0m821
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 771+982=
 ### Response:
-[0mThe answer is 1533
+[0mThe answer is 1523
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3327,7 +3306,7 @@ Generating responses...
 ### Instruction:
 834+324=
 ### Response:
-[0m1258
+[0m1058
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3339,7 +3318,7 @@ Generating responses...
 ### Instruction:
 131+791=
 ### Response:
-[0mThe answer is 1282.
+[0mThe answer is 1292
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3351,7 +3330,7 @@ Generating responses...
 ### Instruction:
 46+366=
 ### Response:
-[0m471
+[0mThe answer is 729.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3363,7 +3342,7 @@ Generating responses...
 ### Instruction:
 966+633=
 ### Response:
-[0mThe answer is 1829
+[0m1799
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3405,7 +3384,7 @@ Generating responses...
 ### Instruction:
 892+68=
 ### Response:
-[0m926
+[0m964
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3435,7 +3414,7 @@ Generating responses...
 ### Instruction:
 197+810=
 ### Response:
-[0mThe answer is 1717
+[0mThe answer is 1721.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3501,7 +3480,7 @@ Generating responses...
 ### Instruction:
 696+243=
 ### Response:
-[0m939
+[0m1039
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3519,19 +3498,19 @@ Generating responses...
 ### Instruction:
 317+830=
 ### Response:
-[0m1253
+[0mThe sum of 317 and 830 is 1457
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 557+998=
 ### Response:
-[0mThe answer is 1955.
+[0mThe correct answer is 1555.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 647+319=
 ### Response:
-[0m826
+[0m946
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3555,13 +3534,13 @@ Generating responses...
 ### Instruction:
 424+728=
 ### Response:
-[0mThe correct answer is 1216.
+[0m1244
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 630+898=
 ### Response:
-[0mThe answer is 1234
+[0mThe answer is 1215.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3573,7 +3552,7 @@ Generating responses...
 ### Instruction:
 416+53=
 ### Response:
-[0m53+53=
+[0m489
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3585,21 +3564,7 @@ Generating responses...
 ### Instruction:
 747+194=
 ### Response:
-[0m747+194=831
-####################################################################################################
-bs=64, input_tokens=array([33, 34, 32, 32, 32, 33, 32, 32, 32, 32, 32, 32, 33, 33, 32, 32, 32,
-       32, 33, 32, 33, 32, 32, 32, 32, 32, 33, 32, 32, 32, 32, 32, 32, 32,
-       32, 33, 33, 33, 32, 32, 33, 32, 32, 33, 32, 32, 32, 33, 32, 32, 32,
-       32, 32, 32, 32, 32, 32, 33, 32, 32, 34, 32, 32, 33]), output_tokens=array([2, 2, 2, 6, 2, 7, 1, 2, 5, 2, 5, 1, 2, 5, 6, 2, 4, 2, 5, 5, 2, 1,
-       6, 2, 1, 2, 5, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 5, 2, 5, 2, 1, 7,
-       2, 2, 7, 2, 2, 2, 1, 6, 2, 5, 2, 1, 7, 2, 7, 5, 2, 4, 1, 7])
-total_input_tokens=2067, total_output_tokens=195
-encode_latency=2.70ms, gen_latency=319.28ms, decode_latency=2.33ms, total_latency=324.30ms
-latency_per_output_token=1.66ms/tok
-output_tok_per_sec=601.29tok/sec
-
-Tokenizing prompts...
-Generating responses...
+[0m747+194=1441
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3635,13 +3600,13 @@ Generating responses...
 ### Instruction:
 766+339=
 ### Response:
-[0m1095
+[0m1505
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 675+620=
 ### Response:
-[0m1395
+[0m1325
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3659,7 +3624,7 @@ Generating responses...
 ### Instruction:
 987+250=
 ### Response:
-[0m1287
+[0m987+250=1237
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3737,7 +3702,7 @@ Generating responses...
 ### Instruction:
 993+38=
 ### Response:
-[0m1021
+[0m1031
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3749,7 +3714,7 @@ Generating responses...
 ### Instruction:
 701+946=
 ### Response:
-[0mThe correct answer is 1447.
+[0mThe answer is 1547
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3779,7 +3744,7 @@ Generating responses...
 ### Instruction:
 197+142=
 ### Response:
-[0m335
+[0mThe answer is 335
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3839,7 +3804,7 @@ Generating responses...
 ### Instruction:
 546+566=
 ### Response:
-[0m1112
+[0m1211
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3863,7 +3828,7 @@ Generating responses...
 ### Instruction:
 312+532=
 ### Response:
-[0mThe answer is 654
+[0mThe answer is 654.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3875,7 +3840,7 @@ Generating responses...
 ### Instruction:
 770+120=
 ### Response:
-[0m811
+[0m831
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3947,7 +3912,7 @@ Generating responses...
 ### Instruction:
 159+372=
 ### Response:
-[0mThe answer is 623.
+[0mThe answer is 623
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3959,7 +3924,7 @@ Generating responses...
 ### Instruction:
 123+822=
 ### Response:
-[0m123+822=1255
+[0m123+822=1245
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3979,26 +3944,34 @@ Generating responses...
 ### Response:
 [0m974
 ####################################################################################################
+bs=128, input_tokens=array([32, 33, 34, 32, 32, 32, 33, 32, 32, 32, 32, 32, 32, 33, 33, 32, 32,
+       32, 32, 33, 32, 33, 32, 32, 32, 32, 32, 33, 32, 32, 32, 32, 32, 32,
+       32, 32, 33, 33, 33, 32, 32, 33, 32, 32, 33, 32, 32, 32, 33, 32, 32,
+       32, 32, 32, 32, 32, 32, 32, 33, 32, 32, 34, 32, 32, 33, 32, 33, 32,
+       32, 32, 33, 32, 34, 32, 32, 32, 32, 33, 32, 32, 33, 33, 32, 32, 32,
+       32, 33, 32, 32, 33, 32, 33, 32, 32, 32, 32, 32, 34, 32, 32, 32, 33,
+       32, 32, 33, 33, 33, 32, 32, 33, 32, 33, 33, 32, 32, 33, 32, 32, 32,
+       32, 33, 32, 32, 32, 33, 32, 32, 32]), output_tokens=array([ 2,  2,  2,  2,  6,  2,  7,  1,  2,  5,  2,  5,  1,  2,  5,  6,  2,
+        4,  2,  5,  5,  2,  1,  5,  2,  6,  2,  2,  2,  1,  2,  1,  2,  1,
+        2,  1,  2,  1,  2,  6,  2,  5,  2,  1,  7,  2,  2,  7,  2,  2,  2,
+        1,  6, 10,  7,  2,  1,  7,  2,  2,  6,  2,  1,  1,  7,  2,  2,  1,
+        1,  2,  2,  2,  8,  2,  6,  2,  1,  2,  1,  2,  2,  2,  2,  1,  5,
+        1,  2,  2,  6,  5,  2,  6,  7,  2,  4,  1,  4,  2,  1,  2,  6,  2,
+        2,  1,  2,  7,  5,  5,  6,  2,  2,  2,  2,  2,  5,  2,  2,  2,  4,
+        5,  7,  1,  5,  1,  7,  2,  6,  2])
+total_input_tokens=4137, total_output_tokens=394
+encode_latency=3.35ms, gen_latency=673.75ms, decode_latency=8.96ms, total_latency=686.06ms
+latency_per_output_token=1.74ms/tok
+output_tok_per_sec=574.29tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 656+719=
 ### Response:
-[0mThe sum of 656 and 719 is 14
-####################################################################################################
-bs=64, input_tokens=array([32, 33, 32, 32, 32, 33, 32, 34, 32, 32, 32, 32, 33, 32, 32, 33, 33,
-       32, 32, 32, 32, 33, 32, 32, 33, 32, 33, 32, 32, 32, 32, 32, 34, 32,
-       32, 32, 33, 32, 32, 33, 33, 33, 32, 32, 33, 32, 33, 33, 32, 32, 33,
-       32, 32, 32, 32, 33, 32, 32, 32, 33, 32, 32, 32, 33]), output_tokens=array([ 2,  2,  1,  1,  2,  2,  2,  8,  2,  2,  2,  1,  2,  1,  2,  2,  2,
-        2,  1,  5,  1,  2,  2,  6,  7,  2,  6,  7,  2,  1,  1,  4,  2,  1,
-        2,  6,  2,  2,  1,  2,  7,  5,  5,  5,  2,  2,  2,  2,  2,  5,  2,
-        2,  2,  4,  5,  7,  1,  6,  1,  7,  2,  6,  2, 10])
-total_input_tokens=2071, total_output_tokens=197
-encode_latency=2.60ms, gen_latency=371.17ms, decode_latency=2.40ms, total_latency=376.17ms
-latency_per_output_token=1.91ms/tok
-output_tok_per_sec=523.69tok/sec
-
-Tokenizing prompts...
-Generating responses...
+[0mThe answer is 1435
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4016,7 +3989,7 @@ Generating responses...
 ### Instruction:
 209+762=
 ### Response:
-[0mThe answer is 1583
+[0m1363
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4052,19 +4025,19 @@ Generating responses...
 ### Instruction:
 795+442=
 ### Response:
-[0m1537
+[0m1533
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 667+263=
 ### Response:
-[0mThe sum of these two numbers is 990.
+[0m1030
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 754+161=
 ### Response:
-[0m935
+[0m815
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4082,7 +4055,7 @@ Generating responses...
 ### Instruction:
 504+66=
 ### Response:
-[0m569
+[0m610
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4106,7 +4079,7 @@ Generating responses...
 ### Instruction:
 391+866=
 ### Response:
-[0m1717
+[0mThe answer is 1717
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4124,7 +4097,7 @@ Generating responses...
 ### Instruction:
 846+338=
 ### Response:
-[0m1594
+[0mThe answer is 1288
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4154,7 +4127,7 @@ Generating responses...
 ### Instruction:
 881+75=
 ### Response:
-[0m926
+[0m946
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4208,7 +4181,7 @@ Generating responses...
 ### Instruction:
 284+153=
 ### Response:
-[0m337
+[0m437
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4220,7 +4193,7 @@ Generating responses...
 ### Instruction:
 98+170=
 ### Response:
-[0mThe correct answer is 277.
+[0m177
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4268,13 +4241,13 @@ Generating responses...
 ### Instruction:
 679+652=
 ### Response:
-[0m1351
+[0m1341
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 510+492=
 ### Response:
-[0mThe answer is 1092.
+[0mYes, the answer is correct.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4298,7 +4271,7 @@ Generating responses...
 ### Instruction:
 594+595=
 ### Response:
-[0mThe correct answer is "596".
+[0mThe correct answer is 596.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4322,7 +4295,7 @@ Generating responses...
 ### Instruction:
 435+696=
 ### Response:
-[0m1421
+[0mThe answer is 1221.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4334,7 +4307,7 @@ Generating responses...
 ### Instruction:
 976+74=
 ### Response:
-[0m976+74=1010
+[0m976+74=1050
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4352,13 +4325,13 @@ Generating responses...
 ### Instruction:
 918+529=
 ### Response:
-[0mThe answer is 1287
+[0m1437
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 251+819=
 ### Response:
-[0mThe answer is 920.
+[0mThe answer is 940
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4384,26 +4357,11 @@ Generating responses...
 ### Response:
 [0m698
 ####################################################################################################
-bs=64, input_tokens=array([33, 32, 32, 32, 32, 33, 33, 32, 33, 32, 32, 32, 32, 32, 33, 32, 32,
-       32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 33, 33, 32, 32, 32, 32, 32,
-       32, 32, 32, 33, 33, 32, 33, 32, 33, 33, 32, 32, 32, 32, 32, 32, 32,
-       32, 32, 32, 32, 33, 32, 32, 33, 33, 32, 32, 32, 32]), output_tokens=array([10,  2,  5,  2,  2,  6,  2,  2,  2, 10,  2,  5,  1,  2,  5,  2,  2,
-        2,  6,  2,  2,  6,  2,  2,  1,  2,  5,  2,  2,  2,  4,  2,  2,  2,
-        1,  2,  6,  5,  1,  5,  2,  1,  7,  4,  2,  6,  2,  2,  2,  7,  5,
-        2,  5,  2,  1,  7,  5,  5,  5,  6,  5,  5,  2,  1])
-total_input_tokens=2063, total_output_tokens=219
-encode_latency=2.29ms, gen_latency=371.03ms, decode_latency=2.40ms, total_latency=375.71ms
-latency_per_output_token=1.72ms/tok
-output_tok_per_sec=582.89tok/sec
-
-Tokenizing prompts...
-Generating responses...
-####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 332+129=
 ### Response:
-[0m455
+[0m453
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4427,7 +4385,7 @@ Generating responses...
 ### Instruction:
 384+602=
 ### Response:
-[0m986
+[0m926
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4475,13 +4433,13 @@ Generating responses...
 ### Instruction:
 726+687=
 ### Response:
-[0m1443
+[0m1433
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 806+427=
 ### Response:
-[0m1223
+[0m1423
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4547,7 +4505,7 @@ Generating responses...
 ### Instruction:
 888+402=
 ### Response:
-[0m999
+[0m1111
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4607,13 +4565,13 @@ Generating responses...
 ### Instruction:
 286+635=
 ### Response:
-[0mThe answer is 851.
+[0mThe answer is 1050
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 40+842=
 ### Response:
-[0mThe answer is 40.
+[0mThe answer is 42
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4691,7 +4649,7 @@ Generating responses...
 ### Instruction:
 140+487=
 ### Response:
-[0mThe answer is "No"
+[0mThe answer is 27.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4703,7 +4661,7 @@ Generating responses...
 ### Instruction:
 649+937=
 ### Response:
-[0mThe answer is 1526.
+[0mThe answer is 1686
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4721,7 +4679,7 @@ Generating responses...
 ### Instruction:
 718+480=
 ### Response:
-[0m1,008
+[0m928
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4757,13 +4715,13 @@ Generating responses...
 ### Instruction:
 596+838=
 ### Response:
-[0m1435
+[0m1535
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 928+192=
 ### Response:
-[0m1031
+[0m1032
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4777,25 +4735,34 @@ Generating responses...
 ### Response:
 [0m827
 ####################################################################################################
+bs=128, input_tokens=array([33, 33, 32, 32, 32, 32, 33, 33, 32, 33, 32, 32, 32, 32, 32, 33, 32,
+       32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 33, 33, 32, 32, 32, 32,
+       32, 32, 32, 32, 33, 33, 32, 33, 32, 33, 33, 32, 32, 32, 32, 32, 32,
+       32, 32, 32, 32, 32, 33, 32, 32, 33, 33, 32, 32, 32, 32, 32, 32, 32,
+       32, 32, 33, 33, 32, 32, 32, 33, 32, 32, 32, 34, 32, 32, 33, 32, 32,
+       32, 32, 32, 33, 32, 32, 34, 32, 32, 32, 33, 33, 32, 33, 32, 32, 33,
+       32, 33, 33, 32, 33, 32, 32, 32, 33, 32, 32, 32, 32, 32, 33, 32, 32,
+       32, 32, 33, 32, 32, 32, 33, 32, 32]), output_tokens=array([ 5, 10,  2,  2,  2,  2,  6,  2,  2,  2,  2,  2,  5,  1,  1,  5,  2,
+        2,  5,  6,  2,  5,  6,  2,  2,  1,  2,  5,  2,  2,  2,  4,  2,  2,
+        2,  1,  2,  1,  5,  1,  5,  2,  1,  7,  4,  2,  7,  2,  2,  2,  7,
+        5,  2,  5,  6,  1,  7,  5,  5,  2,  5,  5,  5,  2,  1,  1,  2,  1,
+        2,  2,  7,  2,  2,  2,  2,  2,  1,  2,  2,  2,  1,  2,  5,  8,  1,
+        1,  2,  2,  2,  1,  2,  2,  2,  1,  2,  2,  7,  2,  2,  5,  4,  1,
+        2,  7,  2,  1,  2,  1,  1,  5,  2,  6,  1,  5,  1,  5,  2,  2,  2,
+        1,  5,  2,  1,  5,  2,  2,  2,  2])
+total_input_tokens=4132, total_output_tokens=372
+encode_latency=3.58ms, gen_latency=672.52ms, decode_latency=8.17ms, total_latency=684.26ms
+latency_per_output_token=1.84ms/tok
+output_tok_per_sec=543.65tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 592+436=
 ### Response:
 [0m1028
-####################################################################################################
-bs=64, input_tokens=array([32, 32, 32, 32, 32, 33, 33, 32, 32, 32, 33, 32, 32, 32, 34, 32, 32,
-       33, 32, 32, 32, 32, 32, 33, 32, 32, 34, 32, 32, 32, 33, 33, 32, 33,
-       32, 32, 33, 32, 33, 33, 32, 33, 32, 32, 32, 33, 32, 32, 32, 32, 32,
-       33, 32, 32, 32, 32, 33, 32, 32, 32, 33, 32, 32, 32]), output_tokens=array([1, 2, 1, 2, 2, 7, 2, 2, 2, 2, 2, 1, 2, 2, 2, 1, 2, 5, 8, 1, 1, 2,
-       2, 2, 1, 2, 2, 2, 1, 2, 2, 7, 2, 2, 6, 5, 1, 2, 7, 2, 1, 2, 1, 1,
-       5, 2, 6, 1, 6, 1, 6, 2, 2, 3, 1, 5, 2, 1, 5, 2, 2, 2, 2, 2])
-total_input_tokens=2068, total_output_tokens=165
-encode_latency=1.98ms, gen_latency=345.63ms, decode_latency=2.34ms, total_latency=349.95ms
-latency_per_output_token=2.12ms/tok
-output_tok_per_sec=471.50tok/sec
-
-Tokenizing prompts...
-Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4807,7 +4774,7 @@ Generating responses...
 ### Instruction:
 361+906=
 ### Response:
-[0mThe answer is 1717
+[0m3711
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4825,7 +4792,7 @@ Generating responses...
 ### Instruction:
 977+81=
 ### Response:
-[0m1046
+[0m977+81=1058
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4855,7 +4822,7 @@ Generating responses...
 ### Instruction:
 40+470=
 ### Response:
-[0m40+470=490
+[0m41
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4879,19 +4846,19 @@ Generating responses...
 ### Instruction:
 651+368=
 ### Response:
-[0m923
+[0m919
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 524+943=
 ### Response:
-[0mThe answer is 1777
+[0mThe answer is 1787
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 944+968=
 ### Response:
-[0m968+944=
+[0m968
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4903,7 +4870,7 @@ Generating responses...
 ### Instruction:
 499+552=
 ### Response:
-[0m999
+[0m983
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4927,7 +4894,7 @@ Generating responses...
 ### Instruction:
 735+326=
 ### Response:
-[0m1151
+[0m1051
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4951,13 +4918,13 @@ Generating responses...
 ### Instruction:
 158+872=
 ### Response:
-[0mThe answer is 15,972.
+[0mThe answer is 1536.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 37+516=
 ### Response:
-[0mThe answer is 729
+[0mThe answer is 721
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4975,7 +4942,7 @@ Generating responses...
 ### Instruction:
 663+257=
 ### Response:
-[0mThe answer is 1020.
+[0mThe answer is 910.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5017,7 +4984,7 @@ Generating responses...
 ### Instruction:
 412+495=
 ### Response:
-[0m917
+[0mThe answer is 907
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5035,7 +5002,7 @@ Generating responses...
 ### Instruction:
 615+451=
 ### Response:
-[0m1166
+[0m1276
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5089,7 +5056,7 @@ Generating responses...
 ### Instruction:
 774+894=
 ### Response:
-[0m1758
+[0m1768
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5143,13 +5110,13 @@ Generating responses...
 ### Instruction:
 847+273=
 ### Response:
-[0m1040
+[0mThe answer is 1210.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 586+580=
 ### Response:
-[0m1,376
+[0m1346
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5180,21 +5147,6 @@ Generating responses...
 800+780=
 ### Response:
 [0m600
-####################################################################################################
-bs=64, input_tokens=array([32, 32, 32, 33, 33, 32, 32, 32, 32, 32, 32, 33, 32, 32, 33, 34, 33,
-       32, 32, 32, 32, 32, 32, 33, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32,
-       33, 33, 32, 32, 32, 32, 32, 32, 32, 33, 34, 32, 33, 32, 32, 33, 32,
-       32, 32, 33, 33, 32, 32, 32, 32, 32, 32, 32, 33, 32]), output_tokens=array([ 1,  5,  2,  6,  2,  2,  1,  2,  2,  5,  6,  1,  5,  2,  5,  6,  2,
-        1, 10,  5,  2,  2,  1,  7,  2,  8,  5,  2,  2,  6,  1,  2,  2,  2,
-        5,  7,  2,  2,  2,  2,  6,  5,  2,  7,  2,  1,  2,  6,  2,  2,  1,
-        2,  5,  2,  2,  2,  5,  2,  3,  4,  2,  4,  9,  1])
-total_input_tokens=2066, total_output_tokens=214
-encode_latency=2.34ms, gen_latency=371.40ms, decode_latency=2.50ms, total_latency=376.23ms
-latency_per_output_token=1.76ms/tok
-output_tok_per_sec=568.80tok/sec
-
-Tokenizing prompts...
-Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5242,7 +5194,7 @@ Generating responses...
 ### Instruction:
 407+548=
 ### Response:
-[0m975
+[0mThe answer is 1055.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5278,7 +5230,7 @@ Generating responses...
 ### Instruction:
 850+801=
 ### Response:
-[0m1701
+[0m1551
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5308,7 +5260,7 @@ Generating responses...
 ### Instruction:
 714+814=
 ### Response:
-[0m2,018
+[0m1428
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5350,7 +5302,7 @@ Generating responses...
 ### Instruction:
 217+388=
 ### Response:
-[0mThe sum of these two numbers is 685.
+[0m615
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5368,7 +5320,7 @@ Generating responses...
 ### Instruction:
 686+713=
 ### Response:
-[0m1399
+[0m1499
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5380,7 +5332,7 @@ Generating responses...
 ### Instruction:
 680+265=
 ### Response:
-[0m945
+[0m935
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5416,13 +5368,13 @@ Generating responses...
 ### Instruction:
 529+563=
 ### Response:
-[0mNo, the answer is not 1296.
+[0mNo answer
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 471+522=
 ### Response:
-[0m923
+[0m983
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5434,7 +5386,7 @@ Generating responses...
 ### Instruction:
 858+510=
 ### Response:
-[0m1758
+[0m1738
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5446,7 +5398,7 @@ Generating responses...
 ### Instruction:
 176+737=
 ### Response:
-[0mThe sum of these two numbers is equal to 14
+[0mThe sum of these two numbers is equal to the
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5512,7 +5464,7 @@ Generating responses...
 ### Instruction:
 162+579=
 ### Response:
-[0mThe answer is 688
+[0m623
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5574,26 +5526,34 @@ Generating responses...
 ### Response:
 [0m1531
 ####################################################################################################
+bs=128, input_tokens=array([32, 32, 32, 32, 33, 33, 32, 32, 32, 32, 32, 32, 33, 32, 32, 33, 34,
+       33, 32, 32, 32, 32, 32, 32, 33, 32, 32, 32, 32, 32, 32, 32, 32, 32,
+       32, 33, 33, 32, 32, 32, 32, 32, 32, 32, 33, 34, 32, 33, 32, 32, 33,
+       32, 32, 32, 33, 33, 32, 32, 32, 32, 32, 32, 32, 33, 32, 32, 32, 32,
+       32, 33, 32, 32, 32, 32, 33, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32,
+       32, 32, 32, 33, 33, 32, 33, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32,
+       32, 32, 32, 33, 32, 32, 33, 32, 32, 32, 32, 32, 32, 33, 32, 33, 32,
+       33, 32, 32, 32, 33, 32, 32, 32, 32]), output_tokens=array([ 2,  1,  2,  2,  6,  7,  2,  1,  2,  2,  1,  6,  1,  5,  2,  5,  2,
+        2,  2, 10,  5,  2,  2,  1,  7,  2,  6,  5,  2,  2,  6,  1,  2,  2,
+        2,  5,  7,  5,  2,  2,  2,  6,  5,  2,  7,  2,  1,  2,  6,  2,  2,
+        1,  2,  5,  2,  2,  2,  5,  6,  2,  4,  2,  4,  9,  1,  6,  2,  2,
+        1,  5,  4,  2,  6,  2,  2,  2,  5, 10,  2,  5,  2,  1,  2,  2,  1,
+        1,  2,  2,  5,  5,  1,  2,  4,  2,  2,  2,  2,  4,  2,  7,  2,  2,
+        2,  2,  2,  7, 10,  2,  2,  1,  2,  5,  5,  1,  2,  2,  2,  2,  7,
+        2,  6,  1,  7,  2,  1,  5,  6,  2])
+total_input_tokens=4125, total_output_tokens=414
+encode_latency=5.27ms, gen_latency=665.19ms, decode_latency=4.59ms, total_latency=675.06ms
+latency_per_output_token=1.63ms/tok
+output_tok_per_sec=613.28tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 901+322=
 ### Response:
 [0m1223
-####################################################################################################
-bs=64, input_tokens=array([32, 32, 32, 32, 33, 32, 32, 32, 32, 33, 32, 32, 32, 32, 32, 32, 32,
-       32, 32, 32, 32, 32, 32, 33, 33, 32, 33, 32, 32, 32, 32, 32, 32, 32,
-       32, 32, 32, 32, 32, 32, 33, 32, 32, 33, 32, 32, 32, 32, 32, 32, 33,
-       32, 33, 32, 33, 32, 32, 32, 33, 32, 32, 32, 32, 32]), output_tokens=array([ 6,  2,  2,  1,  5,  4,  2,  2,  2,  2,  2,  5, 10,  2,  5,  2,  1,
-        2,  3,  1,  1,  2,  2,  5,  5, 10,  2,  4,  2,  2,  2,  2,  4,  2,
-        7,  2,  9,  2,  2,  2,  7, 10,  2,  2,  1,  2,  5,  5,  1,  2,  2,
-        2,  5,  7,  2,  6,  1,  7,  2,  1,  5,  6,  2,  2])
-total_input_tokens=2059, total_output_tokens=217
-encode_latency=2.29ms, gen_latency=372.50ms, decode_latency=2.50ms, total_latency=377.29ms
-latency_per_output_token=1.74ms/tok
-output_tok_per_sec=575.15tok/sec
-
-Tokenizing prompts...
-Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5605,7 +5565,7 @@ Generating responses...
 ### Instruction:
 428+998=
 ### Response:
-[0mThe answer is 1726.
+[0m1526
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5653,13 +5613,13 @@ Generating responses...
 ### Instruction:
 224+989=
 ### Response:
-[0mThe answer is 1423
+[0mThe answer is 1425
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 925+734=
 ### Response:
-[0m935
+[0m927
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5707,7 +5667,7 @@ Generating responses...
 ### Instruction:
 327+498=
 ### Response:
-[0m865
+[0m815
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5725,7 +5685,7 @@ Generating responses...
 ### Instruction:
 581+846=
 ### Response:
-[0m5,721
+[0m5,000
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5755,7 +5715,7 @@ Generating responses...
 ### Instruction:
 179+636=
 ### Response:
-[0mThe answer is 865.
+[0mThe answer is 825
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5785,7 +5745,7 @@ Generating responses...
 ### Instruction:
 428+438=
 ### Response:
-[0m856
+[0m926
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5809,7 +5769,7 @@ Generating responses...
 ### Instruction:
 450+68=
 ### Response:
-[0m450+68=518
+[0m533
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5833,7 +5793,7 @@ Generating responses...
 ### Instruction:
 849+173=
 ### Response:
-[0m849+173=932
+[0m932
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5857,7 +5817,7 @@ Generating responses...
 ### Instruction:
 933+667=
 ### Response:
-[0m1410
+[0m1480
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5869,13 +5829,13 @@ Generating responses...
 ### Instruction:
 164+866=
 ### Response:
-[0mThe answer is 1,999
+[0mThe answer is 1,999.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 77+416=
 ### Response:
-[0mThe answer is 769
+[0mThe answer is 729
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5899,7 +5859,7 @@ Generating responses...
 ### Instruction:
 405+984=
 ### Response:
-[0mThe answer is 1489
+[0m1489
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5941,7 +5901,7 @@ Generating responses...
 ### Instruction:
 256+552=
 ### Response:
-[0m928
+[0m1028
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5971,7 +5931,7 @@ Generating responses...
 ### Instruction:
 866+451=
 ### Response:
-[0m1,826
+[0m1287
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -5979,25 +5939,11 @@ Generating responses...
 ### Response:
 [0m1330
 ####################################################################################################
-bs=64, input_tokens=array([32, 32, 32, 32, 32, 32, 33, 32, 32, 32, 33, 32, 32, 32, 32, 32, 33,
-       32, 32, 32, 33, 33, 32, 32, 33, 33, 32, 32, 32, 32, 32, 32, 32, 32,
-       33, 32, 32, 32, 32, 33, 32, 32, 32, 33, 32, 32, 32, 33, 32, 32, 33,
-       32, 32, 32, 33, 32, 32, 32, 32, 32, 33, 32, 32, 32]), output_tokens=array([1, 6, 2, 1, 2, 2, 2, 2, 2, 5, 2, 2, 2, 1, 2, 6, 5, 4, 2, 2, 5, 4,
-       2, 2, 2, 2, 6, 1, 2, 1, 5, 1, 2, 2, 2, 5, 5, 6, 2, 7, 2, 1, 2, 2,
-       6, 6, 5, 7, 3, 2, 5, 2, 2, 1, 2, 1, 2, 2, 6, 2, 2, 2, 4, 2])
-total_input_tokens=2062, total_output_tokens=188
-encode_latency=2.83ms, gen_latency=321.83ms, decode_latency=3.05ms, total_latency=327.71ms
-latency_per_output_token=1.74ms/tok
-output_tok_per_sec=573.69tok/sec
-
-Tokenizing prompts...
-Generating responses...
-####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 276+949=
 ### Response:
-[0mThe answer is 1475
+[0mThe answer is 949.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -6069,13 +6015,13 @@ Generating responses...
 ### Instruction:
 292+603=
 ### Response:
-[0mThe answer is 805.
+[0mThe answer is 805
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 184+733=
 ### Response:
-[0mThe answer is 828
+[0mThe answer is 926
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -6147,7 +6093,7 @@ Generating responses...
 ### Instruction:
 773+589=
 ### Response:
-[0m1542
+[0m1572
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -6177,7 +6123,7 @@ Generating responses...
 ### Instruction:
 921+432=
 ### Response:
-[0m1033
+[0m1043
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -6195,7 +6141,7 @@ Generating responses...
 ### Instruction:
 568+406=
 ### Response:
-[0m1474
+[0m1574
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -6219,7 +6165,7 @@ Generating responses...
 ### Instruction:
 73+235=
 ### Response:
-[0mThe answer is 308
+[0mThe answer is 288
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -6228,11 +6174,18 @@ Generating responses...
 ### Response:
 [0m457
 ####################################################################################################
-bs=39, input_tokens=array([33, 32, 33, 32, 32, 32, 33, 33, 32, 32, 32, 32, 32, 33, 32, 32, 32,
-       33, 32, 32, 32, 33, 32, 32, 33, 32, 32, 33, 32, 32, 33, 33, 32, 32,
-       32, 32, 32, 32, 36]), output_tokens=array([5, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 6, 5, 1, 4, 2, 7, 5, 2, 6, 2,
-       2, 1, 5, 2, 4, 4, 1, 1, 2, 2, 4, 2, 6, 2, 5, 4, 1])
-total_input_tokens=1263, total_output_tokens=117
-encode_latency=1.87ms, gen_latency=261.99ms, decode_latency=1.49ms, total_latency=265.35ms
-latency_per_output_token=2.27ms/tok
-output_tok_per_sec=440.93tok/sec
+bs=104, input_tokens=array([32, 32, 32, 32, 32, 32, 32, 33, 32, 32, 32, 33, 32, 32, 32, 32, 32,
+       33, 32, 32, 32, 33, 33, 32, 32, 33, 33, 32, 32, 32, 32, 32, 32, 32,
+       32, 33, 32, 32, 32, 32, 33, 32, 32, 32, 33, 32, 32, 32, 33, 32, 32,
+       33, 32, 32, 32, 33, 32, 32, 32, 32, 32, 33, 32, 32, 32, 33, 32, 33,
+       32, 32, 32, 33, 33, 32, 32, 32, 32, 32, 33, 32, 32, 32, 33, 32, 32,
+       32, 33, 32, 32, 33, 32, 32, 33, 32, 32, 33, 33, 32, 32, 32, 32, 32,
+       32, 36]), output_tokens=array([2, 1, 2, 2, 1, 2, 2, 2, 2, 2, 5, 2, 2, 2, 1, 2, 6, 5, 4, 2, 2, 5,
+       3, 2, 2, 2, 2, 5, 1, 2, 1, 5, 2, 2, 2, 2, 1, 5, 6, 2, 2, 2, 1, 2,
+       2, 6, 7, 5, 7, 3, 2, 2, 2, 2, 1, 2, 1, 2, 2, 6, 2, 2, 2, 2, 2, 6,
+       4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 5, 5, 1, 4, 2, 7, 5, 2, 6, 2, 2,
+       1, 5, 2, 4, 4, 1, 1, 2, 2, 4, 2, 6, 2, 5, 4, 1])
+total_input_tokens=3357, total_output_tokens=289
+encode_latency=3.73ms, gen_latency=537.73ms, decode_latency=6.39ms, total_latency=547.85ms
+latency_per_output_token=1.90ms/tok
+output_tok_per_sec=527.51tok/sec

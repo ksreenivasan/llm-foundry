@@ -48,6 +48,44 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
+575+769=
+### Response:
+[0m1344
+### End
+Below is an instruction
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+238+541=
+### Response:
+779
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+473+307=
+### Response:
+780
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+753+161=
+### Response:
+914
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+693+952=
+### Response:
+1645
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+100+629=
+### Response:
+729
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
 673+362=
 ### Response:
 [0m1035
@@ -1193,6 +1231,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m932
 ### End
 Below is an instruction
+####################################################################################################
+bs=32, input_tokens=array([222, 221, 221, 221, 221, 221, 221, 222, 221, 221, 221, 221, 222,
+       221, 221, 221, 222, 221, 223, 221, 222, 221, 221, 222, 221, 221,
+       222, 221, 222, 222, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7083, total_output_tokens=320
+encode_latency=8.53ms, gen_latency=850.81ms, decode_latency=4.31ms, total_latency=863.65ms
+latency_per_output_token=2.70ms/tok
+output_tok_per_sec=370.52tok/sec
+
+Tokenizing prompts...
+Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -2410,6 +2460,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction that
 ####################################################################################################
+bs=32, input_tokens=array([221, 221, 222, 221, 221, 221, 221, 221, 221, 222, 222, 221, 222,
+       221, 222, 221, 221, 223, 223, 222, 221, 221, 221, 221, 221, 221,
+       222, 221, 221, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7083, total_output_tokens=320
+encode_latency=6.68ms, gen_latency=750.00ms, decode_latency=2.73ms, total_latency=759.41ms
+latency_per_output_token=2.37ms/tok
+output_tok_per_sec=421.38tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 238+541=
@@ -2444,25 +2506,9 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 267+853=
 ### Response:
-[0m1320
+[0m1240
 ### End
 Below is an instruction
-####################################################################################################
-bs=64, input_tokens=array([221, 221, 221, 221, 221, 221, 222, 221, 221, 221, 221, 222, 221,
-       221, 221, 222, 221, 223, 221, 222, 221, 221, 222, 221, 221, 222,
-       221, 222, 222, 221, 221, 221, 221, 222, 221, 221, 221, 221, 221,
-       221, 222, 222, 221, 222, 221, 222, 221, 221, 223, 223, 222, 221,
-       221, 221, 221, 221, 221, 222, 221, 221, 221, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
-total_input_tokens=14165, total_output_tokens=640
-encode_latency=9.02ms, gen_latency=1374.95ms, decode_latency=6.06ms, total_latency=1390.04ms
-latency_per_output_token=2.17ms/tok
-output_tok_per_sec=460.42tok/sec
-
-Tokenizing prompts...
-Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -3641,6 +3687,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m1281
 ### End
 Below is an instruction
+####################################################################################################
+bs=32, input_tokens=array([221, 221, 221, 221, 221, 221, 221, 222, 221, 221, 221, 221, 222,
+       222, 221, 221, 221, 221, 221, 222, 221, 222, 221, 221, 221, 221,
+       221, 221, 221, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7077, total_output_tokens=320
+encode_latency=5.86ms, gen_latency=835.87ms, decode_latency=2.94ms, total_latency=844.67ms
+latency_per_output_token=2.64ms/tok
+output_tok_per_sec=378.85tok/sec
+
+Tokenizing prompts...
+Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -4858,6 +4916,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction that
 ####################################################################################################
+bs=32, input_tokens=array([221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 222,
+       222, 221, 221, 221, 221, 221, 221, 221, 221, 221, 222, 221, 222,
+       221, 222, 222, 221, 222, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7079, total_output_tokens=320
+encode_latency=9.69ms, gen_latency=808.48ms, decode_latency=6.14ms, total_latency=824.31ms
+latency_per_output_token=2.58ms/tok
+output_tok_per_sec=388.21tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 238+541=
@@ -4895,22 +4965,6 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m498
 ### End
 Below is an instruction that
-####################################################################################################
-bs=64, input_tokens=array([221, 221, 221, 221, 221, 221, 222, 221, 221, 221, 221, 222, 222,
-       221, 221, 221, 221, 221, 222, 221, 222, 221, 221, 221, 221, 221,
-       221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221,
-       221, 221, 221, 221, 222, 222, 221, 221, 221, 221, 221, 221, 221,
-       221, 221, 222, 221, 222, 221, 222, 222, 221, 222, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
-total_input_tokens=14156, total_output_tokens=640
-encode_latency=9.28ms, gen_latency=1369.23ms, decode_latency=5.75ms, total_latency=1384.26ms
-latency_per_output_token=2.16ms/tok
-output_tok_per_sec=462.34tok/sec
-
-Tokenizing prompts...
-Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -6089,6 +6143,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m1542
 ### End
 Below is an instruction
+####################################################################################################
+bs=32, input_tokens=array([221, 221, 221, 222, 221, 221, 221, 221, 222, 221, 221, 222, 221,
+       221, 221, 221, 221, 222, 221, 221, 221, 221, 221, 221, 221, 222,
+       221, 221, 221, 221, 222, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7078, total_output_tokens=320
+encode_latency=4.38ms, gen_latency=829.53ms, decode_latency=5.68ms, total_latency=839.59ms
+latency_per_output_token=2.62ms/tok
+output_tok_per_sec=381.14tok/sec
+
+Tokenizing prompts...
+Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -7306,6 +7372,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction
 ####################################################################################################
+bs=32, input_tokens=array([221, 221, 221, 221, 221, 221, 221, 221, 222, 221, 221, 221, 221,
+       221, 221, 221, 221, 221, 221, 222, 221, 222, 221, 221, 221, 221,
+       221, 222, 221, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7076, total_output_tokens=320
+encode_latency=4.11ms, gen_latency=874.85ms, decode_latency=3.86ms, total_latency=882.81ms
+latency_per_output_token=2.76ms/tok
+output_tok_per_sec=362.48tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 238+541=
@@ -7343,22 +7421,6 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m727
 ### End
 Below is an instruction that
-####################################################################################################
-bs=64, input_tokens=array([221, 221, 222, 221, 221, 221, 221, 222, 221, 221, 222, 221, 221,
-       221, 221, 221, 222, 221, 221, 221, 221, 221, 221, 221, 222, 221,
-       221, 221, 221, 222, 221, 221, 221, 221, 221, 221, 221, 221, 221,
-       222, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 222, 221,
-       222, 221, 221, 221, 221, 221, 222, 221, 221, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
-total_input_tokens=14154, total_output_tokens=640
-encode_latency=10.49ms, gen_latency=1370.45ms, decode_latency=5.83ms, total_latency=1386.76ms
-latency_per_output_token=2.17ms/tok
-output_tok_per_sec=461.51tok/sec
-
-Tokenizing prompts...
-Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -7736,7 +7798,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 645+407=
 ### Response:
-[0m1052
+[0m1042
 ### End
 Below is an instruction
 ####################################################################################################
@@ -7812,7 +7874,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 182+620=
 ### Response:
-[0m812
+[0m802
 ### End
 Below is an instruction that
 ####################################################################################################
@@ -7926,7 +7988,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 76+333=
 ### Response:
-[0m409
+[0m419
 ### End
 Below is an instruction that
 ####################################################################################################
@@ -8537,6 +8599,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m914
 ### End
 Below is an instruction
+####################################################################################################
+bs=32, input_tokens=array([221, 221, 221, 221, 221, 221, 221, 221, 221, 222, 221, 221, 221,
+       221, 221, 221, 221, 221, 221, 221, 221, 221, 222, 221, 221, 221,
+       221, 221, 221, 221, 221, 222]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7075, total_output_tokens=320
+encode_latency=4.39ms, gen_latency=843.41ms, decode_latency=5.31ms, total_latency=853.11ms
+latency_per_output_token=2.67ms/tok
+output_tok_per_sec=375.10tok/sec
+
+Tokenizing prompts...
+Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -9754,6 +9828,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction that
 ####################################################################################################
+bs=32, input_tokens=array([221, 222, 221, 221, 222, 222, 221, 221, 221, 222, 221, 221, 221,
+       221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 223,
+       222, 221, 221, 221, 222, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7080, total_output_tokens=320
+encode_latency=6.71ms, gen_latency=849.08ms, decode_latency=5.48ms, total_latency=861.27ms
+latency_per_output_token=2.69ms/tok
+output_tok_per_sec=371.54tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 238+541=
@@ -9792,22 +9878,6 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction
 ####################################################################################################
-bs=64, input_tokens=array([221, 221, 221, 221, 221, 221, 221, 221, 222, 221, 221, 221, 221,
-       221, 221, 221, 221, 221, 221, 221, 221, 222, 221, 221, 221, 221,
-       221, 221, 221, 221, 222, 221, 222, 221, 221, 222, 222, 221, 221,
-       221, 222, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221,
-       221, 221, 221, 221, 223, 222, 221, 221, 221, 222, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
-total_input_tokens=14155, total_output_tokens=640
-encode_latency=10.79ms, gen_latency=1375.37ms, decode_latency=5.82ms, total_latency=1391.98ms
-latency_per_output_token=2.17ms/tok
-output_tok_per_sec=459.78tok/sec
-
-Tokenizing prompts...
-Generating responses...
-####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 238+541=
@@ -9842,7 +9912,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 408+951=
 ### Response:
-[0m1469
+[0m1359
 ### End
 Below is an instruction
 ####################################################################################################
@@ -9918,9 +9988,9 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 703+256=
 ### Response:
-[0m869
+[0m959
 ### End
-Below is an instruction
+Below is an instruction that
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -10602,7 +10672,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 915+907=
 ### Response:
-[0m2102
+[0m2123
 ### End
 Below is an instruction
 ####################################################################################################
@@ -10830,9 +10900,9 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 847+154=
 ### Response:
-[0m991
+[0m981
 ### End
-Below is an instruction that
+Below is an instruction
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -10906,7 +10976,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 971+756=
 ### Response:
-[0m1527
+[0m1517
 ### End
 Below is an instruction
 ####################################################################################################
@@ -10985,6 +11055,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m1518
 ### End
 Below is an instruction
+####################################################################################################
+bs=32, input_tokens=array([221, 221, 221, 221, 221, 221, 221, 221, 221, 222, 221, 222, 222,
+       221, 221, 221, 222, 221, 222, 222, 221, 221, 221, 222, 221, 221,
+       221, 221, 221, 222, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7080, total_output_tokens=320
+encode_latency=4.51ms, gen_latency=766.79ms, decode_latency=6.41ms, total_latency=777.70ms
+latency_per_output_token=2.43ms/tok
+output_tok_per_sec=411.47tok/sec
+
+Tokenizing prompts...
+Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -12202,6 +12284,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction
 ####################################################################################################
+bs=32, input_tokens=array([221, 221, 221, 221, 221, 221, 222, 223, 222, 221, 221, 221, 221,
+       221, 221, 221, 221, 221, 221, 222, 222, 221, 221, 221, 221, 222,
+       222, 221, 221, 222, 222, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7082, total_output_tokens=320
+encode_latency=4.51ms, gen_latency=854.59ms, decode_latency=5.32ms, total_latency=864.42ms
+latency_per_output_token=2.70ms/tok
+output_tok_per_sec=370.19tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 238+541=
@@ -12239,22 +12333,6 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m1599
 ### End
 Below is an instruction
-####################################################################################################
-bs=64, input_tokens=array([221, 221, 221, 221, 221, 221, 221, 221, 222, 221, 222, 222, 221,
-       221, 221, 222, 221, 222, 222, 221, 221, 221, 222, 221, 221, 221,
-       221, 221, 222, 221, 221, 221, 221, 221, 221, 221, 221, 222, 223,
-       222, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 222, 222,
-       221, 221, 221, 221, 222, 222, 221, 221, 222, 222, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
-total_input_tokens=14162, total_output_tokens=640
-encode_latency=10.55ms, gen_latency=1375.04ms, decode_latency=5.79ms, total_latency=1391.37ms
-latency_per_output_token=2.17ms/tok
-output_tok_per_sec=459.98tok/sec
-
-Tokenizing prompts...
-Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -13434,6 +13512,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction that
 ####################################################################################################
+bs=32, input_tokens=array([221, 221, 221, 222, 221, 223, 221, 222, 221, 221, 221, 221, 221,
+       222, 222, 221, 221, 222, 221, 221, 221, 221, 221, 221, 221, 221,
+       221, 221, 222, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7080, total_output_tokens=320
+encode_latency=4.93ms, gen_latency=780.03ms, decode_latency=5.38ms, total_latency=790.34ms
+latency_per_output_token=2.47ms/tok
+output_tok_per_sec=404.89tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 238+541=
@@ -13886,7 +13976,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 581+553=
 ### Response:
-[0m1234
+[0m1334
 ### End
 Below is an instruction
 ####################################################################################################
@@ -14650,6 +14740,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction
 ####################################################################################################
+bs=32, input_tokens=array([221, 221, 221, 221, 221, 221, 221, 221, 222, 222, 221, 222, 222,
+       222, 221, 222, 221, 221, 222, 221, 221, 221, 221, 221, 221, 222,
+       221, 221, 221, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7080, total_output_tokens=320
+encode_latency=5.90ms, gen_latency=861.08ms, decode_latency=5.66ms, total_latency=872.64ms
+latency_per_output_token=2.73ms/tok
+output_tok_per_sec=366.70tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 238+541=
@@ -14687,22 +14789,6 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m1158
 ### End
 Below is an instruction
-####################################################################################################
-bs=64, input_tokens=array([221, 221, 222, 221, 223, 221, 222, 221, 221, 221, 221, 221, 222,
-       222, 221, 221, 222, 221, 221, 221, 221, 221, 221, 221, 221, 221,
-       221, 222, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221,
-       222, 222, 221, 222, 222, 222, 221, 222, 221, 221, 222, 221, 221,
-       221, 221, 221, 221, 222, 221, 221, 221, 221, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
-total_input_tokens=14160, total_output_tokens=640
-encode_latency=10.24ms, gen_latency=1376.00ms, decode_latency=6.03ms, total_latency=1392.27ms
-latency_per_output_token=2.18ms/tok
-output_tok_per_sec=459.68tok/sec
-
-Tokenizing prompts...
-Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -15882,6 +15968,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction
 ####################################################################################################
+bs=32, input_tokens=array([221, 221, 221, 221, 221, 221, 221, 222, 221, 222, 222, 221, 222,
+       221, 221, 221, 221, 221, 223, 221, 222, 221, 221, 221, 222, 221,
+       222, 222, 221, 221, 221, 222]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7083, total_output_tokens=320
+encode_latency=4.76ms, gen_latency=810.86ms, decode_latency=5.87ms, total_latency=821.48ms
+latency_per_output_token=2.57ms/tok
+output_tok_per_sec=389.54tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 238+541=
@@ -16220,7 +16318,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 445+952=
 ### Response:
-[0m1497
+[0m1097
 ### End
 Below is an instruction
 ####################################################################################################
@@ -16258,7 +16356,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 510+354=
 ### Response:
-[0m865
+[0m864
 ### End
 Below is an instruction
 ####################################################################################################
@@ -16296,7 +16394,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 452+658=
 ### Response:
-[0m1110
+[0m1210
 ### End
 Below is an instruction
 ####################################################################################################
@@ -17018,7 +17116,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 758+539=
 ### Response:
-[0m1397
+[0m1297
 ### End
 Below is an instruction
 ####################################################################################################
@@ -17094,9 +17192,21 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 237+568=
 ### Response:
-[0m815
+[0m805
 ### End
-Below is an instruction
+Below is an instruction that
+####################################################################################################
+bs=32, input_tokens=array([222, 221, 221, 221, 221, 221, 221, 222, 221, 221, 221, 222, 221,
+       221, 221, 222, 221, 221, 222, 221, 222, 221, 222, 221, 221, 221,
+       222, 221, 221, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7080, total_output_tokens=320
+encode_latency=4.88ms, gen_latency=856.40ms, decode_latency=5.89ms, total_latency=867.17ms
+latency_per_output_token=2.71ms/tok
+output_tok_per_sec=369.02tok/sec
+
+Tokenizing prompts...
+Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -17135,22 +17245,6 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m555
 ### End
 Below is an instruction that
-####################################################################################################
-bs=64, input_tokens=array([221, 221, 221, 221, 221, 221, 222, 221, 222, 222, 221, 222, 221,
-       221, 221, 221, 221, 223, 221, 222, 221, 221, 221, 222, 221, 222,
-       222, 221, 221, 221, 222, 222, 221, 221, 221, 221, 221, 221, 222,
-       221, 221, 221, 222, 221, 221, 221, 222, 221, 221, 222, 221, 222,
-       221, 222, 221, 221, 221, 222, 221, 221, 221, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
-total_input_tokens=14163, total_output_tokens=640
-encode_latency=10.89ms, gen_latency=1377.68ms, decode_latency=5.89ms, total_latency=1394.45ms
-latency_per_output_token=2.18ms/tok
-output_tok_per_sec=458.96tok/sec
-
-Tokenizing prompts...
-Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -18329,6 +18423,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m892
 ### End
 Below is an instruction that
+####################################################################################################
+bs=32, input_tokens=array([221, 222, 221, 222, 221, 222, 221, 221, 221, 221, 221, 221, 221,
+       221, 221, 221, 221, 221, 221, 223, 221, 222, 221, 222, 221, 222,
+       221, 221, 221, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7080, total_output_tokens=320
+encode_latency=6.14ms, gen_latency=846.37ms, decode_latency=6.52ms, total_latency=859.04ms
+latency_per_output_token=2.68ms/tok
+output_tok_per_sec=372.51tok/sec
+
+Tokenizing prompts...
+Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -19546,6 +19652,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction
 ####################################################################################################
+bs=32, input_tokens=array([221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221,
+       221, 221, 221, 221, 221, 221, 222, 221, 223, 221, 221, 221, 221,
+       221, 222, 221, 222, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7077, total_output_tokens=320
+encode_latency=4.68ms, gen_latency=798.89ms, decode_latency=5.76ms, total_latency=809.33ms
+latency_per_output_token=2.53ms/tok
+output_tok_per_sec=395.39tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 238+541=
@@ -19583,22 +19701,6 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m1211
 ### End
 Below is an instruction
-####################################################################################################
-bs=64, input_tokens=array([222, 221, 222, 221, 222, 221, 221, 221, 221, 221, 221, 221, 221,
-       221, 221, 221, 221, 221, 223, 221, 222, 221, 222, 221, 222, 221,
-       221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221,
-       221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 222, 221,
-       223, 221, 221, 221, 221, 221, 222, 221, 222, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
-total_input_tokens=14157, total_output_tokens=640
-encode_latency=10.50ms, gen_latency=1378.10ms, decode_latency=5.92ms, total_latency=1394.52ms
-latency_per_output_token=2.18ms/tok
-output_tok_per_sec=458.94tok/sec
-
-Tokenizing prompts...
-Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -20356,7 +20458,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 295+152=
 ### Response:
-[0m437
+[0m447
 ### End
 Below is an instruction that
 ####################################################################################################
@@ -20777,6 +20879,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m1731
 ### End
 Below is an instruction
+####################################################################################################
+bs=32, input_tokens=array([221, 221, 221, 221, 221, 222, 221, 221, 221, 221, 221, 222, 222,
+       221, 222, 221, 221, 222, 221, 221, 221, 221, 221, 222, 221, 221,
+       221, 221, 221, 221, 221, 222]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7079, total_output_tokens=320
+encode_latency=4.01ms, gen_latency=822.45ms, decode_latency=5.84ms, total_latency=832.30ms
+latency_per_output_token=2.60ms/tok
+output_tok_per_sec=384.48tok/sec
+
+Tokenizing prompts...
+Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -21994,6 +22108,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction
 ####################################################################################################
+bs=32, input_tokens=array([221, 221, 221, 221, 221, 223, 221, 221, 221, 221, 222, 222, 221,
+       221, 221, 221, 222, 221, 222, 221, 221, 221, 222, 222, 221, 221,
+       221, 221, 221, 221, 221, 223]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7082, total_output_tokens=320
+encode_latency=3.84ms, gen_latency=822.57ms, decode_latency=5.52ms, total_latency=831.93ms
+latency_per_output_token=2.60ms/tok
+output_tok_per_sec=384.65tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 238+541=
@@ -22031,22 +22157,6 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m1053
 ### End
 Below is an instruction
-####################################################################################################
-bs=64, input_tokens=array([221, 221, 221, 221, 222, 221, 221, 221, 221, 221, 222, 222, 221,
-       222, 221, 221, 222, 221, 221, 221, 221, 221, 222, 221, 221, 221,
-       221, 221, 221, 221, 222, 221, 221, 221, 221, 221, 223, 221, 221,
-       221, 221, 222, 222, 221, 221, 221, 221, 222, 221, 222, 221, 221,
-       221, 222, 222, 221, 221, 221, 221, 221, 221, 221, 223, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
-total_input_tokens=14161, total_output_tokens=640
-encode_latency=11.09ms, gen_latency=1377.36ms, decode_latency=5.91ms, total_latency=1394.36ms
-latency_per_output_token=2.18ms/tok
-output_tok_per_sec=458.99tok/sec
-
-Tokenizing prompts...
-Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -22120,7 +22230,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 439+270=
 ### Response:
-[0m709
+[0m699
 ### End
 Below is an instruction that
 ####################################################################################################
@@ -23225,6 +23335,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m430
 ### End
 Below is an instruction that
+####################################################################################################
+bs=32, input_tokens=array([221, 221, 221, 221, 221, 222, 221, 221, 221, 221, 221, 221, 221,
+       221, 221, 222, 221, 222, 221, 221, 221, 221, 221, 221, 221, 222,
+       221, 221, 221, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7076, total_output_tokens=320
+encode_latency=3.75ms, gen_latency=843.05ms, decode_latency=6.48ms, total_latency=853.28ms
+latency_per_output_token=2.67ms/tok
+output_tok_per_sec=375.02tok/sec
+
+Tokenizing prompts...
+Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -24442,6 +24564,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction
 ####################################################################################################
+bs=32, input_tokens=array([221, 221, 222, 221, 221, 222, 221, 221, 221, 221, 221, 221, 221,
+       221, 222, 222, 222, 223, 221, 221, 221, 222, 222, 221, 221, 221,
+       221, 221, 221, 221, 222, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7082, total_output_tokens=320
+encode_latency=6.04ms, gen_latency=791.01ms, decode_latency=5.24ms, total_latency=802.30ms
+latency_per_output_token=2.51ms/tok
+output_tok_per_sec=398.85tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 238+541=
@@ -24479,22 +24613,6 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m1529
 ### End
 Below is an instruction
-####################################################################################################
-bs=64, input_tokens=array([221, 221, 221, 221, 222, 221, 221, 221, 221, 221, 221, 221, 221,
-       221, 222, 221, 222, 221, 221, 221, 221, 221, 221, 221, 222, 221,
-       221, 221, 221, 221, 221, 221, 221, 222, 221, 221, 222, 221, 221,
-       221, 221, 221, 221, 221, 221, 222, 222, 222, 223, 221, 221, 221,
-       222, 222, 221, 221, 221, 221, 221, 221, 221, 222, 221, 222]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
-total_input_tokens=14159, total_output_tokens=640
-encode_latency=10.60ms, gen_latency=1380.42ms, decode_latency=6.03ms, total_latency=1397.06ms
-latency_per_output_token=2.18ms/tok
-output_tok_per_sec=458.11tok/sec
-
-Tokenizing prompts...
-Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -24568,7 +24686,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 898+620=
 ### Response:
-[0m1118
+[0m1218
 ### End
 Below is an instruction
 ####################################################################################################
@@ -24606,7 +24724,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 861+888=
 ### Response:
-[0m1559
+[0m1549
 ### End
 Below is an instruction
 ####################################################################################################
@@ -25673,6 +25791,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m1130
 ### End
 Below is an instruction
+####################################################################################################
+bs=32, input_tokens=array([222, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221,
+       221, 222, 222, 222, 221, 221, 221, 221, 221, 221, 221, 221, 222,
+       221, 222, 222, 222, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7080, total_output_tokens=320
+encode_latency=6.61ms, gen_latency=799.33ms, decode_latency=5.27ms, total_latency=811.21ms
+latency_per_output_token=2.54ms/tok
+output_tok_per_sec=394.47tok/sec
+
+Tokenizing prompts...
+Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -26890,6 +27020,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction that
 ####################################################################################################
+bs=32, input_tokens=array([221, 221, 221, 221, 221, 222, 221, 221, 221, 222, 221, 222, 223,
+       221, 221, 222, 221, 221, 221, 221, 221, 221, 221, 221, 222, 221,
+       221, 221, 221, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7079, total_output_tokens=320
+encode_latency=7.54ms, gen_latency=814.13ms, decode_latency=4.82ms, total_latency=826.49ms
+latency_per_output_token=2.58ms/tok
+output_tok_per_sec=387.18tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 238+541=
@@ -26927,22 +27069,6 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m777
 ### End
 Below is an instruction that
-####################################################################################################
-bs=64, input_tokens=array([221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221,
-       222, 222, 222, 221, 221, 221, 221, 221, 221, 221, 221, 222, 221,
-       222, 222, 222, 221, 221, 221, 221, 221, 221, 221, 222, 221, 221,
-       221, 222, 221, 222, 223, 221, 221, 222, 221, 221, 221, 221, 221,
-       221, 221, 221, 222, 221, 221, 221, 221, 221, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
-total_input_tokens=14158, total_output_tokens=640
-encode_latency=10.91ms, gen_latency=1377.97ms, decode_latency=5.89ms, total_latency=1394.77ms
-latency_per_output_token=2.18ms/tok
-output_tok_per_sec=458.86tok/sec
-
-Tokenizing prompts...
-Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -28121,6 +28247,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m273
 ### End
 Below is an instruction that
+####################################################################################################
+bs=32, input_tokens=array([221, 221, 222, 221, 222, 221, 221, 222, 223, 221, 221, 221, 221,
+       221, 221, 221, 221, 221, 221, 221, 222, 221, 221, 221, 222, 221,
+       222, 221, 221, 221, 222, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7081, total_output_tokens=320
+encode_latency=4.31ms, gen_latency=847.26ms, decode_latency=6.29ms, total_latency=857.85ms
+latency_per_output_token=2.68ms/tok
+output_tok_per_sec=373.03tok/sec
+
+Tokenizing prompts...
+Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -29338,6 +29476,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction that
 ####################################################################################################
+bs=32, input_tokens=array([221, 223, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221,
+       221, 221, 221, 221, 221, 223, 221, 221, 221, 221, 221, 221, 221,
+       221, 221, 221, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7076, total_output_tokens=320
+encode_latency=4.53ms, gen_latency=846.61ms, decode_latency=6.21ms, total_latency=857.35ms
+latency_per_output_token=2.68ms/tok
+output_tok_per_sec=373.24tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 238+541=
@@ -29375,22 +29525,6 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m827
 ### End
 Below is an instruction
-####################################################################################################
-bs=64, input_tokens=array([221, 222, 221, 222, 221, 221, 222, 223, 221, 221, 221, 221, 221,
-       221, 221, 221, 221, 221, 221, 222, 221, 221, 221, 222, 221, 222,
-       221, 221, 221, 222, 221, 221, 223, 221, 221, 221, 221, 221, 221,
-       221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 223, 221, 221,
-       221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
-total_input_tokens=14157, total_output_tokens=640
-encode_latency=11.17ms, gen_latency=1377.62ms, decode_latency=5.89ms, total_latency=1394.68ms
-latency_per_output_token=2.18ms/tok
-output_tok_per_sec=458.89tok/sec
-
-Tokenizing prompts...
-Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -30570,6 +30704,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction
 ####################################################################################################
+bs=32, input_tokens=array([221, 221, 221, 221, 222, 221, 221, 221, 221, 221, 221, 221, 221,
+       222, 221, 221, 221, 221, 221, 221, 221, 221, 222, 221, 221, 223,
+       221, 222, 221, 221, 221, 222]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7079, total_output_tokens=320
+encode_latency=4.05ms, gen_latency=861.49ms, decode_latency=5.50ms, total_latency=871.05ms
+latency_per_output_token=2.72ms/tok
+output_tok_per_sec=367.37tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 238+541=
@@ -31288,7 +31434,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 25+975=
 ### Response:
-[0m975
+[0m985
 ### End
 Below is an instruction
 ####################################################################################################
@@ -31786,6 +31932,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction that
 ####################################################################################################
+bs=32, input_tokens=array([221, 221, 221, 221, 221, 222, 221, 221, 222, 221, 221, 222, 221,
+       221, 222, 222, 222, 221, 222, 221, 221, 221, 221, 221, 221, 221,
+       221, 221, 221, 221, 222, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7080, total_output_tokens=320
+encode_latency=7.83ms, gen_latency=816.08ms, decode_latency=2.70ms, total_latency=826.61ms
+latency_per_output_token=2.58ms/tok
+output_tok_per_sec=387.13tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 238+541=
@@ -31823,22 +31981,6 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m777
 ### End
 Below is an instruction that
-####################################################################################################
-bs=64, input_tokens=array([221, 221, 221, 222, 221, 221, 221, 221, 221, 221, 221, 221, 222,
-       221, 221, 221, 221, 221, 221, 221, 221, 222, 221, 221, 223, 221,
-       222, 221, 221, 221, 222, 221, 221, 221, 221, 221, 222, 221, 221,
-       222, 221, 221, 222, 221, 221, 222, 222, 222, 221, 222, 221, 221,
-       221, 221, 221, 221, 221, 221, 221, 221, 221, 222, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
-total_input_tokens=14159, total_output_tokens=640
-encode_latency=11.05ms, gen_latency=1378.41ms, decode_latency=5.91ms, total_latency=1395.37ms
-latency_per_output_token=2.18ms/tok
-output_tok_per_sec=458.66tok/sec
-
-Tokenizing prompts...
-Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -33018,6 +33160,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction that
 ####################################################################################################
+bs=32, input_tokens=array([221, 221, 221, 221, 221, 221, 221, 221, 222, 221, 221, 221, 222,
+       221, 221, 221, 221, 221, 222, 221, 223, 221, 221, 222, 221, 221,
+       222, 221, 221, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7079, total_output_tokens=320
+encode_latency=3.95ms, gen_latency=803.58ms, decode_latency=5.27ms, total_latency=812.80ms
+latency_per_output_token=2.54ms/tok
+output_tok_per_sec=393.70tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 238+541=
@@ -33850,7 +34004,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 954+322=
 ### Response:
-[0m1266
+[0m1276
 ### End
 Below is an instruction
 ####################################################################################################
@@ -34040,7 +34194,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 606+664=
 ### Response:
-[0m1370
+[0m1270
 ### End
 Below is an instruction
 ####################################################################################################
@@ -34078,7 +34232,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 432+195=
 ### Response:
-[0m627
+[0m527
 ### End
 Below is an instruction that
 ####################################################################################################
@@ -34234,6 +34388,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction that
 ####################################################################################################
+bs=32, input_tokens=array([222, 221, 221, 222, 221, 221, 221, 222, 221, 221, 221, 221, 221,
+       221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 222, 222, 222,
+       222, 221, 221, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7079, total_output_tokens=320
+encode_latency=3.97ms, gen_latency=841.23ms, decode_latency=6.35ms, total_latency=851.55ms
+latency_per_output_token=2.66ms/tok
+output_tok_per_sec=375.79tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 238+541=
@@ -34271,22 +34437,6 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m946
 ### End
 Below is an instruction
-####################################################################################################
-bs=64, input_tokens=array([221, 221, 221, 221, 221, 221, 221, 222, 221, 221, 221, 222, 221,
-       221, 221, 221, 221, 222, 221, 223, 221, 221, 222, 221, 221, 222,
-       221, 221, 221, 221, 221, 222, 221, 221, 222, 221, 221, 221, 222,
-       221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221, 221,
-       221, 221, 222, 222, 222, 222, 221, 221, 221, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
-total_input_tokens=14158, total_output_tokens=640
-encode_latency=10.93ms, gen_latency=1376.74ms, decode_latency=5.89ms, total_latency=1393.55ms
-latency_per_output_token=2.18ms/tok
-output_tok_per_sec=459.26tok/sec
-
-Tokenizing prompts...
-Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -35465,6 +35615,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m533
 ### End
 Below is an instruction that
+####################################################################################################
+bs=32, input_tokens=array([221, 222, 221, 223, 221, 221, 221, 221, 222, 222, 221, 221, 221,
+       222, 221, 221, 221, 221, 221, 221, 221, 221, 222, 222, 222, 222,
+       221, 221, 221, 221, 222, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7083, total_output_tokens=320
+encode_latency=8.43ms, gen_latency=821.38ms, decode_latency=6.31ms, total_latency=836.12ms
+latency_per_output_token=2.61ms/tok
+output_tok_per_sec=382.72tok/sec
+
+Tokenizing prompts...
+Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -36682,6 +36844,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction
 ####################################################################################################
+bs=32, input_tokens=array([222, 222, 221, 221, 222, 221, 221, 222, 221, 221, 221, 222, 221,
+       221, 221, 221, 222, 223, 221, 221, 222, 221, 222, 221, 222, 221,
+       221, 221, 221, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7083, total_output_tokens=320
+encode_latency=7.45ms, gen_latency=813.35ms, decode_latency=5.80ms, total_latency=826.60ms
+latency_per_output_token=2.58ms/tok
+output_tok_per_sec=387.13tok/sec
+
+Tokenizing prompts...
+Generating responses...
+####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 238+541=
@@ -36719,22 +36893,6 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m848
 ### End
 Below is an instruction
-####################################################################################################
-bs=64, input_tokens=array([222, 221, 223, 221, 221, 221, 221, 222, 222, 221, 221, 221, 222,
-       221, 221, 221, 221, 221, 221, 221, 221, 222, 222, 222, 222, 221,
-       221, 221, 221, 222, 221, 222, 222, 221, 221, 222, 221, 221, 222,
-       221, 221, 221, 222, 221, 221, 221, 221, 222, 223, 221, 221, 222,
-       221, 222, 221, 222, 221, 221, 221, 221, 221, 221, 221, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
-total_input_tokens=14166, total_output_tokens=640
-encode_latency=10.56ms, gen_latency=1375.99ms, decode_latency=5.83ms, total_latency=1392.38ms
-latency_per_output_token=2.18ms/tok
-output_tok_per_sec=459.64tok/sec
-
-Tokenizing prompts...
-Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -37758,7 +37916,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 545+853=
 ### Response:
-[0m1398
+[0m1408
 ### End
 Below is an instruction
 ####################################################################################################
@@ -37913,6 +38071,18 @@ Below is an instruction that describes a task. Write a response that appropriate
 [0m1004
 ### End
 Below is an instruction that
+####################################################################################################
+bs=32, input_tokens=array([221, 221, 221, 221, 222, 221, 221, 222, 222, 221, 222, 221, 221,
+       221, 221, 222, 221, 221, 222, 221, 221, 222, 221, 222, 221, 221,
+       221, 221, 221, 222, 222, 221]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
+       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=7082, total_output_tokens=320
+encode_latency=5.00ms, gen_latency=840.21ms, decode_latency=6.42ms, total_latency=851.62ms
+latency_per_output_token=2.66ms/tok
+output_tok_per_sec=375.75tok/sec
+
+Tokenizing prompts...
+Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -38219,12 +38389,8 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### End
 Below is an instruction that
 ####################################################################################################
-bs=39, input_tokens=array([221, 221, 221, 222, 221, 221, 222, 222, 221, 222, 221, 221, 221,
-       221, 222, 221, 221, 222, 221, 221, 222, 221, 222, 221, 221, 221,
-       221, 221, 222, 222, 221, 222, 221, 221, 221, 221, 221, 221, 225]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10,
-       10, 10, 10, 10, 10])
-total_input_tokens=8634, total_output_tokens=390
-encode_latency=8.12ms, gen_latency=951.00ms, decode_latency=3.71ms, total_latency=962.83ms
-latency_per_output_token=2.47ms/tok
-output_tok_per_sec=405.06tok/sec
+bs=8, input_tokens=array([222, 221, 221, 221, 221, 221, 221, 225]), output_tokens=array([10, 10, 10, 10, 10, 10, 10, 10])
+total_input_tokens=1773, total_output_tokens=80
+encode_latency=2.56ms, gen_latency=491.16ms, decode_latency=0.96ms, total_latency=494.68ms
+latency_per_output_token=6.18ms/tok
+output_tok_per_sec=161.72tok/sec
