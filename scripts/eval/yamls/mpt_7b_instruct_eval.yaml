@@ -12,12 +12,12 @@ tokenizer:
 model:
   name: hf_causal_lm
   pretrained_model_name_or_path: ${model_name_or_path}
-  init_device: cpu
+  init_device: meta
   pretrained: true
 
 load_path: # Add your (optional) Composer checkpoint path here!
 
-device_eval_batch_size: 16
+device_eval_batch_size: 8
 
 # FSDP config for model sharding
 fsdp_config:
@@ -28,7 +28,7 @@ loggers:
     wandb:
       project: kartik-exploration
       entity: mosaic-ml
-      group: kartik-eval-dolly-ift-runs
+      group: kartik-eval-dolly-ift-runs-v2
 
 icl_tasks:
 -
