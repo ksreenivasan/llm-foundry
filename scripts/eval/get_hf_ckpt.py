@@ -29,7 +29,7 @@ def main(args: Namespace) -> None:
                     "flash_attn_triton.py", "generation_config.json",
                     "hf_prefixlm_converter.py", "meta_init_context.py",
                     "modeling_mpt.py", "norm.py", "param_init_fns.py",
-                    "pytorch_model.bin", "pytorch_model-00001-of-00002.bin",
+                    "pytorch_model-00001-of-00002.bin",
                     "pytorch_model-00002-of-00002.bin", "pytorch_model.bin",
                     "pytorch_model.bin.index.json", "special_tokens_map.json", "tokenizer.json",
                     "tokenizer_config.json"]
