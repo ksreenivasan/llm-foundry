@@ -35,7 +35,7 @@ def main(args: Namespace) -> None:
                     "tokenizer_config.json"]
     print(f"Going to start copying {args.hf_source_path} to {args.hf_output_path}")
 
-    if not os.exists(args.hf_output_path):
+    if not os.path.exists(args.hf_output_path):
         os.makedirs(args.hf_output_path)
 
     for hf_filename in hf_filenames:
