@@ -1,54 +1,91 @@
 integrations:
 - integration_type: git_repo
   git_repo: mosaicml/llm-foundry
-  git_branch: main # use your branch
+  git_branch: model_gauntlet # use your branch
   # git_commit: # OR use your commit hash
   pip_install: -e ".[gpu]"
   ssh_clone: false # Should be true if using a private repo
 
 command: |
   cd llm-foundry/scripts
+  pip install git+https://github.com/mosaicml/composer.git@dev
   composer eval/eval.py /mnt/config/parameters.yaml
 
-image: mosaicml/pytorch:1.13.1_cu117-python3.10-ubuntu20.04
+image: mosaicml/pytorch:2.0.1_cu118-python3.10-ubuntu20.04-aws
 
 # Mosaic Cloud will use run_name (with a unique suffix) to populate the env var $RUN_NAME
-# run_name: mpt-7b-eval
-run_name: llama-eval
+run_name: falcon-eval
 gpu_num: 32
 gpu_type: a100_40gb
-cluster: # replace with your cluster here!
+cluster: r4z4 # replace with your cluster here!
 
 # The below is injected as a YAML file: /mnt/config/parameters.yaml
 parameters:
   seed: 1
   max_seq_len: 1024
   device_eval_batch_size: 8
-  precision: fp32
+  precision: amp_fp16
+ 
+  models:
+  -
+    model_name: tiiuae/falcon-7b
+    # Tokenizer
+    tokenizer:
+      name:  tiiuae/falcon-7b
+      kwargs:
+        model_max_length: ${max_seq_len}
 
-  model_name_or_path: huggyllama/llama-7b
-  # model_name_or_path: EleutherAI/gpt-j-6b
-  # model_name_or_path: EleutherAI/pythia-6.9b
-  # model_name_or_path: facebook/opt-6.7b
-  # model_name_or_path: cerebras/Cerebras-GPT-6.7B
-  # model_name_or_path: StabilityAI/stablelm-base-alpha-7b
-  # model_name_or_path: EleutherAI/gpt-neox-20b
-  # model_name_or_path: EleutherAI/pythia-12b
-  # model_name_or_path: facebook/opt-13b
-  # model_name_or_path: cerebras/Cerebras-GPT-13B
+    model:
+      name: hf_causal_lm
+      pretrained_model_name_or_path: tiiuae/falcon-7b
+      device: cpu
+      pretrained: true
+      use_auth_token: false
+  -
+    model_name: tiiuae/falcon-7b-instruct
+    # Tokenizer
+    tokenizer:
+      name:  tiiuae/falcon-7b-instruct
+      kwargs:
+        model_max_length: ${max_seq_len}
 
-  # Tokenizer
-  tokenizer:
-    name: ${model_name_or_path}
-    kwargs:
-      model_max_length: ${max_seq_len}
+    model:
+      name: hf_causal_lm
+      pretrained_model_name_or_path: tiiuae/falcon-7b-instruct
+      device: cpu
+      pretrained: true
+      use_auth_token: false
+  -
+    model_name: tiiuae/falcon-40b
+    # Tokenizer
+    tokenizer:
+      name:  tiiuae/falcon-40b
+      kwargs:
+        model_max_length: ${max_seq_len}
 
-  model:
-    name: hf_causal_lm
-    pretrained_model_name_or_path: ${model_name_or_path}
-    init_device: cpu
-    pretrained: true
-    use_auth_token: false
+    model:
+      name: hf_causal_lm
+      pretrained_model_name_or_path: tiiuae/falcon-40b
+      device: cpu
+      pretrained: true
+      use_auth_token: false
+  -
+    model_name: tiiuae/falcon-40b-instruct
+    # Tokenizer
+    tokenizer:
+      name:  tiiuae/falcon-40b-instruct
+      kwargs:
+        model_max_length: ${max_seq_len}
+
+    model:
+      name: hf_causal_lm
+      pretrained_model_name_or_path: tiiuae/falcon-40b-instruct
+      device: cpu
+      pretrained: true
+      use_auth_token: false
+  
+  
+  
 
   # FSDP config for model sharding
   fsdp_config:
@@ -56,3 +93,4 @@ parameters:
     mixed_precision: FULL
 
   icl_tasks: 'eval/yamls/tasks.yaml'
+  icl_taxonomy: 'eval/yamls/eval_taxonomy.yaml'
