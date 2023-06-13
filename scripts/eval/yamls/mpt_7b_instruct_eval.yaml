@@ -1,7 +1,7 @@
 max_seq_len: 2048
 seed: 1
 model_name_or_path: EleutherAI/gpt-neo-125M
-precision: bf16
+precision: amp_bf16
 
 # Tokenizer
 tokenizer:
