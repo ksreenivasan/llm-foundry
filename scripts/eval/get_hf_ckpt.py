@@ -17,8 +17,8 @@ def parse_args() -> Namespace:
         description=
         'Simple hacky script to download HF ckpt to a directory.'
     )
-    parser.add_argument('--source-dir', type=str, required=True)
-    parser.add_argument('--hf_output_path', type=str, required=True)
+    parser.add_argument('--hf-source-path', type=str, required=True)
+    parser.add_argument('--hf-output-path', type=str, required=True)
 
     return parser.parse_args()
 
@@ -33,9 +33,13 @@ def main(args: Namespace) -> None:
                     "pytorch_model-00002-of-00002.bin", "pytorch_model.bin",
                     "pytorch_model.bin.index.json", "special_tokens_map.json", "tokenizer.json",
                     "tokenizer_config.json"]
-    print(f"Going to start copying {args.source_dir} to {args.hf_output_path}")
+    print(f"Going to start copying {args.hf_source_path} to {args.hf_output_path}")
+
+    if not os.exists(args.hf_output_path):
+        os.makedirs(args.hf_output_path)
+
     for hf_filename in hf_filenames:
-        filename = os.path.join(args.source_dir, hf_filename)
+        filename = os.path.join(args.hf_source_path, hf_filename)
         try:
             output_filename = os.path.join(args.hf_output_path, hf_filename)
             get_file(filename, output_filename)
