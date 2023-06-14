@@ -1,0 +1,276 @@
+Using device=None and device_map='auto'
+Using model_dtype=torch.bfloat16
+Loading HF Config...
+
+Loading HF tokenizer...
+Loading HF model with dtype=torch.bfloat16...
+You are using config.init_device='cpu', but you can also use config.init_device="meta" with Composer + FSDP for fast initialization.
+n_params=6649286656
+NOT using autocast...
+
+Generate seed:
+42
+
+Generate kwargs:
+{'max_new_tokens': 100, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'no_repeat_ngram_size': 0, 'use_cache': True, 'do_sample': False, 'eos_token_id': 0, 'pad_token_id': 0}
+
+Tokenizing prompts...
+Warming up...
+Generating responses...
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What were the 'Big Four' railway companies in the UK before nationalisation
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the most dangerous motorcycle race in the world?
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+How to decide what type of dog you want to purchase or adopt?
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Can you give me some details about the moroccan geography ?
+### Response:
+[0m### End
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What were the 'Big Four' railway companies in the UK before nationalisation
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the most dangerous motorcycle race in the world?
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+How to decide what type of dog you want to purchase or adopt?
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+List the universities in Dublin in order of founding year ascending. Supply the answer as an enumerated list in the format {University name}, {Year of founding}
+### Response:
+[0mTrinity College, 1592
+University College Dublin, 1854
+Dublin Institute for Advanced Studies, 1930
+Royal College of Surgeons in Ireland, 1784
+National University of Ireland, 1854
+Dublin Institute of Technology, 1854
+Dublin City University, 1980
+
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What were the 'Big Four' railway companies in the UK before nationalisation
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the most dangerous motorcycle race in the world?
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+How to decide what type of dog you want to purchase or adopt?
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Why was Tamazulapam del Espíritu Santo placed under quarantine?
+### Response:
+[0m
+### End
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What were the 'Big Four' railway companies in the UK before nationalisation
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the most dangerous motorcycle race in the world?
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+How to decide what type of dog you want to purchase or adopt?
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+How to optimize space usage in garage
+### Response:
+[0m
+### End
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What were the 'Big Four' railway companies in the UK before nationalisation
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the most dangerous motorcycle race in the world?
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+How to decide what type of dog you want to purchase or adopt?
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the best NFL football team of all time?
+### Response:
+[0mThe Pittsburgh Steelers
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What were the 'Big Four' railway companies in the UK before nationalisation
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the most dangerous motorcycle race in the world?
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+How to decide what type of dog you want to purchase or adopt?
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What caused Covid 19?
+### Response:
+[0m
+### End
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What were the 'Big Four' railway companies in the UK before nationalisation
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the most dangerous motorcycle race in the world?
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+How to decide what type of dog you want to purchase or adopt?
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Tell me whether these are part of the judicial, executive, or legislative branch of government: Supreme Court, President, House, Senate
+### Response:
+[0mThe Supreme Court is part of the judicial branch, the President is part of the executive branch, and the House and Senate are part of the legislative branch.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What were the 'Big Four' railway companies in the UK before nationalisation
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the most dangerous motorcycle race in the world?
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+How to decide what type of dog you want to purchase or adopt?
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+When did space exploration begin ?
+### Response:
+[0m### End
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What were the 'Big Four' railway companies in the UK before nationalisation
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the most dangerous motorcycle race in the world?
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+How to decide what type of dog you want to purchase or adopt?
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+In Africa, were cattle domesticated before or after agriculture?
+### Response:
+[0mCattle were domesticated in Africa before agriculture.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What were the 'Big Four' railway companies in the UK before nationalisation
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the most dangerous motorcycle race in the world?
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+How to decide what type of dog you want to purchase or adopt?
+### Response:
+
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Extract what factions fight in the video game Command & Conquer: Red Alert
+### Response:
+### Response:
+[0mThe Allies and the Soviets
+####################################################################################################
+bs=10, input_tokens=array([177, 195, 183, 171, 175, 170, 190, 170, 176, 184]), output_tokens=array([ 3, 58,  3,  3,  3,  3, 31,  3, 10,  6])
+total_input_tokens=1791, total_output_tokens=123
+encode_latency=4.26ms, gen_latency=1301.18ms, decode_latency=1.46ms, total_latency=1306.90ms
+latency_per_output_token=10.63ms/tok
+output_tok_per_sec=94.12tok/sec

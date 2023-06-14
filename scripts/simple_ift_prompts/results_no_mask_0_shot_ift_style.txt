@@ -1,0 +1,90 @@
+Using device=None and device_map='auto'
+Using model_dtype=torch.bfloat16
+Loading HF Config...
+
+Loading HF tokenizer...
+Loading HF model with dtype=torch.bfloat16...
+You are using config.init_device='cpu', but you can also use config.init_device="meta" with Composer + FSDP for fast initialization.
+n_params=6649286656
+NOT using autocast...
+
+Generate seed:
+42
+
+Generate kwargs:
+{'max_new_tokens': 100, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'no_repeat_ngram_size': 0, 'use_cache': True, 'do_sample': False, 'eos_token_id': 0, 'pad_token_id': 0}
+
+Tokenizing prompts...
+Warming up...
+Generating responses...
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+How do you cook eggs?
+### Response:
+[0mEggs are a great source of protein and are a staple in many diets.  There are many ways to cook eggs, but the most common way is to fry them in a pan with some oil.  You can also poach them in a pot of boiling water, or scramble them in a skillet.  Eggs are also delicious when baked in the oven, or cooked in a casserole.  Eggs are a versatile and nutritious food, and are
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Quel a été l'impact de la révolution française ?
+### Response:
+[0ma révolution française a eu un impact considérable sur la société française et sur le monde. Elle a été la première révolution de la modernité, et elle a eu un impact sur la vie politique, économique, sociale et culturelle. Elle a été la première révolution qui a été réalisée par la force armée, et elle a été la première révolution qui a été réalisée par
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the difference between a GPU and a CPU?
+### Response:
+[0mA GPU is a graphics processing unit, which is a specialized chip that is used to process graphics. A CPU is a central processing unit, which is a general-purpose chip that is used to process all types of data. GPUs are used for graphics processing, while CPUs are used for general-purpose processing.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+In the provided text multiple examples of a metric are given. Extract the third example of a metric.
+### Response:
+[0mThe third example of a metric is the number of people who have been vaccinated against the flu.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Why do people like to drink tea?
+### Response:
+[0mTea is a beverage that is made from the leaves of the Camellia sinensis plant. It is a popular drink in many parts of the world, and is often served hot. Tea is made by steeping the leaves in hot water, and the resulting liquid is then consumed. Tea is a healthy beverage, and is often consumed for its health benefits. It is also a popular drink for its flavor and aroma, and is often served with milk or other ingredients. Tea is a popular drink
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Tell me whether these are Major League Baseball or National Basketball Association teams: Yankees, Astros, Dodgers, Pirates and Padres.
+### Response:
+[0mThe Yankees, Astros, Dodgers and Pirates are Major League Baseball teams. The Padres are a National Basketball Association team.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+List top 5 people with most silver medals in the olympics
+### Response:
+[0m1. Michael Phelps
+2. Larisa Latynina
+3. Carl Lewis
+4. Mark Spitz
+5. Larisa Latynina
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+How many members are in FATF ?
+### Response:
+[0mhe Financial Action Task Force (FATF) is an intergovernmental body that develops and promotes policies to combat money laundering, terrorist financing, and other related threats to the integrity of the international financial system. The FATF was established in 1989 by the G7, and has since grown to include 37 member jurisdictions and one associate member. The FATF is headquartered in Paris, France, and is supported by a secretariat of around 200 staff.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the best thing about being a manager?
+### Response:
+[0mThe best thing about being a manager is that you get to help people grow and develop.  You get to help them learn new skills, and you get to help them become better at their jobs.  You also get to help them become better people.  You get to help them become more confident, more self-assured, and more capable.  You get to help them become better at their jobs, and you get to help them become better people.  That's the best thing about
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Who is Mahatma Gandhi?
+### Response:
+### Response:
+[0mMahatma Gandhi was a leader of the Indian independence movement. He was born in 1869 in Gujarat, India. He was a lawyer and a political activist. He was a leader of the Indian independence movement. He was a lawyer and a political activist. He was a leader of the Indian independence movement. He was a lawyer and a political activist. He was a leader of the Indian independence movement. He was a lawyer and a political activist. He was a leader of the Indian independence
+####################################################################################################
+bs=10, input_tokens=array([34, 44, 39, 48, 36, 54, 41, 36, 38, 39]), output_tokens=array([100, 100,  64,  19, 100,  25,  33,  91, 100, 100])
+total_input_tokens=409, total_output_tokens=732
+encode_latency=4.94ms, gen_latency=1872.60ms, decode_latency=1.15ms, total_latency=1878.70ms
+latency_per_output_token=2.57ms/tok
+output_tok_per_sec=389.63tok/sec

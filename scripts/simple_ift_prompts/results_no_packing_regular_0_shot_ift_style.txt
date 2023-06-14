@@ -1,0 +1,90 @@
+Using device=None and device_map='auto'
+Using model_dtype=torch.bfloat16
+Loading HF Config...
+
+Loading HF tokenizer...
+Loading HF model with dtype=torch.bfloat16...
+You are using config.init_device='cpu', but you can also use config.init_device="meta" with Composer + FSDP for fast initialization.
+n_params=6649286656
+NOT using autocast...
+
+Generate seed:
+42
+
+Generate kwargs:
+{'max_new_tokens': 100, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'no_repeat_ngram_size': 0, 'use_cache': True, 'do_sample': False, 'eos_token_id': 0, 'pad_token_id': 0}
+
+Tokenizing prompts...
+Warming up...
+Generating responses...
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+How do you cook eggs?
+### Response:
+[0mEggs are a great source of protein and can be cooked in many different ways. The most common way to cook eggs is to scramble them. To scramble eggs, crack the eggs into a bowl and whisk them with a fork or whisk. Once the eggs are whisked, add them to a pan on medium heat. Once the eggs start to bubble, use a spatula to stir them. Once the eggs are cooked, you can add any toppings you like. Some common topp
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Quel a été l'impact de la révolution française ?
+### Response:
+[0ma révolution française a eu un impact considérable sur la France et sur l'Europe. Elle a eu un impact politique, économique et social. Elle a eu un impact sur la France et sur l'Europe en ce qu'elle a permis à ces pays de se dégager de l'ancienne monarchie et d'un ancien système politique. Elle a eu un impact politique en ce qu'elle a crééé la
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the difference between a GPU and a CPU?
+### Response:
+[0mA GPU is a graphics processing unit, which is a specialized processor for rendering 3D graphics. A CPU is a central processing unit, which is a general-purpose processor for executing computer programs.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+In the provided text multiple examples of a metric are given. Extract the third example of a metric.
+### Response:
+[0mThe third example of a metric is the number of people who have been vaccinated against a disease.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Why do people like to drink tea?
+### Response:
+[0mTea is a popular drink around the world. It is a hot beverage that is made from the leaves of the Camellia sinensis plant. It is a healthy drink that is full of antioxidants. It is also a great way to relax and de-stress.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Tell me whether these are Major League Baseball or National Basketball Association teams: Yankees, Astros, Dodgers, Pirates and Padres.
+### Response:
+[0mThe Yankees, Astros and Dodgers are Major League Baseball teams. The Pirates and Padres are National Basketball Association teams.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+List top 5 people with most silver medals in the olympics
+### Response:
+[0m1. Larisa Latynina (Russia) - 9 silver medals
+2. Paavo Nurmi (Finland) - 9 silver medals
+3. Mark Spitz (USA) - 9 silver medals
+4. Larisa Latynina (Russia) - 9 silver medals
+5. Paavo Nurmi (Finland) - 9 silver medals
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+How many members are in FATF ?
+### Response:
+[0mATF has 37 members and 5 observers.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the best thing about being a manager?
+### Response:
+[0mThe best thing about being a manager is that you get to help people grow and develop. You get to help them learn new skills and help them achieve their goals. You also get to help them help others.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Who is Mahatma Gandhi?
+### Response:
+### Response:
+[0mMahatma Gandhi was a leader of the Indian independence movement and the preeminent political figure of the Indian National Congress. He is widely regarded as the father of the nation.
+####################################################################################################
+bs=10, input_tokens=array([34, 44, 39, 48, 36, 54, 41, 36, 38, 39]), output_tokens=array([100, 100,  39,  19,  54,  24,  74,  10,  42,  36])
+total_input_tokens=409, total_output_tokens=498
+encode_latency=2.52ms, gen_latency=1975.74ms, decode_latency=1.88ms, total_latency=1980.13ms
+latency_per_output_token=3.98ms/tok
+output_tok_per_sec=251.50tok/sec

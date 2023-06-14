@@ -1,0 +1,67 @@
+Using device=None and device_map='auto'
+Using model_dtype=torch.bfloat16
+Loading HF Config...
+
+Loading HF tokenizer...
+Loading HF model with dtype=torch.bfloat16...
+You are using config.init_device='cpu', but you can also use config.init_device="meta" with Composer + FSDP for fast initialization.
+n_params=6649286656
+NOT using autocast...
+
+Generate seed:
+42
+
+Generate kwargs:
+{'max_new_tokens': 100, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'no_repeat_ngram_size': 0, 'use_cache': True, 'do_sample': False, 'eos_token_id': 0, 'pad_token_id': 0}
+
+Tokenizing prompts...
+Warming up...
+Generating responses...
+####################################################################################################
+[92mWhat is pisco?[0m Pisco is a grape-based spirit that is produced in Peru and Chile. It is a clear, colorless spirit that is made from the fermentation of the grape, Muscatel. Pisco is a very popular spirit in South America and is often used in cocktails.
+Pisco is a clear, colorless spirit that is made from the fermentation of the grape, Muscatel. Pisco is a very popular spirit in South America and is often used in cocktails.
+P
+####################################################################################################
+[92mHow is electricity generated?[0m - Ask.com Answers
+<img src="http://wzus1.ask.com/i/i.gif?t=v&d=ask&s=200&w=278&sh=i&f=i&c=s&q=a&z=i&j=i&i=i&t=v&d=ask&s=200&w=278&sh=i&f=i&c=s&
+####################################################################################################
+[92mWhich MLB baseball team has the most World Series wins?[0m
+The New York Yankees have the most World Series wins with 27.
+The New York Yankees have the most World Series wins with 27. The Boston Red Sox are second with 8.
+####################################################################################################
+[92mWhat is the difference between football and soccer?[0m
+Football is a game played with a ball and a goal. Soccer is a game played with a ball and a goal.
+Football is a game played with a ball and a goal.
+Soccer is a game played with a ball and a goal.
+Football is a game played with a ball and a goal. Soccer is a game played with a ball and a goal. Football is a game played with a ball and a goal. Soccer is a game played with a ball and a goal
+####################################################################################################
+[92mCan you summarize the Korematsu case?[0m
+The Korematsu case was a landmark case in which the Supreme Court upheld the constitutionality of the internment of Japanese Americans during World War II. The case was brought by Fred Korematsu, a Japanese American who was arrested and detained in 1942 for refusing to comply with the order to report to an internment camp. The Supreme Court ruled that the internment was constitutional, but also noted that the government had overstepped its authority in the case. The decision was highly controversial and is
+####################################################################################################
+[92mWhat is Caracas?[0m
+Caracas is the capital of Venezuela and the largest city in the country. It is located in the central part of the country, on the western shore of Lake Maracaibo. The city is the center of the country's political, economic, and cultural life. It is also the seat of the National Assembly and the Supreme Court. Caracas is the center of Venezuela's oil industry and is home to many of the country's largest companies. The city is also a major center for
+####################################################################################################
+[92mClassify list as breeds of either a 'dog' or a 'cat': Border Collie, Siamese, Maine Coon, German Shepard, Persian, and Corgi?[0m
+Border Collie, Siamese, Maine Coon, German Shepard, Persian, and Corgi are all breeds of dogs.
+Border Collie, Siamese, Maine Coon, German Shepard, Persian, and Corgi are all breeds of cats.
+####################################################################################################
+[92mReplace the word "lawyer" with "judge" and the word "pacifist" with "peace lover"[0m and you have a pretty good description of the current state of affairs in the United States.
+The United States is a nation of laws, and the laws are made by the people's representatives in Congress. The people's representatives are elected by the people, and the people are the ones who make the laws. The people are the ones who elect the people's representatives, and the people are the ones who make the laws.
+The people are the ones who elect the people's representatives, and the
+####################################################################################################
+[92mWhat is the most important thing for law enforcement in a kidnapping case?[0m
+The most important thing for law enforcement in a kidnapping case is to find the victim as soon as possible.
+What is the most important thing for law enforcement in a kidnapping case? The most important thing for law enforcement in a kidnapping case is to find the victim as soon as possible.
+What is the most important thing for law enforcement in a kidnapping case? The most important thing for law enforcement in a kidnapping case is to find the victim as soon as possible.
+What is the most important
+####################################################################################################
+[92mWhat is the significance of Glasgow, Georgia?[0m
+Glasgow, Georgia is a small town in the southeastern part of the state. It is located in the Chattahoochee River Valley, about 30 miles north of Columbus, Georgia. Glasgow is the county seat of Upson County.
+The town was founded in 1823 and named for the city of Glasgow, Scotland. Glasgow was incorporated as a town in 1825.
+Glasgow is home to the Upson County Courthouse, which was built in 1833. The cour
+####################################################################################################
+bs=10, input_tokens=array([ 5,  5, 11,  9,  9,  6, 39, 24, 14,  9]), output_tokens=array([100, 100,  37, 100, 100, 100,  58, 100, 100, 100])
+total_input_tokens=131, total_output_tokens=895
+encode_latency=2.77ms, gen_latency=1962.84ms, decode_latency=1.85ms, total_latency=1967.46ms
+latency_per_output_token=2.20ms/tok
+output_tok_per_sec=454.90tok/sec
