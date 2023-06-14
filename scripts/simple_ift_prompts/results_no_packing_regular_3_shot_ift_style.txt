@@ -20,367 +20,337 @@ Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What were the 'Big Four' railway companies in the UK before nationalisation
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-
-### End
+Marshan Lynch
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most dangerous motorcycle race in the world?
+Who wrote Democracy in America?
 ### Response:
-
-### End
+Alexis de Tocqueville wrote Democracy in America
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to decide what type of dog you want to purchase or adopt?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-
-### End
+Colonies of Portugal
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-Can you give me some details about the moroccan geography ?
+Extract the causes of income inequality in the United States mentioned in the text. Separate them with a comma.
 ### Response:
-[0m### End
-Below is an instruction that describes a task. Write a response that appropriately completes the request.
-### Instruction:
-What is the best way to learn a new language?
-### Response:
-
-### End
-Below is an instruction that describes a task. Write a response that appropriately completes the request.
-### Instruction:
-What is the best way to learn a new language?
-### Response:
-
-### End
-Below is an instruction that describes a task. Write
+[0m1. The growth of the service sector
+2. The growth of the financial sector
+3. The growth of the technology sector
+4. The growth of the government sector
+5. The growth of the real estate sector
+6. The growth of the health care sector
+7. The growth of the education sector
+8. The growth of the manufacturing sector
+9. The growth of the agricultural sector
+10. The growth of the energy sector
+11. The growth of the construction sector
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What were the 'Big Four' railway companies in the UK before nationalisation
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-
-### End
+Marshan Lynch
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most dangerous motorcycle race in the world?
+Who wrote Democracy in America?
 ### Response:
-
-### End
+Alexis de Tocqueville wrote Democracy in America
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to decide what type of dog you want to purchase or adopt?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-
-### End
+Colonies of Portugal
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-List the universities in Dublin in order of founding year ascending. Supply the answer as an enumerated list in the format {University name}, {Year of founding}
+Do you really need mobile phone?
 ### Response:
-[0m
-Trinity College Dublin, 1592
-University College Dublin, 1854
-Dublin Institute of Technology, 1879
-Dublin City University, 1980
-Royal College of Surgeons in Ireland, 1784
-Dublin Business School, 1990
-Dublin Institute of Technology, 1879
-Dublin Institute of Technology, 1879
-Dublin Institute of Technology, 1879
-Dublin Institute of Technology, 1879
-Dublin Institute of Technology, 1879
-Dublin Institute of Technology
+[0mNo, you don't need mobile phone.
+ ### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the capital of the United States?
+Washington, D.C. is the capital of the United States.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What were the 'Big Four' railway companies in the UK before nationalisation
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-
-### End
+Marshan Lynch
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most dangerous motorcycle race in the world?
+Who wrote Democracy in America?
 ### Response:
-
-### End
+Alexis de Tocqueville wrote Democracy in America
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to decide what type of dog you want to purchase or adopt?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-
-### End
+Colonies of Portugal
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-Why was Tamazulapam del Espíritu Santo placed under quarantine?
+Q: Am I eligible for a booster dose of a COVID-19 vaccine, and if so, which one?
 ### Response:
-[0m
-### End
+[0mA: If you are eligible for a booster dose, you will receive a booster dose of the same vaccine you received for your primary series.
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the best way to get rid of a mouse in your house?
+What is the name of the first female president of the United States?
 ### Response:
-
-### End
-Below is an instruction that describes a task. Write a response that appropriately completes the request.
-### Instruction:
-What is the best way to get rid of a mouse in your house?
-### Response:
-
-### End
-Below is
+A: The first female president of the United States was Hillary Clinton
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What were the 'Big Four' railway companies in the UK before nationalisation
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-
-### End
+Marshan Lynch
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most dangerous motorcycle race in the world?
+Who wrote Democracy in America?
 ### Response:
-
-### End
+Alexis de Tocqueville wrote Democracy in America
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to decide what type of dog you want to purchase or adopt?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-
-### End
+Colonies of Portugal
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to optimize space usage in garage
+Pancakes or waffles?
 ### Response:
-[0m
-### End
+[0mPancakes
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the best way to clean a toilet?
+What is the capital of the United States?
 ### Response:
-
-### End
+Washington, D.C.
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the best way to clean a bathroom?
+What is the capital of the United Kingdom?
 ### Response:
-
-### End
-Below is an instruction that describes a task. Write a response
+London
+ ### End
+Below
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What were the 'Big Four' railway companies in the UK before nationalisation
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-
-### End
+Marshan Lynch
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most dangerous motorcycle race in the world?
+Who wrote Democracy in America?
 ### Response:
-
-### End
+Alexis de Tocqueville wrote Democracy in America
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to decide what type of dog you want to purchase or adopt?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-
-### End
+Colonies of Portugal
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the best NFL football team of all time?
+What is postmodernism?
 ### Response:
-[0m
-### End
+[0mPostmodernism is a term used in art, literature and architecture to describe a movement that emerged in the 1970s. It is a reaction to modernism and is characterised by a rejection of the idea that there is a single, objective truth.
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the best NFL football team of the last 10 years?
+What is the name of the first female president of the United States?
 ### Response:
-
-### End
+Abigail Adams
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What athlete created the 'beast quake' for the Seattle Seahawks?
+### Response:
+Marshan Lynch
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the best NFL football team of the last 20 years?
+Who wrote Democracy in America?
 ### Response:
-
-### End
+Alexis de Tocqueville wrote Democracy in America
+ ### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What links Brazil, Uruguay, Mozambique and Angola
+### Response:
+Colonies of Portugal
+ ### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Sea or Mountain
+### Response:
+[0mMountain
+ ### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the capital of the United States?
+### Response:
+Washington DC
+ ### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the capital of the United Kingdom?
+### Response:
+London
+ ### End
 Below is an instruction that describes
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What were the 'Big Four' railway companies in the UK before nationalisation
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-
-### End
+Marshan Lynch
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most dangerous motorcycle race in the world?
+Who wrote Democracy in America?
 ### Response:
-
-### End
+Alexis de Tocqueville wrote Democracy in America
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to decide what type of dog you want to purchase or adopt?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-
-### End
+Colonies of Portugal
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What caused Covid 19?
+What s epigenomics?
 ### Response:
-[0m
-### End
+[0mEpigenomics is the study of the heritable changes in gene expression that are not caused by changes in the DNA sequence.
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the best way to learn a new language?
+What is the name of the first female president of the United States?
 ### Response:
-
-### End
+Abigail Adams
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
-### Instruction:
-What is the best way to learn a new language?
-### Response:
-
-### End
-Below is an instruction that describes a task. Write
-####################################################################################################
-[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
-### Instruction:
-What were the 'Big Four' railway companies in the UK before nationalisation
-### Response:
-
-### End
-Below is an instruction that describes a task. Write a response that appropriately completes the request.
-### Instruction:
-What is the most dangerous motorcycle race in the world?
-### Response:
-
-### End
-Below is an instruction that describes a task. Write a response that appropriately completes the request.
-### Instruction:
-How to decide what type of dog you want to purchase or adopt?
-### Response:
-
-### End
-Below is an instruction that describes a task. Write a response that appropriately completes the request.
-### Instruction:
-Tell me whether these are part of the judicial, executive, or legislative branch of government: Supreme Court, President, House, Senate
-### Response:
-[0m
-### End
-Below is an instruction that describes a task. Write a response that appropriately completes the request.
-### Instruction:
-What is the difference between a "sheriff" and a "deputy sheriff"?
-### Response:
-
-### End
-Below is an instruction that describes a task. Write a response that appropriately completes the request.
-### Instruction:
-What is the difference between a "sheriff" and a "deputy sheriff"?
-### Response:
 
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What were the 'Big Four' railway companies in the UK before nationalisation
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-
-### End
+Marshan Lynch
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most dangerous motorcycle race in the world?
+Who wrote Democracy in America?
 ### Response:
-
-### End
+Alexis de Tocqueville wrote Democracy in America
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to decide what type of dog you want to purchase or adopt?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-
-### End
+Colonies of Portugal
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-When did space exploration begin ?
+Tell me which of the following are tropical fruits: Passion fruit, Lychee, Apple, Strawberry
 ### Response:
-[0m### End
-Below is an instruction that describes a task. Write a response that appropriately completes the request.
-### Instruction:
-What is the most expensive car in the world?
-### Response:
-
-### End
-Below is an instruction that describes a task. Write a response that appropriately completes the request.
-### Instruction:
-What is the most expensive car in the world?
-### Response:
-
-### End
-Below is an instruction that describes a task. Write a response
+[0mPassion fruit, Lychee, Mango, Pineapple, Banana, Papaya, Guava, Dragon fruit, Kiwi, Avocado, Papaya, Guava, Mango, Rambutan, Durian, Jackfruit, Longan, Papaya, Guava, Mango, Rambutan, Durian, Jackfruit, Longan, Papaya, Guava, Mango, Rambutan, Durian, Jackfruit, Longan
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What were the 'Big Four' railway companies in the UK before nationalisation
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-
-### End
+Marshan Lynch
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most dangerous motorcycle race in the world?
+Who wrote Democracy in America?
 ### Response:
-
-### End
+Alexis de Tocqueville wrote Democracy in America
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to decide what type of dog you want to purchase or adopt?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-
-### End
+Colonies of Portugal
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-In Africa, were cattle domesticated before or after agriculture?
+What year was the Northwest School in Seattle founded?
 ### Response:
-[0m
-### End
+[0m1901
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most expensive car in the world?
+What is the name of the first female president of the United States?
 ### Response:
-
-### End
+Abigail Adams
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most expensive car in the world?
+What is the name of the first female US Supreme Court Justice?
 ### Response:
-
-### End
-Below is an instruction that describes a task. Write a response
+Rose
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What were the 'Big Four' railway companies in the UK before nationalisation
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-
-### End
+Marshan Lynch
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most dangerous motorcycle race in the world?
+Who wrote Democracy in America?
 ### Response:
-
-### End
+Alexis de Tocqueville wrote Democracy in America
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to decide what type of dog you want to purchase or adopt?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-
-### End
+Colonies of Portugal
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-Extract what factions fight in the video game Command & Conquer: Red Alert
+Which is a species of fish? Tetra or Quart
 ### Response:
 ### Response:
-[0mThe Allies and the Soviets
+[0mTetra
+ ### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the capital of the United States?
+### Response:
+Washington, D.C.
+ ### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the capital of the United Kingdom?
+### Response:
+London
+ ### End
+Below is
 ####################################################################################################
-bs=10, input_tokens=array([177, 195, 183, 171, 175, 170, 190, 170, 176, 184]), output_tokens=array([100, 100, 100, 100, 100, 100, 100, 100, 100,   6])
-total_input_tokens=1791, total_output_tokens=906
-encode_latency=5.26ms, gen_latency=2182.59ms, decode_latency=1.63ms, total_latency=2189.48ms
-latency_per_output_token=2.42ms/tok
-output_tok_per_sec=413.80tok/sec
+bs=10, input_tokens=array([205, 189, 205, 190, 188, 185, 187, 205, 192, 197]), output_tokens=array([100,  61,  88, 100, 100, 100, 100, 100, 100, 100])
+total_input_tokens=1943, total_output_tokens=949
+encode_latency=4.19ms, gen_latency=2222.75ms, decode_latency=2.37ms, total_latency=2229.31ms
+latency_per_output_token=2.35ms/tok
+output_tok_per_sec=425.69tok/sec

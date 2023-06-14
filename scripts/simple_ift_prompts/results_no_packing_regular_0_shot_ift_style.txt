@@ -20,71 +20,74 @@ Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How do you cook eggs?
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-[0mEggs are a great source of protein and can be cooked in many different ways. The most common way to cook eggs is to scramble them. To scramble eggs, crack the eggs into a bowl and whisk them with a fork or whisk. Once the eggs are whisked, add them to a pan on medium heat. Once the eggs start to bubble, use a spatula to stir them. Once the eggs are cooked, you can add any toppings you like. Some common topp
+[0mMarshawn Lynch
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-Quel a été l'impact de la révolution française ?
+Who wrote Democracy in America?
 ### Response:
-[0ma révolution française a eu un impact considérable sur la France et sur l'Europe. Elle a eu un impact politique, économique et social. Elle a eu un impact sur la France et sur l'Europe en ce qu'elle a permis à ces pays de se dégager de l'ancienne monarchie et d'un ancien système politique. Elle a eu un impact politique en ce qu'elle a crééé la
+[0mDemocracy in America was written by Alexis de Tocqueville
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the difference between a GPU and a CPU?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-[0mA GPU is a graphics processing unit, which is a specialized processor for rendering 3D graphics. A CPU is a central processing unit, which is a general-purpose processor for executing computer programs.
+[0mThey are all Portuguese speaking countries
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-In the provided text multiple examples of a metric are given. Extract the third example of a metric.
+Extract the causes of income inequality in the United States mentioned in the text. Separate them with a comma.
 ### Response:
-[0mThe third example of a metric is the number of people who have been vaccinated against a disease.
+[0m1. The minimum wage is too low
+2. The rich get richer
+3. The poor get poorer
+4. The middle class shrinks
+5. The cost of living increases
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-Why do people like to drink tea?
+Do you really need mobile phone?
 ### Response:
-[0mTea is a popular drink around the world. It is a hot beverage that is made from the leaves of the Camellia sinensis plant. It is a healthy drink that is full of antioxidants. It is also a great way to relax and de-stress.
+[0mMobile phone is a necessity in today's world. It is a device that is used to communicate with people. It is a device that is used to access internet. It is a device that is used to capture memories. It is a device that is used to entertain. It is a device that is used to make life easier. It is a device that is used to make life more fun. It is a device that is used to make life more productive. It is a device that is used to
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-Tell me whether these are Major League Baseball or National Basketball Association teams: Yankees, Astros, Dodgers, Pirates and Padres.
+Q: Am I eligible for a booster dose of a COVID-19 vaccine, and if so, which one?
 ### Response:
-[0mThe Yankees, Astros and Dodgers are Major League Baseball teams. The Pirates and Padres are National Basketball Association teams.
+[0mA: If you received the Pfizer or Moderna COVID-19 vaccine, you are eligible for a booster dose. If you received the Johnson & Johnson vaccine, you are not eligible for a booster dose.
+Q: How long after receiving the first dose of a COVID-19 vaccine can I receive a booster dose?
+A: You can receive a booster dose of the same vaccine you received for the first dose, or a different vaccine, 28 days after receiving the first dose.
+Q
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-List top 5 people with most silver medals in the olympics
+Pancakes or waffles?
 ### Response:
-[0m1. Larisa Latynina (Russia) - 9 silver medals
-2. Paavo Nurmi (Finland) - 9 silver medals
-3. Mark Spitz (USA) - 9 silver medals
-4. Larisa Latynina (Russia) - 9 silver medals
-5. Paavo Nurmi (Finland) - 9 silver medals
+[0mPancakes
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How many members are in FATF ?
+What is postmodernism?
 ### Response:
-[0mATF has 37 members and 5 observers.
+[0mPostmodernism is a movement in the arts, literature, and philosophy that emerged in the 1970s. It is characterized by a rejection of the Enlightenment ideals of rationalism, empiricism, and universal truths. Instead, postmodernists emphasize the importance of context, subjectivity, and the multiplicity of perspectives. Postmodernism has had a significant impact on contemporary culture, influencing fields such as art, literature, and architecture.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the best thing about being a manager?
+Sea or Mountain
 ### Response:
-[0mThe best thing about being a manager is that you get to help people grow and develop. You get to help them learn new skills and help them achieve their goals. You also get to help them help others.
+[0mMountain
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-Who is Mahatma Gandhi?
+What s epigenomics?
 ### Response:
 ### Response:
-[0mMahatma Gandhi was a leader of the Indian independence movement and the preeminent political figure of the Indian National Congress. He is widely regarded as the father of the nation.
+[0mEpigenomics is the study of the epigenome, which is the set of chemical modifications to DNA and histones that influence gene expression without altering the DNA sequence. Epigenetic modifications include DNA methylation, histone modifications, and chromatin remodeling. Epigenomics is an emerging field of study that aims to understand the role of epigenetic modifications in development, disease, and evolution.
 ####################################################################################################
-bs=10, input_tokens=array([34, 44, 39, 48, 36, 54, 41, 36, 38, 39]), output_tokens=array([100, 100,  39,  19,  54,  24,  74,  10,  42,  36])
-total_input_tokens=409, total_output_tokens=498
-encode_latency=2.52ms, gen_latency=1975.74ms, decode_latency=1.88ms, total_latency=1980.13ms
-latency_per_output_token=3.98ms/tok
-output_tok_per_sec=251.50tok/sec
+bs=10, input_tokens=array([44, 34, 42, 51, 35, 51, 36, 34, 31, 37]), output_tokens=array([  5,  14,   6,  38, 100, 100,   3,  86,   2,  74])
+total_input_tokens=395, total_output_tokens=428
+encode_latency=3.00ms, gen_latency=1931.11ms, decode_latency=1.61ms, total_latency=1935.72ms
+latency_per_output_token=4.52ms/tok
+output_tok_per_sec=221.11tok/sec

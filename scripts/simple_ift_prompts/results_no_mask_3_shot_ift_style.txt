@@ -20,257 +20,256 @@ Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What were the 'Big Four' railway companies in the UK before nationalisation
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-
-### End
+Marshan Lynch
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most dangerous motorcycle race in the world?
+Who wrote Democracy in America?
 ### Response:
-
-### End
+Alexis de Tocqueville wrote Democracy in America
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to decide what type of dog you want to purchase or adopt?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-
-### End
+Colonies of Portugal
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-Can you give me some details about the moroccan geography ?
+Extract the causes of income inequality in the United States mentioned in the text. Separate them with a comma.
 ### Response:
-[0m### End
+[0m1. The rise of the service sector
+2. The rise of the knowledge economy
+3. The rise of the financial sector
+4. The rise of the technology sector
+5. The rise of the real estate sector
+6. The rise of the health care sector
+7. The rise of the education sector
+8. The rise of the government sector
+9. The rise of the military sector
+10. The rise of the entertainment sector
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What were the 'Big Four' railway companies in the UK before nationalisation
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-
-### End
+Marshan Lynch
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most dangerous motorcycle race in the world?
+Who wrote Democracy in America?
 ### Response:
-
-### End
+Alexis de Tocqueville wrote Democracy in America
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to decide what type of dog you want to purchase or adopt?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-
-### End
+Colonies of Portugal
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-List the universities in Dublin in order of founding year ascending. Supply the answer as an enumerated list in the format {University name}, {Year of founding}
+Do you really need mobile phone?
 ### Response:
-[0mTrinity College, 1592
-University College Dublin, 1854
-Dublin Institute for Advanced Studies, 1930
-Royal College of Surgeons in Ireland, 1784
-National University of Ireland, 1854
-Dublin Institute of Technology, 1854
-Dublin City University, 1980
-
+[0mYes, it is very important to have a mobile phone.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What were the 'Big Four' railway companies in the UK before nationalisation
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-
-### End
+Marshan Lynch
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most dangerous motorcycle race in the world?
+Who wrote Democracy in America?
 ### Response:
-
-### End
+Alexis de Tocqueville wrote Democracy in America
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to decide what type of dog you want to purchase or adopt?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-
-### End
+Colonies of Portugal
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-Why was Tamazulapam del Espíritu Santo placed under quarantine?
+Q: Am I eligible for a booster dose of a COVID-19 vaccine, and if so, which one?
 ### Response:
-[0m
-### End
+[0mYes, you are eligible for a booster dose of a COVID-19 vaccine, and if you are eligible for a booster dose, you can choose which one you want.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What were the 'Big Four' railway companies in the UK before nationalisation
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-
-### End
+Marshan Lynch
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most dangerous motorcycle race in the world?
+Who wrote Democracy in America?
 ### Response:
-
-### End
+Alexis de Tocqueville wrote Democracy in America
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to decide what type of dog you want to purchase or adopt?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-
-### End
+Colonies of Portugal
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to optimize space usage in garage
+Pancakes or waffles?
 ### Response:
-[0m
-### End
+[0mPancakes
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What were the 'Big Four' railway companies in the UK before nationalisation
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-
-### End
+Marshan Lynch
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most dangerous motorcycle race in the world?
+Who wrote Democracy in America?
 ### Response:
-
-### End
+Alexis de Tocqueville wrote Democracy in America
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to decide what type of dog you want to purchase or adopt?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-
-### End
+Colonies of Portugal
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the best NFL football team of all time?
+What is postmodernism?
 ### Response:
-[0mThe Pittsburgh Steelers
+[0mPostmodernism is a term used to describe a broad range of cultural, social, and political ideas and movements that emerged in the late 20th century. Postmodernism is characterized by a rejection of the modernist belief in progress and the idea that there is a single, objective truth. Instead, postmodernists emphasize the importance of multiple perspectives and the fluidity of meaning. Postmodernism has had a significant impact on contemporary culture, influencing fields such as art, literature, and politics.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What were the 'Big Four' railway companies in the UK before nationalisation
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-
-### End
+Marshan Lynch
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most dangerous motorcycle race in the world?
+Who wrote Democracy in America?
 ### Response:
-
-### End
+Alexis de Tocqueville wrote Democracy in America
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to decide what type of dog you want to purchase or adopt?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-
-### End
+Colonies of Portugal
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What caused Covid 19?
+Sea or Mountain
 ### Response:
-[0m
-### End
+[0mMountain
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What were the 'Big Four' railway companies in the UK before nationalisation
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-
-### End
+Marshan Lynch
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most dangerous motorcycle race in the world?
+Who wrote Democracy in America?
 ### Response:
-
-### End
+Alexis de Tocqueville wrote Democracy in America
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to decide what type of dog you want to purchase or adopt?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-
-### End
+Colonies of Portugal
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-Tell me whether these are part of the judicial, executive, or legislative branch of government: Supreme Court, President, House, Senate
+What s epigenomics?
 ### Response:
-[0mThe Supreme Court is part of the judicial branch, the President is part of the executive branch, and the House and Senate are part of the legislative branch.
+[0mThe study of how the environment influences gene expression.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What were the 'Big Four' railway companies in the UK before nationalisation
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-
-### End
+Marshan Lynch
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most dangerous motorcycle race in the world?
+Who wrote Democracy in America?
 ### Response:
-
-### End
+Alexis de Tocqueville wrote Democracy in America
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to decide what type of dog you want to purchase or adopt?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-
-### End
+Colonies of Portugal
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-When did space exploration begin ?
+Tell me which of the following are tropical fruits: Passion fruit, Lychee, Apple, Strawberry
 ### Response:
-[0m### End
+[0mPassion fruit, Lychee, Mango
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What were the 'Big Four' railway companies in the UK before nationalisation
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-
-### End
+Marshan Lynch
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most dangerous motorcycle race in the world?
+Who wrote Democracy in America?
 ### Response:
-
-### End
+Alexis de Tocqueville wrote Democracy in America
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to decide what type of dog you want to purchase or adopt?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-
-### End
+Colonies of Portugal
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-In Africa, were cattle domesticated before or after agriculture?
+What year was the Northwest School in Seattle founded?
 ### Response:
-[0mCattle were domesticated in Africa before agriculture.
+[0m1915
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What were the 'Big Four' railway companies in the UK before nationalisation
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-
-### End
+Marshan Lynch
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the most dangerous motorcycle race in the world?
+Who wrote Democracy in America?
 ### Response:
-
-### End
+Alexis de Tocqueville wrote Democracy in America
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How to decide what type of dog you want to purchase or adopt?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-
-### End
+Colonies of Portugal
+ ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-Extract what factions fight in the video game Command & Conquer: Red Alert
+Which is a species of fish? Tetra or Quart
 ### Response:
 ### Response:
-[0mThe Allies and the Soviets
+[0mTetra
 ####################################################################################################
-bs=10, input_tokens=array([177, 195, 183, 171, 175, 170, 190, 170, 176, 184]), output_tokens=array([ 3, 58,  3,  3,  3,  3, 31,  3, 10,  6])
-total_input_tokens=1791, total_output_tokens=123
-encode_latency=4.26ms, gen_latency=1301.18ms, decode_latency=1.46ms, total_latency=1306.90ms
-latency_per_output_token=10.63ms/tok
-output_tok_per_sec=94.12tok/sec
+bs=10, input_tokens=array([205, 189, 205, 190, 188, 185, 187, 205, 192, 197]), output_tokens=array([91, 12, 34,  3, 99,  2, 10, 10,  2,  2])
+total_input_tokens=1943, total_output_tokens=265
+encode_latency=144.54ms, gen_latency=2207.72ms, decode_latency=1.99ms, total_latency=2354.24ms
+latency_per_output_token=8.88ms/tok
+output_tok_per_sec=112.56tok/sec

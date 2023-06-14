@@ -20,71 +20,73 @@ Generating responses...
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How do you cook eggs?
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
-[0mEggs are a great source of protein and are a staple in many diets. They are also a great source of vitamins and minerals. Eggs are cooked in many different ways, but the most common way is to fry them in a pan with some oil. You can also scramble them, poach them, or boil them.
+[0mMarshawn Lynch
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-Quel a été l'impact de la révolution française ?
+Who wrote Democracy in America?
 ### Response:
-[0ma révolution française a eu un impact considérable sur la société française et sur le monde. Elle a été la première révolution qui a été réalisée par la force armée, et elle a été la première révolution qui a été réalisée par la force armée et par la force politique. Elle a été la première révolution qui a été réalisée par la force armée, et elle a été
+[0mDemocracy in America was written by Alexis de Tocqueville.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the difference between a GPU and a CPU?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
-[0mA GPU is a graphics processing unit, which is a specialized chip that is used to process graphics. A CPU is a central processing unit, which is a general-purpose processor that is used to process all types of data.
+[0mThey are all former Portuguese colonies
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-In the provided text multiple examples of a metric are given. Extract the third example of a metric.
+Extract the causes of income inequality in the United States mentioned in the text. Separate them with a comma.
 ### Response:
-[0mThe third example of a metric is the number of people who have been vaccinated against the flu.
+[0m- The rise of the service sector
+- The rise of the information sector
+- The rise of the financial sector
+- The rise of the technology sector
+- The rise of the health care sector
+- The rise of the education sector
+- The rise of the government sector
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-Why do people like to drink tea?
+Do you really need mobile phone?
 ### Response:
-[0mTea is a popular drink in many countries around the world. It is a hot beverage made from the leaves of the Camellia sinensis plant. The leaves are dried and then steeped in hot water. The resulting beverage is often served with milk and sugar. Tea is a popular drink for many reasons. It is a healthy beverage that contains antioxidants and other beneficial compounds. It is also a relaxing drink that can help people unwind after a long day. Many people enjoy the taste of tea
+[0mMobile phone is a device that is used to make and receive calls. It is also used to send and receive text messages, emails, and other forms of communication. Mobile phones are also used to access the internet, play games, and listen to music. Mobile phones are very useful and convenient devices that are used by people all over the world.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-Tell me whether these are Major League Baseball or National Basketball Association teams: Yankees, Astros, Dodgers, Pirates and Padres.
+Q: Am I eligible for a booster dose of a COVID-19 vaccine, and if so, which one?
 ### Response:
-[0mThe teams you listed are all Major League Baseball teams. The National Basketball Association teams are the Lakers, Celtics, Bulls, Heat, and Spurs.
+[0mThe CDC recommends that everyone 12 years of age and older receive a booster dose of a COVID-19 vaccine at least six months after their second dose. The CDC recommends that people receive a booster dose of the same vaccine they received for their primary series.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-List top 5 people with most silver medals in the olympics
+Pancakes or waffles?
 ### Response:
-[0m1. Michael Phelps
-2. Larisa Latynina
-3. Larisa Ilchenko
-4. Dara Torres
-5. Katarina Witt
+[0mPancakes are a traditional breakfast food, and are often served with maple syrup. Waffles are a more recent invention, and are often served with fruit and whipped cream. Both are delicious, and are a great way to start the day!
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How many members are in FATF ?
+What is postmodernism?
 ### Response:
-[0mhe Financial Action Task Force (FATF) is an intergovernmental body that develops and promotes policies to combat money laundering, terrorist financing and other related threats to the integrity of the international financial system. The FATF is an intergovernmental body that develops and promotes policies to combat money laundering, terrorist financing and other related threats to the integrity of the international financial system. The FATF is an intergovernmental body that develops and promotes policies to combat money laundering, terrorist financing and other related threats to the integrity
+[0mPostmodernism is a term used to describe a cultural movement that emerged in the late 20th century. It is characterized by a rejection of the modernist belief that progress is possible and that there is a single, objective truth. Postmodernists believe that there are multiple truths and that progress is impossible.
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the best thing about being a manager?
+Sea or Mountain
 ### Response:
-[0mThe best thing about being a manager is that you get to help people. You get to help people grow and develop. You get to help people achieve their goals. You get to help people be successful. You get to help people be happy. You get to help people be healthy. You get to help people be safe. You get to help people be productive. You get to help people be happy. You get to help people be successful. You get to help people be healthy. You get to
+[0mMountain
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-Who is Mahatma Gandhi?
+What s epigenomics?
 ### Response:
 ### Response:
-[0mMahatma Gandhi was a leader of the Indian independence movement. He was born in 1869 in Gujarat, India. He was a lawyer and a political activist. He was a leader of the Indian independence movement. He was a leader of the Indian independence movement. He was a leader of the Indian independence movement. He was a leader of the Indian independence movement. He was a leader of the Indian independence movement. He was a leader of the Indian independence movement. He was a leader of
+[0mEpigenomics is the study of how the environment and lifestyle affect the expression of genes. Epigenetics is the study of how the environment and lifestyle affect the expression of genes. Epigenetics is the study of how the environment and lifestyle affect the expression of genes. Epigenetics is the study of how the environment and lifestyle affect the expression of genes. Epigenetics is the study of how the environment and lifestyle affect the expression of genes. Epigenetics is the study of how the environment
 ####################################################################################################
-bs=10, input_tokens=array([34, 44, 39, 48, 36, 54, 41, 36, 38, 39]), output_tokens=array([ 68, 100,  45,  19, 100,  31,  35, 100, 100, 100])
-total_input_tokens=409, total_output_tokens=698
-encode_latency=2.90ms, gen_latency=1999.28ms, decode_latency=1.94ms, total_latency=2004.12ms
-latency_per_output_token=2.87ms/tok
-output_tok_per_sec=348.28tok/sec
+bs=10, input_tokens=array([44, 34, 42, 51, 35, 51, 36, 34, 31, 37]), output_tokens=array([  5,  15,   6,  56,  69,  50,  50,  61,   2, 100])
+total_input_tokens=395, total_output_tokens=414
+encode_latency=3.32ms, gen_latency=1919.93ms, decode_latency=1.79ms, total_latency=1925.03ms
+latency_per_output_token=4.65ms/tok
+output_tok_per_sec=215.06tok/sec
