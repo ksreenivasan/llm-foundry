@@ -1,0 +1,40 @@
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Is this hockey, baseball, or both?
+### Response:
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is Brazilian Jiu Jitsu?
+### Response:
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What makes you smile? What makes you happy?
+### Response:
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Are seed oils bad for you?
+### Response:
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+On television what was Flipper
+### Response:
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What famous surfers have died while surfing?
+### Response:
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Name some of the most well-known Valyrian steel swords.
+### Response:
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Change this to future tense
+### Response:
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Identify which instrument is string or percussion: Kouxian, Tres cubano
+### Response:
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What services does Microsoft offer?
+### Response:
