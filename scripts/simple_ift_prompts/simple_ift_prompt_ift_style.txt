@@ -1,40 +1,40 @@
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How do you cook eggs?
+What athlete created the 'beast quake' for the Seattle Seahawks?
 ### Response:
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-Quel a été l'impact de la révolution française ?
+Who wrote Democracy in America?
 ### Response:
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the difference between a GPU and a CPU?
+What links Brazil, Uruguay, Mozambique and Angola
 ### Response:
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-In the provided text multiple examples of a metric are given. Extract the third example of a metric.
+Extract the causes of income inequality in the United States mentioned in the text. Separate them with a comma.
 ### Response:
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-Why do people like to drink tea?
+Do you really need mobile phone?
 ### Response:
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-Tell me whether these are Major League Baseball or National Basketball Association teams: Yankees, Astros, Dodgers, Pirates and Padres.
+Q: Am I eligible for a booster dose of a COVID-19 vaccine, and if so, which one?
 ### Response:
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-List top 5 people with most silver medals in the olympics
+Pancakes or waffles?
 ### Response:
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-How many members are in FATF ?
+What is postmodernism?
 ### Response:
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is the best thing about being a manager?
+Sea or Mountain
 ### Response:
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-Who is Mahatma Gandhi?
+What s epigenomics?
 ### Response:
