@@ -193,13 +193,15 @@ def write_huggingface_pretrained_from_composer_checkpoint(
             tmp_dir.name) / 'local-composer-checkpoint.pt'
 
     # create folder
-    os.makedirs(output_path)
+    if not os.path.exists(output_path):
+        os.makedirs(output_path)
 
     # download the checkpoint file
     print(
         f'Downloading checkpoint from {checkpoint_path} -> {local_checkpoint_save_location}'
     )
-    get_file(str(checkpoint_path), str(local_checkpoint_save_location))
+
+    get_file(str(checkpoint_path), str(local_checkpoint_save_location), overwrite=True)
 
     # Load the Composer checkpoint state dict
     print('Loading checkpoint into CPU RAM...')
