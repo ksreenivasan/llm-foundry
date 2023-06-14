@@ -27,3 +27,8 @@ icl_tasks:
   dataset_uri: eval/local_data/world_knowledge/triviaqa.jsonl # ADD YOUR OWN DATASET URI
   num_fewshot: [0, 1, 5, 10]
   icl_task_type: question_answering
+-
+  label: bigbench_understanding_fables
+  dataset_uri: eval/local_data/reading_comprehension/bigbench_understanding_fables.jsonl # ADD YOUR OWN DATASET URI
+  num_fewshot: [0, 5, 10]
+  icl_task_type: multiple_choice
