@@ -142,7 +142,7 @@ PROMPT_FOR_GENERATION_FORMAT = """{intro}
     response_key=RESPONSE_KEY,
 )
 
-def load_prompt_string_from_file(prompt_path_str: str, IFT_STYLE=False):
+def load_prompt_string_from_file(prompt_path_str: str, IFT_STYLE=False,):
     if not prompt_path_str.startswith('file::'):
         raise ValueError('prompt_path_str must start with "file::".')
     _, prompt_file_path = prompt_path_str.split('file::', maxsplit=1)
@@ -303,6 +303,10 @@ def main(args: Namespace) -> None:
                         attention_mask=encoded_inp['attention_mask'],
                         **generate_kwargs,
                     )
+                
+        # print("WARNING: Cloning prompt_strings to see if the EOS token is screwing things up.")
+        # eos_cleaned_prompt_strings = [prompt_string.replace(tokenizer.eos_token, "") for prompt_string in prompt_strings]
+        # prompt_strings += eos_cleaned_prompt_strings
 
         # Split into prompt batches
         batches = []
@@ -316,6 +320,28 @@ def main(args: Namespace) -> None:
         else:
             batches = [prompt_strings]
 
+        def compare_batch_and_single_generate(batch):
+            # inp should be a list of strings
+            def get_prompt_continuation(inp):
+                encoded_inp = tokenizer(inp, return_tensors='pt', padding=True)
+                encoded_gen = _generate(encoded_inp)
+                decoded_gen = tokenizer.batch_decode(encoded_gen, skip_special_tokens=False)
+                return inp, decoded_gen
+            print("First! Doing batch generation!")
+            inp, decoded_gen = get_prompt_continuation(batch)
+            for idx in range(len(batch)):
+                prompt = inp[idx]
+                continuation = decoded_gen[idx]#[len(prompt):]
+                print('\033[92m' + prompt + '\033[0m' + continuation)
+
+            print("\n\nNow! Doing single generation!")
+            for idx in range(len(batch)):
+                inp, decoded_gen = get_prompt_continuation(batch[idx])
+                prompt = inp
+                continuation = decoded_gen[0]#[len(prompt):]
+                print('\033[92m' + prompt + '\033[0m' + continuation)
+
+        import ipdb; ipdb.set_trace()
         for batch in batches:
             print(f'\nTokenizing prompts...')
             maybe_synchronize()
@@ -345,7 +371,7 @@ def main(args: Namespace) -> None:
 
             decode_start = time.time()
             decoded_gen = tokenizer.batch_decode(encoded_gen,
-                                                 skip_special_tokens=True)
+                                                 skip_special_tokens=False)
             maybe_synchronize()
             decode_end = time.time()
             gen_tokens = torch.sum(encoded_gen != tokenizer.pad_token_id,
