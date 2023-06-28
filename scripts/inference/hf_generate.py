@@ -332,6 +332,8 @@ def main(args: Namespace) -> None:
             for idx in range(len(batch)):
                 prompt = inp[idx]
                 continuation = decoded_gen[idx]#[len(prompt):]
+                # TODO: clean up the prefix EOS tokens on the prefix
+                # continuation = trim(continuation, 'eos')
                 print('\033[92m' + prompt + '\033[0m' + continuation)
 
             print("\n\nNow! Doing single generation!")
