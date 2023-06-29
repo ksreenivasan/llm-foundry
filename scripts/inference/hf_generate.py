@@ -334,13 +334,16 @@ def main(args: Namespace) -> None:
                 continuation = decoded_gen[idx]#[len(prompt):]
                 # TODO: clean up the prefix EOS tokens on the prefix
                 # continuation = trim(continuation, 'eos')
+                continuation = continuation.strip(tokenizer.eos_token)
+                continuation = continuation[len(prompt):]
                 print('\033[92m' + prompt + '\033[0m' + continuation)
 
             print("\n\nNow! Doing single generation!")
             for idx in range(len(batch)):
                 inp, decoded_gen = get_prompt_continuation(batch[idx])
                 prompt = inp
-                continuation = decoded_gen[0]#[len(prompt):]
+                continuation = decoded_gen[0].strip(tokenizer.eos_token)
+                continuation = continuation[len(prompt):]
                 print('\033[92m' + prompt + '\033[0m' + continuation)
 
         import ipdb; ipdb.set_trace()
