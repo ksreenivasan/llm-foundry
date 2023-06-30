@@ -320,6 +320,7 @@ def main(args: Namespace) -> None:
         else:
             batches = [prompt_strings]
 
+        # TODO: debug function. Delete soon.
         def compare_batch_and_single_generate(batch):
             # inp should be a list of strings
             def get_prompt_continuation(inp):
@@ -346,7 +347,7 @@ def main(args: Namespace) -> None:
                 continuation = continuation[len(prompt):]
                 print('\033[92m' + prompt + '\033[0m' + continuation)
 
-        import ipdb; ipdb.set_trace()
+        # import ipdb; ipdb.set_trace()
         for batch in batches:
             print(f'\nTokenizing prompts...')
             maybe_synchronize()
@@ -385,7 +386,9 @@ def main(args: Namespace) -> None:
             # Print generations
             delimiter = '#' * 100
             for prompt, gen in zip(batch, decoded_gen):
-                continuation = gen[len(prompt):]
+                # clean up the prefix EOS tokens on the prefix
+                continuation = gen.strip(tokenizer.eos_token)
+                continuation = continuation[len(prompt):]
                 print(delimiter)
                 print('\033[92m' + prompt + '\033[0m' + continuation)
             print(delimiter)
