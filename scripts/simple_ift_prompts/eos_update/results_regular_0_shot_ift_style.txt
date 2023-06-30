@@ -1,0 +1,92 @@
+Using device=None and device_map='auto'
+Using model_dtype=torch.bfloat16
+Loading HF Config...
+
+Loading HF tokenizer...
+Loading HF model with dtype=torch.bfloat16...
+You are using config.init_device='cpu', but you can also use config.init_device="meta" with Composer + FSDP for fast initialization.
+n_params=6649286656
+NOT using autocast...
+
+Generate seed:
+42
+
+Generate kwargs:
+{'max_new_tokens': 100, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'no_repeat_ngram_size': 0, 'use_cache': True, 'do_sample': False, 'eos_token_id': 0, 'pad_token_id': 0}
+
+Tokenizing prompts...
+Warming up...
+Generating responses...
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What athlete created the 'beast quake' for the Seattle Seahawks?
+### Response:
+[0mMarshawn Lynch
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Who wrote Democracy in America?
+### Response:
+[0mDemocracy in America was written by Alexis de Tocqueville.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What links Brazil, Uruguay, Mozambique and Angola
+### Response:
+[0mThey are all former Portuguese colonies
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Extract the causes of income inequality in the United States mentioned in the text. Separate them with a comma.
+### Response:
+[0m- The rise of the service sector
+- The rise of the information sector
+- The rise of the financial sector
+- The rise of the technology sector
+- The rise of the health care sector
+- The rise of the education sector
+- The rise of the government sector
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Do you really need mobile phone?
+### Response:
+[0mMobile phone is a device that is used to make and receive calls. It is also used to send and receive text messages, emails, and other forms of communication. Mobile phones are also used to access the internet, play games, and listen to music. Mobile phones are very useful and convenient devices that are used by people all over the world.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Q: Am I eligible for a booster dose of a COVID-19 vaccine, and if so, which one?
+### Response:
+[0mThe CDC recommends that everyone 12 years of age and older receive a booster dose of a COVID-19 vaccine at least six months after their second dose. The CDC recommends that people receive a booster dose of the same vaccine they received for their primary series.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Pancakes or waffles?
+### Response:
+[0mPancakes are a traditional breakfast food, and are often served with maple syrup. Waffles are a more recent invention, and are often served with fruit and whipped cream. Both are delicious, and are a great way to start the day!
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is postmodernism?
+### Response:
+[0mPostmodernism is a term used to describe a cultural movement that emerged in the late 20th century. It is characterized by a rejection of the modernist belief that progress is possible and that there is a single, objective truth. Postmodernists believe that there are multiple truths and that progress is impossible.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Sea or Mountain
+### Response:
+[0mMountai
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What s epigenomics?
+### Response:
+### Response:
+[0mEpigenomics is the study of how the environment and lifestyle affect the expression of genes. Epigenetics is the study of how the environment and lifestyle affect the expression of genes. Epigenetics is the study of how the environment and lifestyle affect the expression of genes. Epigenetics is the study of how the environment and lifestyle affect the expression of genes. Epigenetics is the study of how the environment and lifestyle affect the expression of genes. Epigenetics is the study of how the environm
+####################################################################################################
+bs=10, input_tokens=array([44, 34, 42, 51, 35, 51, 36, 34, 31, 37]), output_tokens=array([  5,  15,   6,  56,  69,  50,  50,  61,   2, 100])
+total_input_tokens=395, total_output_tokens=414
+encode_latency=4.21ms, gen_latency=3166.15ms, decode_latency=1.76ms, total_latency=3172.13ms
+latency_per_output_token=7.66ms/tok
+output_tok_per_sec=130.51tok/sec

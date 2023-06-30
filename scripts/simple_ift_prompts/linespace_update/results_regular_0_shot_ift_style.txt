@@ -1,0 +1,114 @@
+Using device=None and device_map='auto'
+Using model_dtype=torch.bfloat16
+Loading HF Config...
+
+Loading HF tokenizer...
+Loading HF model with dtype=torch.bfloat16...
+You are using config.init_device='cpu', but you can also use config.init_device="meta" with Composer + FSDP for fast initialization.
+n_params=6649286656
+NOT using autocast...
+
+Generate seed:
+42
+
+Generate kwargs:
+{'max_new_tokens': 100, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'no_repeat_ngram_size': 0, 'use_cache': True, 'do_sample': False, 'eos_token_id': 0, 'pad_token_id': 0}
+
+Tokenizing prompts...
+Warming up...
+Generating responses...
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+What athlete created the 'beast quake' for the Seattle Seahawks?
+
+### Response:
+[0mMarshawn Lynch
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Who wrote Democracy in America?
+
+### Response:
+[0mAlexis de Tocquevill
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+What links Brazil, Uruguay, Mozambique and Angola
+
+### Response:
+[0mThey are all Portuguese speaking countries
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Extract the causes of income inequality in the United States mentioned in the text. Separate them with a comma.
+
+### Response:
+[0mThe causes of income inequality in the United States are:
+
+- The concentration of wealth in the hands of a few people
+- The lack of a minimum wage
+- The lack of a universal healthcare system
+- The lack of a universal basic income
+- The lack of a universal basic education system
+- The lack of a universal basic housing system
+- The lack of a universal basic food system
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Do you really need mobile phone?
+
+### Response:
+[0mMobile phone is a necessity in today's world. It is a device that helps you to stay connected with your friends and family. It is a device that helps you to stay updated with the latest news and information. It is a device that helps you to stay safe and secure. It is a device that helps you to stay productive. It is a device that helps you to stay entertained. It is a device that helps you to stay healthy. It is a device that helps you to stay connected.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Q: Am I eligible for a booster dose of a COVID-19 vaccine, and if so, which one?
+
+### Response:
+[0mThe CDC recommends that people who are at least 6 months after their second dose of a two-dose COVID-19 vaccine receive a booster dose of the same vaccine. The CDC also recommends that people who are at least 2 months after their second dose of a single-dose COVID-19 vaccine receive a booster dose of the same vaccine.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Pancakes or waffles?
+
+### Response:
+[0mPancakes
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+What is postmodernism?
+
+### Response:
+[0mPostmodernism is a term used to describe a period of time in the 20th century.  It is a reaction to modernism, which is a movement that began in the late 19th century.  Modernism is a movement that is characterized by a focus on the individual, and a rejection of tradition.  Postmodernism is a reaction to modernism, and is characterized by a focus on the individual, but also a rejection of modernism's rejection of tradition.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Sea or Mountain
+
+### Response:
+[0mMountai
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+What s epigenomics?
+
+### Response:
+### Response:
+[0mEpigenomics is the study of how the environment and lifestyle affect the expression of genes. Epigenetic changes are heritable and can be passed down from one generation to the next. Epigenetic changes are not the same as genetic changes, which are passed down from parent to child.
+####################################################################################################
+bs=10, input_tokens=array([46, 36, 44, 53, 37, 53, 38, 36, 33, 39]), output_tokens=array([  5,   7,   6,  81, 100,  67,   3,  96,   2,  58])
+total_input_tokens=415, total_output_tokens=425
+encode_latency=3.68ms, gen_latency=3227.20ms, decode_latency=1.36ms, total_latency=3232.23ms
+latency_per_output_token=7.61ms/tok
+output_tok_per_sec=131.49tok/sec

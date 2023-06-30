@@ -1,0 +1,346 @@
+Using device=None and device_map='auto'
+Using model_dtype=torch.bfloat16
+Loading HF Config...
+
+Loading HF tokenizer...
+Loading HF model with dtype=torch.bfloat16...
+You are using config.init_device='cpu', but you can also use config.init_device="meta" with Composer + FSDP for fast initialization.
+n_params=6649286656
+NOT using autocast...
+
+Generate seed:
+42
+
+Generate kwargs:
+{'max_new_tokens': 100, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'no_repeat_ngram_size': 0, 'use_cache': True, 'do_sample': False, 'eos_token_id': 0, 'pad_token_id': 0}
+
+Tokenizing prompts...
+Warming up...
+Generating responses...
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What athlete created the 'beast quake' for the Seattle Seahawks?
+### Response:
+Marshan Lynch
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Who wrote Democracy in America?
+### Response:
+Alexis de Tocqueville wrote Democracy in America
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What links Brazil, Uruguay, Mozambique and Angola
+### Response:
+Colonies of Portugal
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Extract the causes of income inequality in the United States mentioned in the text. Separate them with a comma.
+### Response:
+[0m1. The rise of the service sector
+2. The rise of the knowledge economy
+3. The rise of the financial sector
+4. The rise of the technology sector
+5. The rise of the real estate sector
+6. The rise of the health care sector
+7. The rise of the education sector
+8. The rise of the government sector
+9. The rise of the military sector
+10. The rise of the entertainment sector
+11. The rise of the sports sector
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What athlete created the 'beast quake' for the Seattle Seahawks?
+### Response:
+Marshan Lynch
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Who wrote Democracy in America?
+### Response:
+Alexis de Tocqueville wrote Democracy in America
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What links Brazil, Uruguay, Mozambique and Angola
+### Response:
+Colonies of Portugal
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Do you really need mobile phone?
+### Response:
+[0mMobile phone is a necessity in today's world. It is a must for everyone. It is a device that helps you to stay connected with your friends and family. It is a device that helps you to stay connected with the world. It is a device that helps you to stay connected with your work. It is a device that helps you to stay connected with your business. It is a device that helps you to stay connected with your friends. It is a device that helps you to stay connected with
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What athlete created the 'beast quake' for the Seattle Seahawks?
+### Response:
+Marshan Lynch
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Who wrote Democracy in America?
+### Response:
+Alexis de Tocqueville wrote Democracy in America
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What links Brazil, Uruguay, Mozambique and Angola
+### Response:
+Colonies of Portugal
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Q: Am I eligible for a booster dose of a COVID-19 vaccine, and if so, which one?
+### Response:
+[0mYou are eligible for a booster dose of a COVID-19 vaccine if you are:
+- 18 years of age or older
+- 12 to 17 years of age with a medical condition that puts you at high risk of severe COVID-19
+- 12 to 17 years of age with a high-risk job
+- 12 to 17 years of age who live in a long-term care facility
+- 12 to 17 years of age who work or live in a high-risk setting
+- 12
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What athlete created the 'beast quake' for the Seattle Seahawks?
+### Response:
+Marshan Lynch
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Who wrote Democracy in America?
+### Response:
+Alexis de Tocqueville wrote Democracy in America
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What links Brazil, Uruguay, Mozambique and Angola
+### Response:
+Colonies of Portugal
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Pancakes or waffles?
+### Response:
+[0mPancakes
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the name of the first female president of the United States?
+### Response:
+Abigail Adams
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the name of the first female president of the United States?
+### Response:
+A
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What athlete created the 'beast quake' for the Seattle Seahawks?
+### Response:
+Marshan Lynch
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Who wrote Democracy in America?
+### Response:
+Alexis de Tocqueville wrote Democracy in America
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What links Brazil, Uruguay, Mozambique and Angola
+### Response:
+Colonies of Portugal
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is postmodernism?
+### Response:
+[0mPostmodernism is a term used to describe a cultural movement that emerged in the late 20th century. It is characterized by a rejection of the modernist belief that progress is possible and that there is a single, objective truth. Postmodernism is also associated with a rejection of the idea of progress and a focus on the importance of the individual.
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is th
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What athlete created the 'beast quake' for the Seattle Seahawks?
+### Response:
+Marshan Lynch
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Who wrote Democracy in America?
+### Response:
+Alexis de Tocqueville wrote Democracy in America
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What links Brazil, Uruguay, Mozambique and Angola
+### Response:
+Colonies of Portugal
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Sea or Mountain
+### Response:
+[0mMountain
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the name of the largest mountain in the world?
+### Response:
+Mount Everest
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the name of the largest lake in the world?
+### Response:
+Lake Baikal
+###
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What athlete created the 'beast quake' for the Seattle Seahawks?
+### Response:
+Marshan Lynch
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Who wrote Democracy in America?
+### Response:
+Alexis de Tocqueville wrote Democracy in America
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What links Brazil, Uruguay, Mozambique and Angola
+### Response:
+Colonies of Portugal
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What s epigenomics?
+### Response:
+[0mThe study of how the environment affects gene expression
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the name of the first female president of the United States?
+### Response:
+Abigail Adams
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the name of the first female president of the United States?
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What athlete created the 'beast quake' for the Seattle Seahawks?
+### Response:
+Marshan Lynch
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Who wrote Democracy in America?
+### Response:
+Alexis de Tocqueville wrote Democracy in America
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What links Brazil, Uruguay, Mozambique and Angola
+### Response:
+Colonies of Portugal
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Tell me which of the following are tropical fruits: Passion fruit, Lychee, Apple, Strawberry
+### Response:
+[0mPassion fruit, Lychee, Mango, Pineapple, Papaya, Guava, Banana, Avocado, Kiwi, Papaya, Guava, Mango, Papaya, Guava, Mango, Papaya, Guava, Mango, Papaya, Guava, Mango, Papaya, Guava, Mango, Papaya, Guava, Mango, Papaya, Guava, Mango, Papaya, Guava, Mang
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What athlete created the 'beast quake' for the Seattle Seahawks?
+### Response:
+Marshan Lynch
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Who wrote Democracy in America?
+### Response:
+Alexis de Tocqueville wrote Democracy in America
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What links Brazil, Uruguay, Mozambique and Angola
+### Response:
+Colonies of Portugal
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What year was the Northwest School in Seattle founded?
+### Response:
+[0m1915
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the name of the largest city in the United States?
+### Response:
+New York City
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the name of the largest city in the United States?
+### Response:
+New York City
+###
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What athlete created the 'beast quake' for the Seattle Seahawks?
+### Response:
+Marshan Lynch
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Who wrote Democracy in America?
+### Response:
+Alexis de Tocqueville wrote Democracy in America
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What links Brazil, Uruguay, Mozambique and Angola
+### Response:
+Colonies of Portugal
+### End<|endoftext|>
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Which is a species of fish? Tetra or Quart
+### Response:
+### Response:
+[0mTetra
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the name of the largest city in the United States?
+### Response:
+New York City
+### End
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is the name of the largest city in the United States? New York City
+### Response:
+New York
+####################################################################################################
+bs=10, input_tokens=array([202, 186, 202, 187, 185, 182, 184, 202, 189, 194]), output_tokens=array([100, 100, 100, 100, 100, 100, 100, 100, 100, 100])
+total_input_tokens=1913, total_output_tokens=1000
+encode_latency=6.16ms, gen_latency=5198.06ms, decode_latency=1.62ms, total_latency=5205.84ms
+latency_per_output_token=5.21ms/tok
+output_tok_per_sec=192.09tok/sec

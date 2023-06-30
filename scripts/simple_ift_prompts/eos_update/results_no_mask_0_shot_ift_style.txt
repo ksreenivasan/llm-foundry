@@ -1,0 +1,117 @@
+Using device=None and device_map='auto'
+Using model_dtype=torch.bfloat16
+Loading HF Config...
+
+Loading HF tokenizer...
+Loading HF model with dtype=torch.bfloat16...
+You are using config.init_device='cpu', but you can also use config.init_device="meta" with Composer + FSDP for fast initialization.
+n_params=6649286656
+NOT using autocast...
+
+Generate seed:
+42
+
+Generate kwargs:
+{'max_new_tokens': 100, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'no_repeat_ngram_size': 0, 'use_cache': True, 'do_sample': False, 'eos_token_id': 0, 'pad_token_id': 0}
+
+Tokenizing prompts...
+Warming up...
+Generating responses...
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+What athlete created the 'beast quake' for the Seattle Seahawks?
+
+### Response:
+[0mThe 'beast quake' was created by Marshawn Lynch, a running back for the Seattle Seahawks.  Lynch is known for his powerful running style, and his nickname is 'Beast Mode'.  The 'beast quake' is a running move that Lynch uses to break through the line of scrimmage and gain significant yardage.  Lynch is known for his ability to break tackles and gain extra yardage, and the 'beast quake' is
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Who wrote Democracy in America?
+
+### Response:
+[0mDemocracy in America is a book written by Alexis de Tocqueville.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+What links Brazil, Uruguay, Mozambique and Angola
+
+### Response:
+[0mBrazil, Uruguay, Mozambique and Angola are all countries in South America and Africa.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Extract the causes of income inequality in the United States mentioned in the text. Separate them with a comma.
+
+### Response:
+[0mThe causes of income inequality in the United States are:
+
+- The concentration of wealth in the hands of a few people
+- The lack of a minimum wage
+- The lack of a living wage
+- The lack of a universal basic income
+- The lack of a progressive tax system
+- The lack of a universal healthcare system
+- The lack of a universal education system
+- The lack of a universal childcare system
+- The lack of a universal retirement system
+- The lack
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Do you really need mobile phone?
+
+### Response:
+[0mMobile phone is a device that can be used to make and receive calls, send and receive text messages, and access the internet. It is a very useful device for many people, and it is becoming increasingly common to use mobile phones for a variety of purposes. Mobile phones are also very convenient, as they can be carried around easily and used anywhere. Many people use their mobile phones for work, communication, and entertainment, and they are also used for emergency purposes. Mobile phones are an essential part 
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Q: Am I eligible for a booster dose of a COVID-19 vaccine, and if so, which one?
+
+### Response:
+[0mYes, you are eligible for a booster dose of a COVID-19 vaccine, and you can choose which one you want.  The CDC recommends that you get a booster dose of the same vaccine that you received for your primary series, but you can also choose to get a different vaccine.  If you received the Pfizer or Moderna vaccine for your primary series, you can get a booster dose of either of those vaccines.  If you received the Johnson & Johnson vaccine for your primary series,
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Pancakes or waffles?
+
+### Response:
+[0mPancakes.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+What is postmodernism?
+
+### Response:
+[0mPostmodernism is a term used to describe a broad range of cultural, social, and political movements that emerged in the late 20th century.  Postmodernism is characterized by a rejection of the modernist belief in progress and rationality, and a focus on the importance of context and subjectivity in understanding the world.  Postmodernist thinkers emphasize the importance of ambiguity, irony, and the complexity of social and cultural relationships, and often challenge the authority of traditional institutions and established forms of knowledg
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Sea or Mountain
+
+### Response:
+[0mMountai
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+What s epigenomics?
+
+### Response:
+### Response:
+[0mEpigenomics is the study of how the environment influences the expression of genes.  It is a relatively new field of study, and is a combination of genetics and molecular biology.  Epigenomics is a field of study that is still in its infancy, but has the potential to revolutionize our understanding of how the environment influences gene expression.  Epigenomics is a field of study that is still in its infancy, but has the potential to revolutionize our understanding of how the environment influences g
+####################################################################################################
+bs=10, input_tokens=array([46, 36, 44, 53, 37, 53, 38, 36, 33, 39]), output_tokens=array([100,  17,  21, 100, 100, 100,   4, 100,   2, 100])
+total_input_tokens=415, total_output_tokens=644
+encode_latency=3.34ms, gen_latency=2345.37ms, decode_latency=1.41ms, total_latency=2350.11ms
+latency_per_output_token=3.65ms/tok
+output_tok_per_sec=274.03tok/sec

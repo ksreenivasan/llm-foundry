@@ -1,0 +1,71 @@
+Using device=None and device_map='auto'
+Using model_dtype=torch.bfloat16
+Loading HF Config...
+
+Loading HF tokenizer...
+Loading HF model with dtype=torch.bfloat16...
+You are using config.init_device='cpu', but you can also use config.init_device="meta" with Composer + FSDP for fast initialization.
+n_params=6649286656
+NOT using autocast...
+
+Generate seed:
+42
+
+Generate kwargs:
+{'max_new_tokens': 100, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'no_repeat_ngram_size': 0, 'use_cache': True, 'do_sample': False, 'eos_token_id': 0, 'pad_token_id': 0}
+
+Tokenizing prompts...
+Warming up...
+Generating responses...
+####################################################################################################
+[92mWhat athlete created the 'beast quake' for the Seattle Seahawks?[0m
+The Beast Quake is a tradition for the Seattle Seahawks. It is a celebration of a touchdown or a big play by the team. The players and fans all get on their feet and shake the ground. The Beast Quake was created by Marshawn Lynch.
+####################################################################################################
+[92mWho wrote Democracy in America?[0m
+Democracy in America is a book written by Alexis de Tocqueville.
+What is the main idea of Democracy in America?
+The main idea of Democracy in America is that democracy is a system that works best in a society with a large middle class.
+What is the main message of Democracy in America?
+The main message of Democracy in America is that democracy is a system that works best in a society with a large middle class.
+####################################################################################################
+[92mWhat links Brazil, Uruguay, Mozambique and Angola[0m?
+They are all countries in South America, Africa and South East Asia.
+The answer is that they are all countries that were once part of Portugal's colonial empire.
+####################################################################################################
+[92mExtract the causes of income inequality in the United States mentioned in the text. Separate them with a comma.[0m
+Income inequality in the United States is a complex issue with many causes. The most common causes of income inequality in the United States are: 1) the concentration of wealth in the hands of a few people, 2) the lack of a minimum wage, 3) the lack of a living wage, 4) the lack of a progressive tax system, 5) the lack of a social safety net, 6) the lack of affordable health care, 7) the lack of affordable housing, 8)
+####################################################################################################
+[92mDo you really need mobile phone?[0m
+I don’t have a mobile phone. I don’t need one. I don’t want one. I don’t want to pay for one. I don’t want to be tracked by one. I don’t want to be controlled by one. I don’t want to be addicted to one. I don’t want to be distracted by one. I don’t want to be controlled by one. I don’t want to be addicted to one.
+####################################################################################################
+[92mQ: Am I eligible for a booster dose of a COVID-19 vaccine, and if so, which one?[0m
+A: If you received the Pfizer or Moderna COVID-19 vaccine, you are eligible for a booster dose. If you received the Johnson & Johnson vaccine, you are not eligible for a booster dose.
+Q: How long after receiving the first dose of a COVID-19 vaccine can I receive the booster dose?
+A: You can receive the booster dose of the Pfizer or Moderna vaccine at least two weeks after receiving the first dose. You can receive the booster dose 
+####################################################################################################
+[92mPancakes or waffles?[0m - Page 2 - Discuss Cooking - Cooking Forums
+Pancakes or waffles?
+04-01-2012, 10:26 AM #11
+I like pancakes, but I don't like the mess. I like waffles, but I don't like the taste.
+04-01-2012, 10:28 AM #12
+I like pancakes, but I don't like the mess.
+I like waffles, but I 
+####################################################################################################
+[92mWhat is postmodernism?[0m - The Art of the Postmodern
+Postmodernism is a term used to describe a broad range of cultural trends that emerged in the late 1960s and early 1970s. It is a term used to describe a broad range of cultural trends that emerged in the late 1960s and early 1970s.
+Postmodernism is a term used to describe a broad range of cultural trends that emerged in the late 1960s and early 1970s. It is a term used to describe a broad range of cultural
+####################################################################################################
+[92mSea or Mountain[0m? - The New York Times
+Opinionator | Sea or Mountain?
+June 14, 2011 12:01 am June 14, 2011 12:01 am
+I have a confession to make. I don't like mountains. I don't like the way they look, I don't like the way they feel, I don't like the way they smell. I don't like the way they sound. I don't like the way they taste. I don't like the way they smell.
+####################################################################################################
+[92mWhat s epigenomics?[0m
+Epigenomics is the study of the epigenome, which is the set of chemical modifications to DNA and histones that influence gene expression without altering the DNA sequence. Epigenetic modifications include DNA methylation, histone modifications, and chromatin remodeling. Epigenomics is a rapidly growing field of research that is expected to have a major impact on our understanding of how genes are regulated and how this regulation is passed from one generation to the next.
+Epigenomics is the study of the epigenome,
+####################################################################################################
+bs=10, input_tokens=array([16,  6, 14, 23,  7, 23,  8,  6,  3,  5]), output_tokens=array([ 55,  92,  35, 100, 100, 100, 100, 100, 100, 100])
+total_input_tokens=111, total_output_tokens=882
+encode_latency=3.69ms, gen_latency=2319.12ms, decode_latency=1.28ms, total_latency=2324.09ms
+latency_per_output_token=2.64ms/tok
+output_tok_per_sec=379.50tok/sec

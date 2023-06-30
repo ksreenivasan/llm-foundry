@@ -1,0 +1,113 @@
+Using device=None and device_map='auto'
+Using model_dtype=torch.bfloat16
+Loading HF Config...
+
+Loading HF tokenizer...
+Loading HF model with dtype=torch.bfloat16...
+You are using config.init_device='cpu', but you can also use config.init_device="meta" with Composer + FSDP for fast initialization.
+n_params=6649286656
+NOT using autocast...
+
+Generate seed:
+42
+
+Generate kwargs:
+{'max_new_tokens': 100, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'no_repeat_ngram_size': 0, 'use_cache': True, 'do_sample': False, 'eos_token_id': 0, 'pad_token_id': 0}
+
+Tokenizing prompts...
+Warming up...
+Generating responses...
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+What athlete created the 'beast quake' for the Seattle Seahawks?
+
+### Response:
+[0mMarshawn Lynch
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Who wrote Democracy in America?
+
+### Response:
+[0mDemocracy in America was written by Alexis de Tocquevill
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+What links Brazil, Uruguay, Mozambique and Angola
+
+### Response:
+[0mPortugues
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Extract the causes of income inequality in the United States mentioned in the text. Separate them with a comma.
+
+### Response:
+[0mThe causes of income inequality in the United States are:
+- The growth of the service sector
+- The decline of manufacturing
+- The growth of the financial sector
+- The decline of unions
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Do you really need mobile phone?
+
+### Response:
+[0mMobile phone is a necessity in today's world. It is a device that helps you to connect with your loved ones, friends, colleagues, and customers. It is a device that helps you to stay connected with the world. It is a device that helps you to stay updated with the latest news and events. It is a device that helps you to stay in touch with your customers. It is a device that helps you to stay in touch with your friends. It is a device that helps you 
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Q: Am I eligible for a booster dose of a COVID-19 vaccine, and if so, which one?
+
+### Response:
+[0mA: If you received the Pfizer or Moderna COVID-19 vaccine, you are eligible for a booster dose. If you received the Johnson & Johnson vaccine, you are not eligible for a booster dose.
+
+If you received the Pfizer or Moderna vaccine, you are eligible for a booster dose after you have received your second dose. You can receive a booster dose of the same vaccine you received for your first dose, or you can receive a booster dose of a different vaccine.
+
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Pancakes or waffles?
+
+### Response:
+[0mPancakes
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+What is postmodernism?
+
+### Response:
+[0mPostmodernism is a movement in the arts, literature, and philosophy that emerged in the 1970s. It is characterized by a rejection of the Enlightenment ideals of rationalism, empiricism, and universal truths. Postmodernists believe that truth is relative and that there are many different ways of understanding the world. They also reject the idea that there is a single correct interpretation of events, and instead believe that different people can come to different conclusions based on their own experiences and perspectives. Postmodernism
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+Sea or Mountain
+
+### Response:
+[0mMountai
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+What s epigenomics?
+
+### Response:
+### Response:
+[0mEpigenomics is the study of the epigenome, which is the set of chemical modifications to DNA and histones that influence gene expression without altering the DNA sequence. Epigenetic modifications include DNA methylation, histone modifications, and RNA modifications. Epigenomics is an emerging field of research that seeks to understand the role of epigenetic modifications in development, differentiation, and disease.
+####################################################################################################
+bs=10, input_tokens=array([46, 36, 44, 53, 37, 53, 38, 36, 33, 39]), output_tokens=array([  5,  14,   1,  39, 100, 100,   3, 100,   2,  74])
+total_input_tokens=415, total_output_tokens=438
+encode_latency=4.54ms, gen_latency=2419.11ms, decode_latency=1.60ms, total_latency=2425.25ms
+latency_per_output_token=5.54ms/tok
+output_tok_per_sec=180.60tok/sec

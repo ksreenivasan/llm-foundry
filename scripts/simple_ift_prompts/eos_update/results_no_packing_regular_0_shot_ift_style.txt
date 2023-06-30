@@ -1,0 +1,93 @@
+Using device=None and device_map='auto'
+Using model_dtype=torch.bfloat16
+Loading HF Config...
+
+Loading HF tokenizer...
+Loading HF model with dtype=torch.bfloat16...
+You are using config.init_device='cpu', but you can also use config.init_device="meta" with Composer + FSDP for fast initialization.
+n_params=6649286656
+NOT using autocast...
+
+Generate seed:
+42
+
+Generate kwargs:
+{'max_new_tokens': 100, 'temperature': 0.0, 'top_p': 1.0, 'top_k': 50, 'repetition_penalty': 1.0, 'no_repeat_ngram_size': 0, 'use_cache': True, 'do_sample': False, 'eos_token_id': 0, 'pad_token_id': 0}
+
+Tokenizing prompts...
+Warming up...
+Generating responses...
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What athlete created the 'beast quake' for the Seattle Seahawks?
+### Response:
+[0mMarshawn Lynch
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Who wrote Democracy in America?
+### Response:
+[0mDemocracy in America was written by Alexis de Tocquevill
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What links Brazil, Uruguay, Mozambique and Angola
+### Response:
+[0mThey are all Portuguese speaking countries
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Extract the causes of income inequality in the United States mentioned in the text. Separate them with a comma.
+### Response:
+[0m1. The minimum wage is too low
+2. The rich get richer
+3. The poor get poorer
+4. The middle class shrinks
+5. The cost of living increases
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Do you really need mobile phone?
+### Response:
+[0mMobile phone is a necessity in today's world. It is a device that is used to communicate with people. It is a device that is used to access internet. It is a device that is used to capture memories. It is a device that is used to entertain. It is a device that is used to make life easier. It is a device that is used to make life more fun. It is a device that is used to make life more productive. It is a device that is used 
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Q: Am I eligible for a booster dose of a COVID-19 vaccine, and if so, which one?
+### Response:
+[0mA: If you received the Pfizer or Moderna COVID-19 vaccine, you are eligible for a booster dose. If you received the Johnson & Johnson vaccine, you are not eligible for a booster dose.
+Q: How long after receiving the first dose of a COVID-19 vaccine can I receive a booster dose?
+A: You can receive a booster dose of the same vaccine you received for the first dose, or a different vaccine, 28 days after receiving the first dose.
+Q
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Pancakes or waffles?
+### Response:
+[0mPancakes
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What is postmodernism?
+### Response:
+[0mPostmodernism is a movement in the arts, literature, and philosophy that emerged in the 1970s. It is characterized by a rejection of the Enlightenment ideals of rationalism, empiricism, and universal truths. Instead, postmodernists emphasize the importance of context, subjectivity, and the multiplicity of perspectives. Postmodernism has had a significant impact on contemporary culture, influencing fields such as art, literature, and architecture.
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+Sea or Mountain
+### Response:
+[0mMountai
+####################################################################################################
+[92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
+### Instruction:
+What s epigenomics?
+### Response:
+### Response:
+[0mEpigenomics is the study of the epigenome, which is the set of chemical modifications to DNA and histones that influence gene expression without altering the DNA sequence. Epigenetic modifications include DNA methylation, histone modifications, and chromatin remodeling. Epigenomics is an emerging field of study that aims to understand the role of epigenetic modifications in development, disease, and evolution.
+####################################################################################################
+bs=10, input_tokens=array([44, 34, 42, 51, 35, 51, 36, 34, 31, 37]), output_tokens=array([  5,  14,   6,  38, 100, 100,   3,  86,   2,  74])
+total_input_tokens=395, total_output_tokens=428
+encode_latency=3.94ms, gen_latency=2398.17ms, decode_latency=1.39ms, total_latency=2403.51ms
+latency_per_output_token=5.62ms/tok
+output_tok_per_sec=178.07tok/sec
