@@ -67,7 +67,7 @@ Extract the causes of income inequality in the United States mentioned in the te
 Do you really need mobile phone?
 
 ### Response:
-[0mMobile phone is a device that can be used to make and receive calls, send and receive text messages, and access the internet. It is a very useful device for many people, and it is becoming increasingly common to use mobile phones for a variety of purposes. Mobile phones are also very convenient, as they can be carried around easily and used anywhere. Many people use their mobile phones for work, communication, and entertainment, and they are also used for emergency purposes. Mobile phones are an essential part 
+[0mMobile phone is a device that can be used to make and receive calls, send and receive text messages, and access the internet. It is a very useful device for many people, and it is becoming increasingly common to use mobile phones for a variety of purposes. Mobile phones are also very convenient, as they can be carried around easily and used anywhere. Many people use their mobile phones for work, communication, and entertainment, and they are also used for emergency purposes. Mobile phones are an essential part of
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 
@@ -91,7 +91,7 @@ Pancakes or waffles?
 What is postmodernism?
 
 ### Response:
-[0mPostmodernism is a term used to describe a broad range of cultural, social, and political movements that emerged in the late 20th century.  Postmodernism is characterized by a rejection of the modernist belief in progress and rationality, and a focus on the importance of context and subjectivity in understanding the world.  Postmodernist thinkers emphasize the importance of ambiguity, irony, and the complexity of social and cultural relationships, and often challenge the authority of traditional institutions and established forms of knowledg
+[0mPostmodernism is a term used to describe a broad range of cultural, social, and political movements that emerged in the late 20th century.  Postmodernism is characterized by a rejection of the modernist belief in progress and rationality, and a focus on the importance of context and subjectivity in understanding the world.  Postmodernist thinkers emphasize the importance of ambiguity, irony, and the complexity of social and cultural relationships, and often challenge the authority of traditional institutions and established forms of knowledge
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 
@@ -99,7 +99,7 @@ What is postmodernism?
 Sea or Mountain
 
 ### Response:
-[0mMountai
+[0mMountain
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 
@@ -108,10 +108,10 @@ What s epigenomics?
 
 ### Response:
 ### Response:
-[0mEpigenomics is the study of how the environment influences the expression of genes.  It is a relatively new field of study, and is a combination of genetics and molecular biology.  Epigenomics is a field of study that is still in its infancy, but has the potential to revolutionize our understanding of how the environment influences gene expression.  Epigenomics is a field of study that is still in its infancy, but has the potential to revolutionize our understanding of how the environment influences g
+[0mEpigenomics is the study of how the environment influences the expression of genes.  It is a relatively new field of study, and is a combination of genetics and molecular biology.  Epigenomics is a field of study that is still in its infancy, but has the potential to revolutionize our understanding of how the environment influences gene expression.  Epigenomics is a field of study that is still in its infancy, but has the potential to revolutionize our understanding of how the environment influences gene
 ####################################################################################################
 bs=10, input_tokens=array([46, 36, 44, 53, 37, 53, 38, 36, 33, 39]), output_tokens=array([100,  17,  21, 100, 100, 100,   4, 100,   2, 100])
 total_input_tokens=415, total_output_tokens=644
-encode_latency=3.34ms, gen_latency=2345.37ms, decode_latency=1.41ms, total_latency=2350.11ms
-latency_per_output_token=3.65ms/tok
-output_tok_per_sec=274.03tok/sec
+encode_latency=6.61ms, gen_latency=3300.82ms, decode_latency=1.95ms, total_latency=3309.38ms
+latency_per_output_token=5.14ms/tok
+output_tok_per_sec=194.60tok/sec

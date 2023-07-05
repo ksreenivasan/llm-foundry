@@ -41,7 +41,7 @@ I don’t have a mobile phone. I don’t need one. I don’t want one. I don’t
 [92mQ: Am I eligible for a booster dose of a COVID-19 vaccine, and if so, which one?[0m
 A: If you received the Pfizer or Moderna COVID-19 vaccine, you are eligible for a booster dose. If you received the Johnson & Johnson vaccine, you are not eligible for a booster dose.
 Q: How long after receiving the first dose of a COVID-19 vaccine can I receive the booster dose?
-A: You can receive the booster dose of the Pfizer or Moderna vaccine at least two weeks after receiving the first dose. You can receive the booster dose 
+A: You can receive the booster dose of the Pfizer or Moderna vaccine at least two weeks after receiving the first dose. You can receive the booster dose of
 ####################################################################################################
 [92mPancakes or waffles?[0m - Page 2 - Discuss Cooking - Cooking Forums
 Pancakes or waffles?
@@ -49,7 +49,7 @@ Pancakes or waffles?
 I like pancakes, but I don't like the mess. I like waffles, but I don't like the taste.
 04-01-2012, 10:28 AM #12
 I like pancakes, but I don't like the mess.
-I like waffles, but I 
+I like waffles, but I don
 ####################################################################################################
 [92mWhat is postmodernism?[0m - The Art of the Postmodern
 Postmodernism is a term used to describe a broad range of cultural trends that emerged in the late 1960s and early 1970s. It is a term used to describe a broad range of cultural trends that emerged in the late 1960s and early 1970s.
@@ -66,6 +66,6 @@ Epigenomics is the study of the epigenome,
 ####################################################################################################
 bs=10, input_tokens=array([16,  6, 14, 23,  7, 23,  8,  6,  3,  5]), output_tokens=array([ 55,  92,  35, 100, 100, 100, 100, 100, 100, 100])
 total_input_tokens=111, total_output_tokens=882
-encode_latency=3.66ms, gen_latency=2309.83ms, decode_latency=2.23ms, total_latency=2315.72ms
-latency_per_output_token=2.63ms/tok
-output_tok_per_sec=380.88tok/sec
+encode_latency=5.32ms, gen_latency=3331.65ms, decode_latency=1.73ms, total_latency=3338.71ms
+latency_per_output_token=3.79ms/tok
+output_tok_per_sec=264.17tok/sec

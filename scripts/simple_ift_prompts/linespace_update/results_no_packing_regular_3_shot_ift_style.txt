@@ -211,7 +211,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 What is the name of the largest mountain in the world?
 
 ### Response:
-Mount Everes
+Mount Everest
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 
@@ -269,7 +269,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 Tell me which of the following are tropical fruits: Passion fruit, Lychee, Apple, Strawberry
 
 ### Response:
-[0mPassion fruit, Lychee, Mang
+[0mPassion fruit, Lychee, Mango
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 
@@ -332,6 +332,6 @@ Which is a species of fish? Tetra or Quart
 ####################################################################################################
 bs=10, input_tokens=array([201, 185, 201, 186, 184, 181, 183, 201, 188, 193]), output_tokens=array([ 55,  10, 100,   3,  55,  48,  16,  10,   2,   2])
 total_input_tokens=1903, total_output_tokens=301
-encode_latency=7.81ms, gen_latency=2957.84ms, decode_latency=2.55ms, total_latency=2968.20ms
-latency_per_output_token=9.86ms/tok
-output_tok_per_sec=101.41tok/sec
+encode_latency=9.65ms, gen_latency=3717.33ms, decode_latency=4.61ms, total_latency=3731.59ms
+latency_per_output_token=12.40ms/tok
+output_tok_per_sec=80.66tok/sec

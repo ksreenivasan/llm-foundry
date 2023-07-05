@@ -57,7 +57,7 @@ Extract the causes of income inequality in the United States mentioned in the te
 - The rise of the entertainment sector
 - The rise of the energy sector
 - The rise of the manufacturing sector
-- Th
+- The
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 
@@ -311,7 +311,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 What is the name of the first female president of the United States?
 
 ### Response:
-Elizabeth Monr
+Elizabeth Monroe
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 
@@ -345,6 +345,6 @@ Which is a species of fish? Tetra or Quart
 ####################################################################################################
 bs=10, input_tokens=array([201, 185, 201, 186, 184, 181, 183, 201, 188, 193]), output_tokens=array([100,  15, 100,  52,  78,   1,  16, 100,  49,   2])
 total_input_tokens=1903, total_output_tokens=513
-encode_latency=5.57ms, gen_latency=5203.10ms, decode_latency=2.05ms, total_latency=5210.72ms
-latency_per_output_token=10.16ms/tok
-output_tok_per_sec=98.45tok/sec
+encode_latency=7.48ms, gen_latency=5622.08ms, decode_latency=2.57ms, total_latency=5632.13ms
+latency_per_output_token=10.98ms/tok
+output_tok_per_sec=91.08tok/sec

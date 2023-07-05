@@ -153,6 +153,9 @@ def load_prompt_string_from_file(prompt_path_str: str, IFT_STYLE=False,):
     # @KS: I'd like this to read multiline prompts nicely
     # Unless IFT_STYLE=True, in which case we need to handle this carefully
     with open(prompt_file_path, 'r') as f:
+        # HACK
+        # prompt_strings = f.read()
+        # return [prompt_strings]
         if not IFT_STYLE:
             prompt_strings = f.readlines()
             prompt_strings = [p.strip() for p in prompt_strings]
@@ -320,6 +323,15 @@ def main(args: Namespace) -> None:
         else:
             batches = [prompt_strings]
 
+        def strip_eos_token(x):
+            while x.startswith(tokenizer.eos_token):
+                x = x[len(tokenizer.eos_token):]
+
+            while x.endswith(tokenizer.eos_token):
+                x = x[:-len(tokenizer.eos_token)]
+
+            return x
+
         # TODO: debug function. Delete soon.
         def compare_batch_and_single_generate(batch):
             # inp should be a list of strings
@@ -335,7 +347,8 @@ def main(args: Namespace) -> None:
                 continuation = decoded_gen[idx]#[len(prompt):]
                 # TODO: clean up the prefix EOS tokens on the prefix
                 # continuation = trim(continuation, 'eos')
-                continuation = continuation.strip(tokenizer.eos_token)
+                # continuation = continuation.strip(tokenizer.eos_token)
+                continuation = strip_eos_token(continuation)
                 continuation = continuation[len(prompt):]
                 print('\033[92m' + prompt + '\033[0m' + continuation)
 
@@ -343,7 +356,9 @@ def main(args: Namespace) -> None:
             for idx in range(len(batch)):
                 inp, decoded_gen = get_prompt_continuation(batch[idx])
                 prompt = inp
-                continuation = decoded_gen[0].strip(tokenizer.eos_token)
+                # Don't do this! It doesn't work. strip will also delete a bunch of other characters
+                # continuation = decoded_gen[0].strip(tokenizer.eos_token)
+                continuation = strip_eos_token(decoded_gen[0])
                 continuation = continuation[len(prompt):]
                 print('\033[92m' + prompt + '\033[0m' + continuation)
 
@@ -387,7 +402,8 @@ def main(args: Namespace) -> None:
             delimiter = '#' * 100
             for prompt, gen in zip(batch, decoded_gen):
                 # clean up the prefix EOS tokens on the prefix
-                continuation = gen.strip(tokenizer.eos_token)
+                # continuation = gen.strip(tokenizer.eos_token)
+                continuation = strip_eos_token(gen)
                 continuation = continuation[len(prompt):]
                 print(delimiter)
                 print('\033[92m' + prompt + '\033[0m' + continuation)

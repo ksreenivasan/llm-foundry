@@ -32,7 +32,7 @@ What athlete created the 'beast quake' for the Seattle Seahawks?
 Who wrote Democracy in America?
 
 ### Response:
-[0mAlexis de Tocquevill
+[0mAlexis de Tocqueville
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 
@@ -96,7 +96,7 @@ What is postmodernism?
 Sea or Mountain
 
 ### Response:
-[0mMountai
+[0mMountain
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 
@@ -109,6 +109,6 @@ What s epigenomics?
 ####################################################################################################
 bs=10, input_tokens=array([46, 36, 44, 53, 37, 53, 38, 36, 33, 39]), output_tokens=array([  5,   7,   6,  81, 100,  67,   3,  96,   2,  58])
 total_input_tokens=415, total_output_tokens=425
-encode_latency=3.68ms, gen_latency=3227.20ms, decode_latency=1.36ms, total_latency=3232.23ms
-latency_per_output_token=7.61ms/tok
-output_tok_per_sec=131.49tok/sec
+encode_latency=6.15ms, gen_latency=3851.22ms, decode_latency=2.16ms, total_latency=3859.53ms
+latency_per_output_token=9.08ms/tok
+output_tok_per_sec=110.12tok/sec

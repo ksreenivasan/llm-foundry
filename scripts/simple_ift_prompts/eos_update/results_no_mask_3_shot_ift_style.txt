@@ -162,7 +162,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 Sea or Mountain
 ### Response:
-[0mMountai
+[0mMountain
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -210,7 +210,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 Tell me which of the following are tropical fruits: Passion fruit, Lychee, Apple, Strawberry
 ### Response:
-[0mPassion fruit, Lychee, Mang
+[0mPassion fruit, Lychee, Mango
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -263,6 +263,6 @@ Which is a species of fish? Tetra or Quart
 ####################################################################################################
 bs=10, input_tokens=array([202, 186, 202, 187, 185, 182, 184, 202, 189, 194]), output_tokens=array([21, 12, 39,  3, 24,  2, 10, 10,  2,  2])
 total_input_tokens=1913, total_output_tokens=125
-encode_latency=6.15ms, gen_latency=1212.25ms, decode_latency=1.32ms, total_latency=1219.73ms
-latency_per_output_token=9.76ms/tok
-output_tok_per_sec=102.48tok/sec
+encode_latency=5.26ms, gen_latency=1524.22ms, decode_latency=1.93ms, total_latency=1531.41ms
+latency_per_output_token=12.25ms/tok
+output_tok_per_sec=81.62tok/sec

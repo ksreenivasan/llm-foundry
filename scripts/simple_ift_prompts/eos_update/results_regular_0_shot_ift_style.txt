@@ -76,17 +76,17 @@ What is postmodernism?
 ### Instruction:
 Sea or Mountain
 ### Response:
-[0mMountai
+[0mMountain
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
 What s epigenomics?
 ### Response:
 ### Response:
-[0mEpigenomics is the study of how the environment and lifestyle affect the expression of genes. Epigenetics is the study of how the environment and lifestyle affect the expression of genes. Epigenetics is the study of how the environment and lifestyle affect the expression of genes. Epigenetics is the study of how the environment and lifestyle affect the expression of genes. Epigenetics is the study of how the environment and lifestyle affect the expression of genes. Epigenetics is the study of how the environm
+[0mEpigenomics is the study of how the environment and lifestyle affect the expression of genes. Epigenetics is the study of how the environment and lifestyle affect the expression of genes. Epigenetics is the study of how the environment and lifestyle affect the expression of genes. Epigenetics is the study of how the environment and lifestyle affect the expression of genes. Epigenetics is the study of how the environment and lifestyle affect the expression of genes. Epigenetics is the study of how the environment
 ####################################################################################################
 bs=10, input_tokens=array([44, 34, 42, 51, 35, 51, 36, 34, 31, 37]), output_tokens=array([  5,  15,   6,  56,  69,  50,  50,  61,   2, 100])
 total_input_tokens=395, total_output_tokens=414
-encode_latency=4.21ms, gen_latency=3166.15ms, decode_latency=1.76ms, total_latency=3172.13ms
-latency_per_output_token=7.66ms/tok
-output_tok_per_sec=130.51tok/sec
+encode_latency=4.93ms, gen_latency=3918.36ms, decode_latency=3.34ms, total_latency=3926.63ms
+latency_per_output_token=9.48ms/tok
+output_tok_per_sec=105.43tok/sec

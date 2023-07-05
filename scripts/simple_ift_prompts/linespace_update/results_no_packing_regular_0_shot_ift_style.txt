@@ -32,7 +32,7 @@ What athlete created the 'beast quake' for the Seattle Seahawks?
 Who wrote Democracy in America?
 
 ### Response:
-[0mDemocracy in America was written by Alexis de Tocquevill
+[0mDemocracy in America was written by Alexis de Tocqueville
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 
@@ -40,7 +40,7 @@ Who wrote Democracy in America?
 What links Brazil, Uruguay, Mozambique and Angola
 
 ### Response:
-[0mPortugues
+[0mPortuguese
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 
@@ -60,7 +60,7 @@ Extract the causes of income inequality in the United States mentioned in the te
 Do you really need mobile phone?
 
 ### Response:
-[0mMobile phone is a necessity in today's world. It is a device that helps you to connect with your loved ones, friends, colleagues, and customers. It is a device that helps you to stay connected with the world. It is a device that helps you to stay updated with the latest news and events. It is a device that helps you to stay in touch with your customers. It is a device that helps you to stay in touch with your friends. It is a device that helps you 
+[0mMobile phone is a necessity in today's world. It is a device that helps you to connect with your loved ones, friends, colleagues, and customers. It is a device that helps you to stay connected with the world. It is a device that helps you to stay updated with the latest news and events. It is a device that helps you to stay in touch with your customers. It is a device that helps you to stay in touch with your friends. It is a device that helps you to
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 
@@ -95,7 +95,7 @@ What is postmodernism?
 Sea or Mountain
 
 ### Response:
-[0mMountai
+[0mMountain
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 
@@ -108,6 +108,6 @@ What s epigenomics?
 ####################################################################################################
 bs=10, input_tokens=array([46, 36, 44, 53, 37, 53, 38, 36, 33, 39]), output_tokens=array([  5,  14,   1,  39, 100, 100,   3, 100,   2,  74])
 total_input_tokens=415, total_output_tokens=438
-encode_latency=4.54ms, gen_latency=2419.11ms, decode_latency=1.60ms, total_latency=2425.25ms
-latency_per_output_token=5.54ms/tok
-output_tok_per_sec=180.60tok/sec
+encode_latency=6.47ms, gen_latency=3305.17ms, decode_latency=7.21ms, total_latency=3318.85ms
+latency_per_output_token=7.58ms/tok
+output_tok_per_sec=131.97tok/sec

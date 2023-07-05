@@ -168,7 +168,7 @@ What is postmodernism?
 ### End
 Below is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
-What is th
+What is the
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -263,7 +263,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 ### Instruction:
 Tell me which of the following are tropical fruits: Passion fruit, Lychee, Apple, Strawberry
 ### Response:
-[0mPassion fruit, Lychee, Mango, Pineapple, Papaya, Guava, Banana, Avocado, Kiwi, Papaya, Guava, Mango, Papaya, Guava, Mango, Papaya, Guava, Mango, Papaya, Guava, Mango, Papaya, Guava, Mango, Papaya, Guava, Mango, Papaya, Guava, Mango, Papaya, Guava, Mang
+[0mPassion fruit, Lychee, Mango, Pineapple, Papaya, Guava, Banana, Avocado, Kiwi, Papaya, Guava, Mango, Papaya, Guava, Mango, Papaya, Guava, Mango, Papaya, Guava, Mango, Papaya, Guava, Mango, Papaya, Guava, Mango, Papaya, Guava, Mango, Papaya, Guava, Mango
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 ### Instruction:
@@ -341,6 +341,6 @@ New York
 ####################################################################################################
 bs=10, input_tokens=array([202, 186, 202, 187, 185, 182, 184, 202, 189, 194]), output_tokens=array([100, 100, 100, 100, 100, 100, 100, 100, 100, 100])
 total_input_tokens=1913, total_output_tokens=1000
-encode_latency=6.16ms, gen_latency=5198.06ms, decode_latency=1.62ms, total_latency=5205.84ms
-latency_per_output_token=5.21ms/tok
-output_tok_per_sec=192.09tok/sec
+encode_latency=7.73ms, gen_latency=5688.14ms, decode_latency=3.16ms, total_latency=5699.03ms
+latency_per_output_token=5.70ms/tok
+output_tok_per_sec=175.47tok/sec

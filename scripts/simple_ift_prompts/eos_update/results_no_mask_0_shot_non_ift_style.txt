@@ -20,7 +20,7 @@ Generating responses...
 ####################################################################################################
 [92mWhat athlete created the 'beast quake' for the Seattle Seahawks?[0m
 The Beast Quake is a term used to describe the Seattle Seahawks' victory over the New England Patriots in Super Bowl XLIX. The Beast Quake is a reference to the earthquake that occurred in the Seattle area during the game. The Beast Quake is a reference to the earthquake that occurred in the Seattle area during the game.
-The Beast Quake is a term used to describe the Seattle Seahawks' victory over the New England Patriots in Super Bowl XLIX. The Beast Quak
+The Beast Quake is a term used to describe the Seattle Seahawks' victory over the New England Patriots in Super Bowl XLIX. The Beast Quake
 ####################################################################################################
 [92mWho wrote Democracy in America?[0m
 Democracy in America is a book by Alexis de Tocqueville, a French political thinker and diplomat. It was published in 1835.
@@ -32,19 +32,19 @@ The main idea of Democracy in America is that the United States is a unique coun
 [92mWhat links Brazil, Uruguay, Mozambique and Angola[0m?
 The answer is that they are all countries in which the World Bank has been involved in the development of a national strategy for the management of solid waste.
 The World Bank has been working with the governments of these countries to develop a national strategy for the management of solid waste.
-The World Bank has been working with the governments of these countries to develop a national strategy for the management of solid waste. The strategy is based on the principles of the circular economy, which aims to reduce the amou
+The World Bank has been working with the governments of these countries to develop a national strategy for the management of solid waste. The strategy is based on the principles of the circular economy, which aims to reduce the amount
 ####################################################################################################
 [92mExtract the causes of income inequality in the United States mentioned in the text. Separate them with a comma.[0m
 The causes of income inequality in the United States are complex and multifaceted. The most important factors are the unequal distribution of wealth and the unequal distribution of power. The unequal distribution of wealth is due to the unequal distribution of income, which is due to the unequal distribution of education, which is due to the unequal distribution of wealth. The unequal distribution of power is due to the unequal distribution of political power, which is due to the unequal distribution of wealth.
 The unequal distribution of wealth is
 ####################################################################################################
 [92mDo you really need mobile phone?[0m
-I have a mobile phone. I use it to call people. I use it to text people. I use it to take photos. I use it to check the weather. I use it to check the news. I use it to check the time. I use it to check the traffic. I use it to check the stock market. I use it to check the sports scores. I use it to check the weather. I use it to check the news. I use it to check th
+I have a mobile phone. I use it to call people. I use it to text people. I use it to take photos. I use it to check the weather. I use it to check the news. I use it to check the time. I use it to check the traffic. I use it to check the stock market. I use it to check the sports scores. I use it to check the weather. I use it to check the news. I use it to check the
 ####################################################################################################
 [92mQ: Am I eligible for a booster dose of a COVID-19 vaccine, and if so, which one?[0m
 A: The CDC recommends that everyone 12 years of age and older get a booster dose of a COVID-19 vaccine at least six months after their second dose. The CDC recommends that people get a booster dose of the same vaccine they received for their primary series.
 Q: I have a medical condition that makes me more vulnerable to COVID-19. Can I get a booster dose of a COVID-19 vaccine?
-A: Yes, people with certain medical conditions are eligible for a booster dos
+A: Yes, people with certain medical conditions are eligible for a booster dose
 ####################################################################################################
 [92mPancakes or waffles?[0m I’ve always been a pancake girl, but I’ve been trying to branch out. I’ve been making waffles more often lately, and I’ve been really enjoying them. I’ve been making them with a mix, but I’ve been thinking about making them from scratch. I’ve been looking at recipes, and I’ve been thinking about how to make them. I’ve been thinking about how to make them healthier. I’ve been thinking
 ####################################################################################################
@@ -57,10 +57,10 @@ I have been to both and I have to say that I prefer the mountains. I love the fr
 [92mWhat s epigenomics?[0m
 Epigenomics is the study of how the environment influences the expression of genes. Epigenetics is the study of how the environment influences the expression of genes. Epigenetics is the study of how the environment influences the expression of genes.
 What is epigenetics and how does it work?
-Epigenetics is the study of how the environment influences the expression of genes. Epigenetics is the study of how the environment influences the expression of genes. Epigenetics is the study 
+Epigenetics is the study of how the environment influences the expression of genes. Epigenetics is the study of how the environment influences the expression of genes. Epigenetics is the study of
 ####################################################################################################
 bs=10, input_tokens=array([16,  6, 14, 23,  7, 23,  8,  6,  3,  5]), output_tokens=array([100, 100, 100, 100, 100, 100, 100, 100, 100, 100])
 total_input_tokens=111, total_output_tokens=1000
-encode_latency=2.64ms, gen_latency=2281.72ms, decode_latency=1.48ms, total_latency=2285.84ms
-latency_per_output_token=2.29ms/tok
-output_tok_per_sec=437.48tok/sec
+encode_latency=5.46ms, gen_latency=3476.19ms, decode_latency=3.67ms, total_latency=3485.32ms
+latency_per_output_token=3.49ms/tok
+output_tok_per_sec=286.92tok/sec

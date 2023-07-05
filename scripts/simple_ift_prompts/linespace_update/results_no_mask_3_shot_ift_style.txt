@@ -192,7 +192,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 Sea or Mountain
 
 ### Response:
-[0mMountai
+[0mMountain
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 
@@ -221,7 +221,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 What s epigenomics?
 
 ### Response:
-[0mThe study of how genes are turned on and 
+[0mThe study of how genes are turned on and off
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 
@@ -250,7 +250,7 @@ Below is an instruction that describes a task. Write a response that appropriate
 Tell me which of the following are tropical fruits: Passion fruit, Lychee, Apple, Strawberry
 
 ### Response:
-[0mPassion fruit, Lychee, Mang
+[0mPassion fruit, Lychee, Mango
 ####################################################################################################
 [92mBelow is an instruction that describes a task. Write a response that appropriately completes the request.
 
@@ -313,6 +313,6 @@ Which is a species of fish? Tetra or Quart
 ####################################################################################################
 bs=10, input_tokens=array([201, 185, 201, 186, 184, 181, 183, 201, 188, 193]), output_tokens=array([26, 12, 31,  3, 21,  2, 10, 10,  2,  2])
 total_input_tokens=1903, total_output_tokens=119
-encode_latency=5.98ms, gen_latency=977.17ms, decode_latency=1.29ms, total_latency=984.44ms
-latency_per_output_token=8.27ms/tok
-output_tok_per_sec=120.88tok/sec
+encode_latency=8.82ms, gen_latency=1198.04ms, decode_latency=3.56ms, total_latency=1210.42ms
+latency_per_output_token=10.17ms/tok
+output_tok_per_sec=98.31tok/sec
