@@ -46,6 +46,7 @@ do
     --max_new_tokens 10 \
     --temperature 0 \
     --model_dtype bf16 \
-    --max_batch_size 64 \
-    --prompts file::addition_prompt_files/3_digit_10_fewshot_prompts_without_spaces.txt > addition_prompt_files/ift_analysis/$model_name-10-fewshot-results-0-temp-without-spaces.txt
+    --max_batch_size 16 \
+    --ift_style \
+    --prompts file::addition_prompt_files/3_digit_10_fewshot_ift_style_prompts_without_spaces.txt > addition_prompt_files/ift_analysis/$model_name-10-fewshot-ift-style-results-0-temp-without-spaces.txt
 done
