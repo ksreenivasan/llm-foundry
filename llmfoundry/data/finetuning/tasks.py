@@ -651,6 +651,20 @@ def dolly_preprocessing_function(inp: Dict) -> Dict[str, str]:
             f'Unable to extract prompt/response from {inp=}') from e
     return {'prompt': prompt, 'response': response}
 
+@dataset_constructor.register('gsm8k')
+def gsm8k_preprocessing_function(inp: Dict) -> Dict[str, str]:
+    """Format the text string."""
+    PROMPT_FORMAT = 'Below is a math problem. Let\'s think step by step, solve it carefully and output the answer. Make sure to use"#### as a delimiter to separate your thinking and the final answer.\n\n#### Q:\n{question}\n\n#### Answer:\n'
+    try:
+        question = inp['question']
+        prompt = PROMPT_FORMAT.format(question=question)
+        answer = inp['answer']
+    except Exception as e:
+        raise ValueError(
+            f'Unable to extract prompt/response from {inp=}') from e
+    return {'prompt': prompt, 'response': answer}
+
+
 
 @dataset_constructor.register('bigscience/P3')
 def p3_preprocessing_function(inp: Dict) -> Dict[str, str]:
