@@ -758,7 +758,8 @@ def dolly_preprocessing_function(inp: Dict) -> Dict[str, str]:
 @dataset_constructor.register('gsm8k')
 def gsm8k_preprocessing_function(inp: Dict) -> Dict[str, str]:
     """Format the text string."""
-    PROMPT_FORMAT = 'Below is a math problem. Let\'s think step by step, solve it carefully and output the answer. Make sure to use #### as a delimiter to separate your thinking and the final answer.\n\n#### Q:\n{question}\n\n#### Answer:\n'
+    COMPLEX_PROMPT_FORMAT = 'Below is a math problem. Let\'s think step by step, solve it carefully and output the answer. Make sure to use #### as a delimiter to separate your thinking and the final answer.\n\n#### Q:\n{question}\n\n#### Answer:\n'
+    PROMPT_FORMAT = 'Q:\n{question}\n\nA:\n'
     try:
         question = inp['question']
         prompt = PROMPT_FORMAT.format(question=question)
