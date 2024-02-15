@@ -775,7 +775,7 @@ def metamath_preprocessing_function(inp: Dict) -> Dict[str, str]:
     PROMPT_FORMAT = 'Q:\n{question}\n\nA:\n'
     try:
         question = inp['query']
-        prompt = PROMPT_FORMAT.format(question=question)
+        prompt = COMPLEX_PROMPT_FORMAT.format(question=question)
         answer = inp['response']
     except Exception as e:
         raise ValueError(
