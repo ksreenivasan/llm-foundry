@@ -25,6 +25,7 @@ composer scripts/inference/hf_generate_gsm8k.py \
     --name_or_path /mnt/workdisk/kartik/saved_ckpts/mpt-7b-base-gsm8k-ft \
     --temperature 0.7 \
     --model_dtype bf16 \
+    --num-few-shot 0 \
     --max_batch_size 4 # 16
 
 composer scripts/inference/hf_generate_gsm8k.py \
@@ -43,6 +44,7 @@ composer scripts/inference/hf_generate_gsm8k.py \
     --name_or_path /mnt/workdisk/kartik/saved_ckpts/mpt-7b-base-metamathqa-ft \
     --temperature 0.7 \
     --model_dtype bf16 \
+    --num-few-shot 0 \
     --max_batch_size 4 # 16
 
 composer scripts/inference/hf_generate_gsm8k.py \

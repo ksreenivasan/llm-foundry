@@ -244,8 +244,8 @@ def main(args: Namespace) -> None:
 
     for split in ['train', 'test']:
         prompts = dataset[split]
-        questions = prompts['question'][:1000]
-        answers = prompts['answer'][:1000]
+        questions = prompts['question'][:100]
+        answers = prompts['answer'][:100]
         prompt_strings = questions
         model_generations = []
 
