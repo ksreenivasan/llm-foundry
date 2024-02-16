@@ -132,6 +132,7 @@ def parse_args() -> Namespace:
     parser.add_argument('--attn_impl', type=str, default=None)
     parser.add_argument('--num-few-shot', type=int, default=8)
     parser.add_argument('--prompt-format', type=str, default=None)
+    parser.add_argument('--output-file-name', type=str, default=None)
     return parser.parse_args()
 
 
@@ -411,7 +412,10 @@ def main(args: Namespace) -> None:
         results_df = pd.DataFrame(results_dict)
         # hacky
         model_name = args.name_or_path.split('/')[-1]
-        results_df.to_csv(f'{model_name}_{args.num_few_shot}_shot_gsm8k_generations.csv')
+        if args.output_file_name is not None:
+            results_df.to_csv(args.output_file_name)
+        else:
+            results_df.to_csv(f'{model_name}_{args.num_few_shot}_shot_gsm8k_generations.csv')
         # write results_df to obj storage
 
 

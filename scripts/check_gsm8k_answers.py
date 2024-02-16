@@ -24,6 +24,7 @@ filename = f'{model_list[0]}_{num_few_shot}_shot_gsm8k_generations.csv'
 df = pd.read_csv('mpt-7b-chat-gsm8k-ft-hf_0_shot_gsm8k_generations.csv')
 
 def pretty_print(df, split='train', idx=None):
+    IS_CORRECT=False
     if idx == None:
         print("Index not passed, picking a random row.")
         idx = np.random.randint(0, len(df))
@@ -35,7 +36,17 @@ def pretty_print(df, split='train', idx=None):
     if actual_answer in row['model_generation']:
         pretty_generation = row['model_generation'].replace(actual_answer, f"{bcolors.UNDERLINE}{bcolors.OKGREEN}{actual_answer}{bcolors.ENDC}")
         print(f"Generated Answer:\n{pretty_generation}\n\n")
+        IS_CORRECT=True
     else:
         # print generated answers in red
         print(f"Generated Answer:\n{bcolors.FAIL}{row['model_generation']}{bcolors.ENDC}\n\n")
+    
+    if IS_CORRECT:
+        print(f"{bcolors.OKGREEN}It actually got it right!{bcolors.ENDC}")
+    else:
+        print(f"{bcolors.FAIL}Boo. Got it wrong.{bcolors.ENDC}")
+    return IS_CORRECT
 
+pretty_print(df, split='train', idx=0)
+pretty_print(df, split='train')
+pretty_print(df, split='test')
