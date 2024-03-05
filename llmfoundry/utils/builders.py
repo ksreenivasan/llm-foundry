@@ -11,9 +11,8 @@ from typing import Any, Dict, Iterable, List, Optional, Tuple, Union
 
 import torch
 from composer import algorithms
-from composer.callbacks import (EarlyStopper, Generate, LRMonitor,
-                                MemoryMonitor, MemorySnapshot, OOMObserver,
-                                OptimizerMonitor, RuntimeEstimator,
+from composer.callbacks import (EarlyStopper, Generate, LRMonitor, MemoryMonitor,
+                                OptimizerMonitor, RuntimeEstimator, EvalOutputLogging,
                                 SpeedMonitor)
 from composer.core import Algorithm, Callback, Evaluator
 from composer.datasets.in_context_learning_evaluation import \
@@ -212,6 +211,8 @@ def build_callback(
         if isinstance(kwargs, DictConfig):
             kwargs = om.to_object(kwargs)  # pyright: ignore
         return HuggingFaceCheckpointer(**kwargs)
+    elif name == 'eval_output_logging':
+        return EvalOutputLogging(**kwargs)
     elif name == 'async_eval':
         if config is None:
             raise ValueError(

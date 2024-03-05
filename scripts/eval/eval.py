@@ -7,6 +7,7 @@ import os
 import sys
 import time
 import warnings
+from composer.core.callback import Callback
 from typing import Any, Dict, List, Optional, Tuple, Union
 
 import pandas as pd
@@ -23,7 +24,7 @@ from transformers import PreTrainedTokenizerBase
 
 install()
 from llmfoundry.models.model_registry import COMPOSER_MODEL_REGISTRY
-from llmfoundry.utils.builders import (add_metrics_to_eval_loaders,
+from llmfoundry.utils.builders import (add_metrics_to_eval_loaders, build_callback,
                                        build_evaluators, build_logger,
                                        build_tokenizer)
 from llmfoundry.utils.config_utils import (log_config, pop_config,
@@ -74,6 +75,7 @@ def evaluate_model(
     eval_gauntlet_df: Optional[pd.DataFrame],
     eval_subset_num_batches: int,
     icl_subset_num_batches: Optional[int],
+    callback_configs: Optional[Dict],
     metadata: Optional[Dict[str, str]],
     logged_config: DictConfig,
     should_log_config: bool = True,
@@ -98,7 +100,12 @@ def evaluate_model(
         icl_subset_num_batches=icl_subset_num_batches,
     )
 
-    callbacks = []
+    # Callbacks
+    callbacks: List[Callback] = [
+        build_callback(str(name), callback_cfg)
+        for name, callback_cfg in callback_configs.items()
+    ] if callback_configs else []
+
     if eval_gauntlet_callback is not None:
         callbacks.append(eval_gauntlet_callback)
 
@@ -264,7 +271,11 @@ def main(cfg: DictConfig) -> Tuple[List[Trainer], pd.DataFrame]:
 
     # Pop out interpolation variables.
     pop_config(cfg, 'model_name_or_path', must_exist=False, default_value=None)
-
+    callback_configs: Optional[DictConfig] = pop_config(cfg,
+                                                        'callbacks',
+                                                        must_exist=False,
+                                                        default_value=None)
+    
     # Warn for unused parameters
     for key in cfg:
         warnings.warn(
@@ -305,6 +316,7 @@ def main(cfg: DictConfig) -> Tuple[List[Trainer], pd.DataFrame]:
              python_log_level=python_log_level,
              precision=precision,
              eval_gauntlet_df=eval_gauntlet_df,
+             callback_configs=callback_configs,
              eval_subset_num_batches=eval_subset_num_batches,
              icl_subset_num_batches=icl_subset_num_batches,
              metadata=metadata,
